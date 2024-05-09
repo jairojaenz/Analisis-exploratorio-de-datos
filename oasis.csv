@@ -1,0 +1,1001 @@
+album_release_date,album_release_year,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,disc_number,duration_ms,explicit,is_local,track_name,track_number,album_name,key_name,mode_name,key_mode
+2024-01-28,2011,0.8792,0.753,4,-14.4127,1,0.13994,0.446125,0.762794,5.868635,3182,true,true,Rapid Runway,4,Electric Pulse,B,melodic minor,Bb minor
+2021-06-11,2015,0.7583,0.374,16,-54.2046,1,0.32944,0.168946,0.741761,0.924982,2096,false,true,Swift Circuit,6,Velvet Twilight,A,pentatonic major,Bmaj7
+2024-03-19,2020,0.9436,0.493,16,-90.4643,1,0.6903,0.286437,0.164708,1.259425,8707,true,false,Fast Track,14,Midnight Serenade,C,phrygian minor,Bb minor
+2023-12-23,2020,0.4703,0.549,14,-89.2968,0,0.81751,0.121787,0.496991,5.945936,8527,true,false,Quick Path,13,Crystal Waters,A,locrian minor,B minor
+2023-07-07,2012,0.2661,0.818,4,-52.0703,1,0.34354,0.758322,0.818938,5.338877,6430,true,true,Rapid Runway,12,Midnight Serenade,C,phrygian minor,Bmaj7
+2021-07-18,0,0.6989,0.065,3,-27.458,1,0.13657,0.990162,0.442513,4.091686,3747,false,true,Swift Circuit,7,Neon Nights,C,dorian minor,Bb minor
+2023-04-23,2006,0.2169,0.654,20,-54.6046,0,0.59561,0.919984,0.049639,5.839727,1348,false,true,Quick Path,6,Golden Horizon,B,harmonic minor,Bmin
+2022-09-30,2010,0.5752,0.777,14,-3.6857,0,0.18112,0.445091,0.967618,4.585711,7095,true,false,Quick Path,17,Moonlit Melodies,D,dorian minor,Bmin
+2021-05-07,2018,0.0546,0.993,13,-34.3537,1,0.32847,0.847215,0.694431,7.414169,7602,false,false,Quick Path,12,Wildfire Echoes,D,ionian major,B major
+2021-05-04,2014,0.9576,0.927,3,-93.9487,0,0.90681,0.862055,0.253798,3.852191,1130,false,true,Swift Circuit,12,Velvet Twilight,C,aeolian minor,Bm
+2022-06-17,2004,0.7369,0.414,8,-75.8784,1,0.98964,0.896837,0.058347,1.510669,9543,false,true,Speedy Lane,9,Electric Pulse,C,phrygian minor,Bmaj
+2022-06-07,2011,0.0694,0.513,5,-67.8818,0,0.29333,0.238784,0.204199,0.976707,7894,true,false,Swift Circuit,3,Electric Pulse,A,lydian major,Bb minor
+2022-08-13,2010,0.7263,0.26,13,-67.4157,1,0.45848,0.215475,0.016339,8.230661,5069,false,false,Swift Circuit,1,Wildfire Echoes,A,lydian major,Bm
+2023-05-05,2015,0.3202,0.193,5,-27.3603,1,0.22532,0.853529,0.979971,4.435892,5526,false,false,Swift Circuit,3,Velvet Twilight,D,ionian major,Bmin
+2021-09-02,2014,0.4915,0.666,1,-39.2629,1,0.76456,0.016798,0.580808,7.760531,8723,true,true,Quick Path,19,Velvet Twilight,C,harmonic minor,Bb major
+2022-07-22,2014,0.3791,0.072,11,-84.5714,0,0.88024,0.132841,0.181729,3.670725,2533,true,false,Swift Circuit,12,Crystal Waters,C,phrygian minor,Bb major
+2021-10-17,2008,0.954,0.876,4,-14.8653,0,0.98118,0.527047,0.929176,0.041129,665,false,false,Quick Path,5,Midnight Serenade,A,aeolian minor,B# minor
+2023-07-29,0,0.9569,0.117,17,-59.7665,1,0.57292,0.066424,0.045426,0.25816,6097,true,true,Speedy Lane,6,Sunset Dreams,A,harmonic minor,B# minor
+2021-03-01,2004,0.7293,0.089,7,-18.6638,1,0.42111,0.873446,0.461983,8.580672,5215,false,false,Speedy Lane,4,Wildfire Echoes,C,pentatonic major,B minor
+2021-06-07,2006,0.3926,0.058,14,-51.2642,0,0.96721,0.058718,0.731644,2.374172,2187,true,false,Quick Path,3,Neon Nights,B,locrian minor,Bb minor
+2022-03-10,2010,0.0248,0.747,11,-12.2462,1,0.39021,0.569174,0.336422,5.231298,2829,true,true,Swift Circuit,19,Neon Nights,B,melodic minor,Bm
+2022-03-14,2009,0.5381,0.682,2,-66.5781,0,0.26495,0.05687,0.014428,0.750081,6401,true,true,Fast Track,10,Neon Nights,A,mixolydian major,B# major
+2020-12-21,2004,0.7679,0.378,15,-88.6454,0,0.52201,0.956742,0.8988,8.202841,5296,false,true,Rapid Runway,3,Crystal Waters,D,ionian major,B major
+2021-10-18,2015,0.6464,0.927,9,-18.044,1,0.91572,0.882084,0.586958,0.397397,8164,true,false,Swift Circuit,5,Electric Pulse,C,lydian major,Bmaj
+2023-11-03,0,0.3217,0.749,1,-42.8981,1,0.64031,0.2027,0.962847,3.536134,588,false,true,Fast Track,7,Neon Nights,C,ionian major,Bm
+2023-03-20,2004,0.1438,0.529,4,-42.6318,0,0.48163,0.089128,0.60941,8.812741,1379,true,false,Speedy Lane,19,Midnight Serenade,A,melodic minor,B# minor
+2024-03-03,2013,0.2187,0.147,7,-10.9894,0,0.47985,0.520033,0.146068,8.738861,4244,true,false,Rapid Runway,8,Wildfire Echoes,D,ionian major,B# minor
+2023-08-03,2014,0.8394,0.784,14,-39.557,1,0.00954,0.031475,0.542477,9.790155,5893,false,false,Fast Track,18,Crystal Waters,B,dorian minor,B# major
+2021-06-14,2012,0.4645,0.88,10,-96.663,1,0.37131,0.51213,0.853377,8.315552,1783,false,false,Swift Circuit,13,Midnight Serenade,D,phrygian minor,B# minor
+2021-08-10,0,0.5047,0.3,5,-66.8849,1,0.82598,0.603634,0.608571,7.175571,8360,true,true,Fast Track,20,Starlight Symphony,A,melodic minor,B minor
+2022-07-19,2015,0.4958,0.04,15,-32.6084,1,0.90349,0.913733,0.745329,8.659977,6040,true,false,Swift Circuit,7,Wildfire Echoes,C,aeolian minor,B major
+2021-12-30,2015,0.7468,0.816,4,-99.7803,0,0.49071,0.76368,0.366228,3.062248,9203,true,false,Speedy Lane,15,Electric Pulse,C,harmonic minor,Bm
+2021-07-22,2014,0.2466,0.52,13,-4.3664,1,0.17423,0.27354,0.814773,7.67982,1854,false,false,Quick Path,1,Starlight Symphony,A,lydian major,Bmaj
+2021-02-15,0,0.1935,0.743,3,-44.61,1,0.25662,0.02981,0.313523,1.530886,7366,false,false,Quick Path,8,Moonlit Melodies,B,lydian major,B# minor
+2024-04-07,2015,0.11,0.87,2,-57.3944,0,0.99085,0.614797,0.977856,3.13018,3219,false,false,Rapid Runway,7,Velvet Twilight,D,ionian major,Bb minor
+2022-09-30,2010,0.2945,0.681,19,-9.1818,0,0.54785,0.212256,0.404821,0.94313,2963,false,false,Rapid Runway,20,Golden Horizon,D,phrygian minor,B major
+2021-05-24,2020,0.15,0.258,18,-33.4182,1,0.49316,0.345035,0.94247,8.047561,3729,true,false,Rapid Runway,6,Sunset Dreams,B,mixolydian major,Bmaj7
+2020-12-06,2011,0.0984,0.104,13,-59.5788,1,0.74172,0.428478,0.805182,8.197129,5632,false,true,Quick Path,15,Moonlit Melodies,B,mixolydian major,B# major
+2023-06-18,2007,0.7622,0.076,18,-95.499,0,0.74403,0.66266,0.852829,1.569824,7976,false,true,Speedy Lane,5,Wildfire Echoes,D,phrygian minor,B# major
+2021-10-08,2020,0.3059,0.133,5,-68.7057,1,0.25337,0.975017,0.858509,5.342535,9536,true,false,Swift Circuit,15,Moonlit Melodies,A,aeolian minor,Bb major
+2023-05-24,2008,0.1291,0.252,15,-70.9293,0,0.07891,0.211999,0.020017,6.570174,2795,true,true,Swift Circuit,1,Golden Horizon,B,mixolydian major,Bmin
+2022-04-06,2014,0.5854,0.718,16,-23.3542,0,0.9664,0.176866,0.352981,1.846618,5133,true,true,Rapid Runway,18,Starlight Symphony,C,mixolydian major,Bb major
+2024-04-10,2003,0.1681,0.814,3,-80.8142,1,0.77785,0.784105,0.312537,1.828971,7166,true,true,Swift Circuit,4,Moonlit Melodies,B,dorian minor,Bmaj7
+2024-02-28,2010,0.5219,0.483,14,-89.7189,1,0.44225,0.013159,0.251395,4.36885,2204,true,true,Rapid Runway,17,Moonlit Melodies,C,aeolian minor,Bb major
+2024-03-27,2006,0.4048,0.425,5,-39.3512,0,0.16366,0.351547,0.872061,8.872811,6267,true,true,Swift Circuit,12,Golden Horizon,B,dorian minor,Bmaj7
+2022-02-01,2015,0.7171,0.493,1,-13.3857,1,0.5363,0.491846,0.398482,6.926494,9299,false,false,Rapid Runway,3,Crystal Waters,D,dorian minor,Bb major
+2024-04-07,2010,0.5892,0.401,12,-7.6214,1,0.34158,0.429542,0.166303,9.580972,4154,false,false,Fast Track,14,Moonlit Melodies,D,aeolian minor,Bmaj
+2022-04-22,2012,0.6224,0.755,3,-70.458,0,0.50416,0.074217,0.898438,0.936377,7435,true,true,Rapid Runway,13,Moonlit Melodies,D,mixolydian major,Bmaj7
+2023-09-01,2006,0.4936,0.227,9,-10.0579,0,0.01896,0.184173,0.303401,4.92408,2729,false,true,Rapid Runway,3,Velvet Twilight,D,locrian minor,B# major
+2022-09-13,2015,0.7447,0.748,12,-58.1851,1,0.41093,0.256274,0.142163,3.910626,8100,false,false,Swift Circuit,19,Moonlit Melodies,C,locrian minor,Bmaj7
+2023-02-19,2002,0.9147,0.888,20,-91.9135,1,0.28494,0.62283,0.498877,2.736462,6221,true,false,Fast Track,8,Moonlit Melodies,A,aeolian minor,Bm
+2021-02-17,2011,0.1264,0.538,12,-67.3059,0,0.35883,0.214508,0.307049,7.643914,6709,true,false,Fast Track,7,Midnight Serenade,C,dorian minor,Bmaj7
+2023-08-09,2016,0.0875,0.759,12,-14.1126,1,0.82484,0.987725,0.275916,6.760427,8138,false,false,Quick Path,4,Sunset Dreams,B,lydian major,B major
+2020-12-29,2016,0.4969,0.073,10,-73.334,0,0.05887,0.154499,0.785814,4.341244,8821,true,true,Rapid Runway,1,Crystal Waters,A,dorian minor,Bmin
+2020-12-27,2007,0.3558,0.526,13,-40.9187,1,0.49989,0.432347,0.845911,6.258601,966,false,true,Fast Track,11,Golden Horizon,A,aeolian minor,Bmaj7
+2022-03-18,2016,0.2698,0.233,17,-85.5957,0,0.00297,0.859636,0.544397,1.007413,535,true,true,Quick Path,12,Midnight Serenade,A,harmonic minor,Bmaj7
+2023-11-24,2003,0.2201,0.958,5,-14.3217,0,0.09264,0.733228,0.87297,8.338795,3965,true,true,Swift Circuit,7,Starlight Symphony,C,dorian minor,B minor
+2023-10-01,2020,0.5684,0.994,10,-70.8877,1,0.33935,0.351965,0.086491,8.745146,1738,true,false,Fast Track,3,Velvet Twilight,C,locrian minor,Bmaj
+2022-01-07,2013,0.487,0.737,8,-78.0262,0,0.71161,0.525706,0.665221,2.028761,3404,false,false,Quick Path,1,Velvet Twilight,A,aeolian minor,Bmaj7
+2021-04-10,2021,0.0723,0.338,15,-20.8783,1,0.19246,0.671653,0.127932,5.282009,6211,true,true,Quick Path,20,Crystal Waters,A,phrygian minor,Bmaj7
+2022-01-05,2000,0.0523,0.615,13,-80.3835,0,0.31363,0.282389,0.700836,8.992712,7234,false,false,Quick Path,2,Crystal Waters,C,lydian major,Bmaj
+2023-01-27,2017,0.0398,0.757,1,-19.9489,1,0.02222,0.61031,0.262168,3.705099,2272,true,true,Speedy Lane,18,Moonlit Melodies,D,pentatonic major,Bmin
+2023-04-27,2020,0.7576,0.844,18,-77.9147,0,0.57426,0.878327,0.730673,3.560081,9980,true,true,Swift Circuit,8,Electric Pulse,A,mixolydian major,Bm
+2022-01-16,1999,0.6488,0.615,4,-12.0763,0,0.16548,0.626012,0.558601,1.700301,8224,false,false,Rapid Runway,10,Wildfire Echoes,D,mixolydian major,B minor
+2021-07-28,2015,0.7522,0.473,12,-67.4607,1,0.33166,0.932121,0.354175,2.542445,5929,false,true,Fast Track,2,Sunset Dreams,C,locrian minor,B minor
+2021-10-21,2015,0.9371,0.245,19,-71.25,0,0.04466,0.422077,0.253869,0.48856,6975,true,false,Swift Circuit,9,Electric Pulse,D,locrian minor,Bmin
+2024-01-14,2005,0.759,0.783,4,-54.3969,0,0.0608,0.511365,0.09655,6.247461,736,true,true,Swift Circuit,20,Electric Pulse,A,locrian minor,Bmaj
+2024-03-17,2003,0.1531,0.931,6,-1.6799,1,0.76093,0.812691,0.379213,8.733928,37,true,false,Swift Circuit,17,Midnight Serenade,B,mixolydian major,B# major
+2021-01-18,2006,0.1627,0.89,4,-76.3505,0,0.27632,0.944315,0.373786,3.829091,1788,false,false,Quick Path,17,Moonlit Melodies,A,lydian major,Bmin
+2023-10-08,2009,0.0226,0.338,13,-49.6272,0,0.17397,0.081091,0.509912,7.645926,5068,false,false,Swift Circuit,15,Midnight Serenade,D,melodic minor,B minor
+2023-02-26,2014,0.2801,0.808,7,-64.949,1,0.21214,0.113336,0.395421,7.596188,9942,true,false,Rapid Runway,7,Moonlit Melodies,C,lydian major,Bmaj
+2022-03-08,2020,0.4634,0.48,19,-53.7292,0,0.98397,0.805082,0.66982,6.847103,948,false,true,Quick Path,16,Crystal Waters,D,phrygian minor,Bb minor
+2022-08-02,2019,0.0816,0.381,20,-73.5817,0,0.50369,0.590094,0.81576,0.549474,406,false,true,Rapid Runway,15,Golden Horizon,C,melodic minor,B minor
+2021-08-19,2014,0.7093,0.248,14,-9.2621,0,0.0112,0.810609,0.724855,4.039606,5403,false,true,Swift Circuit,1,Electric Pulse,B,ionian major,Bmaj
+2022-10-07,2020,0.1361,0.28,10,-17.946,0,0.25095,0.132681,0.937204,7.136714,2924,false,true,Quick Path,4,Golden Horizon,B,ionian major,Bm
+2021-02-13,2013,0.0063,0.127,19,-60.6892,1,0.08164,0.152907,0.456138,8.732029,6076,false,true,Swift Circuit,6,Starlight Symphony,D,harmonic minor,Bb major
+2022-05-09,2011,0.4526,0.021,9,-96.9757,0,0.84642,0.205752,0.048001,2.616839,6251,true,true,Rapid Runway,5,Moonlit Melodies,C,locrian minor,Bmaj
+2021-07-24,2003,0.2565,0.059,2,-47.4481,1,0.23855,0.247548,0.225244,4.000929,2606,false,true,Speedy Lane,2,Wildfire Echoes,D,melodic minor,Bb minor
+2022-11-21,2020,0.1071,0.664,10,-41.4258,1,0.01838,0.783689,0.840037,6.128653,963,false,false,Quick Path,13,Sunset Dreams,C,melodic minor,Bb major
+2022-11-20,2014,0.9193,0.943,14,-26.0715,0,0.83598,0.646947,0.94329,9.767004,5315,false,false,Fast Track,13,Midnight Serenade,A,mixolydian major,B major
+2024-02-20,2007,0.2411,0.882,3,-20.4108,0,0.59026,0.352731,0.839059,0.69877,6158,true,false,Quick Path,5,Neon Nights,A,ionian major,Bmaj
+2023-07-29,2008,0.9782,0.282,3,-72.1852,1,0.12998,0.992807,0.11094,2.420457,2992,false,false,Quick Path,15,Electric Pulse,C,harmonic minor,Bb minor
+2022-10-13,2010,0.8763,0.541,1,-62.7983,0,0.49276,0.58739,0.126258,9.219851,9852,true,true,Fast Track,5,Electric Pulse,C,phrygian minor,B minor
+2023-12-09,2020,0.1601,0.254,6,-41.2267,1,0.28638,0.679361,0.674034,9.291477,5693,true,false,Fast Track,8,Golden Horizon,A,aeolian minor,Bmaj
+2021-02-23,2015,0.7203,0.661,5,-61.5299,1,0.00502,0.30209,0.337027,4.037408,9651,false,false,Swift Circuit,8,Sunset Dreams,B,dorian minor,B# major
+2021-04-26,2004,0.3733,0.693,18,-80.8205,0,0.20301,0.533885,0.658633,5.176843,4587,false,true,Fast Track,16,Crystal Waters,D,pentatonic major,Bmaj7
+2022-11-05,2008,0.2924,0.336,13,-28.9187,0,0.03143,0.390479,0.75689,0.892829,1368,true,false,Swift Circuit,2,Sunset Dreams,A,locrian minor,B# major
+2023-05-08,2011,0.8045,0.011,15,-65.3798,0,0.23292,0.796475,0.961097,1.079932,6630,true,false,Swift Circuit,18,Starlight Symphony,D,phrygian minor,Bmaj
+2024-02-21,2021,0.3609,0.547,19,-87.4104,1,0.81846,0.375879,0.274587,1.394596,5528,false,true,Fast Track,19,Midnight Serenade,A,locrian minor,Bm
+2021-06-02,2009,0.556,0.717,1,-99.4551,0,0.38212,0.992677,0.307011,3.026556,2682,false,false,Fast Track,2,Crystal Waters,D,mixolydian major,B minor
+2021-02-03,2007,0.2841,0.206,13,-17.0293,1,0.15033,0.591496,0.955303,0.032082,4295,false,true,Quick Path,19,Wildfire Echoes,C,mixolydian major,Bmaj
+2023-12-08,2020,0.8239,0.2,11,-3.5148,0,0.24543,0.3181,0.236745,5.848215,4483,true,false,Fast Track,19,Velvet Twilight,A,lydian major,Bmin
+2022-03-05,2020,0.3416,0.964,2,-50.5334,0,0.01303,0.383065,0.787781,3.690658,6488,true,false,Swift Circuit,9,Starlight Symphony,B,harmonic minor,Bb major
+2024-03-01,2011,0.5661,0.012,1,-8.1891,1,0.48702,0.957397,0.534263,3.768448,819,false,false,Swift Circuit,11,Midnight Serenade,B,melodic minor,Bmin
+2021-08-22,2007,0.7506,0.379,16,-47.4059,1,0.38943,0.746375,0.658874,4.588409,5875,false,true,Fast Track,17,Neon Nights,B,pentatonic major,Bb minor
+2020-12-30,2013,0.4564,0.361,9,-78.0879,1,0.99914,0.039411,0.894909,4.780829,1448,true,true,Quick Path,10,Wildfire Echoes,C,ionian major,Bmaj7
+2022-05-10,2008,0.742,0.472,9,-77.875,1,0.73672,0.353173,0.414666,8.445614,6944,true,true,Speedy Lane,11,Electric Pulse,A,locrian minor,B# major
+2024-03-04,2011,0.5373,0.864,4,-31.4115,0,0.46373,0.379039,0.423242,6.887063,3735,true,false,Speedy Lane,8,Velvet Twilight,A,harmonic minor,Bb major
+2024-04-05,2015,0.7445,0.867,17,-26.1804,1,0.89634,0.983293,0.344532,1.852488,298,false,true,Quick Path,7,Midnight Serenade,D,phrygian minor,Bb minor
+2022-01-07,2011,0.8158,0.486,14,-31.7869,1,0.82328,0.036635,0.028302,8.923252,2353,false,true,Fast Track,11,Midnight Serenade,B,lydian major,Bm
+2022-05-04,2013,0.0772,0.891,10,-27.7772,1,0.19008,0.100868,0.697273,3.723657,9662,false,false,Speedy Lane,1,Wildfire Echoes,D,lydian major,Bmaj
+2023-09-25,2011,0.8288,0.131,7,-67.5938,1,0.40721,0.117494,0.756393,5.063929,8142,true,false,Fast Track,11,Wildfire Echoes,D,dorian minor,B minor
+2021-04-24,2020,0.8228,0.322,10,-93.5996,1,0.28753,0.123358,0.831036,8.368001,8042,false,true,Speedy Lane,15,Starlight Symphony,C,harmonic minor,B# minor
+2021-12-26,2014,0.0595,0.661,13,-17.4374,0,0.25156,0.97113,0.791457,1.999625,5913,false,true,Fast Track,14,Wildfire Echoes,D,pentatonic major,Bmin
+2023-04-05,2011,0.3037,0.378,11,-7.6892,0,0.96749,0.945063,0.685633,7.443726,239,false,true,Rapid Runway,15,Starlight Symphony,A,mixolydian major,Bmin
+2023-05-06,2013,0.7896,0.962,2,-91.7808,0,0.94839,0.588677,0.476097,3.197954,351,true,false,Speedy Lane,15,Neon Nights,C,harmonic minor,B major
+2022-10-04,2004,0.4049,0.272,12,-5.7203,0,0.26937,0.807027,0.079549,2.804562,6971,true,false,Quick Path,7,Starlight Symphony,C,lydian major,B major
+2020-12-06,2015,0.9924,0.421,15,-86.802,0,0.59271,0.497569,0.873313,3.259807,672,false,false,Rapid Runway,20,Golden Horizon,B,pentatonic major,B minor
+2022-05-05,2009,0.2495,0.936,6,-45.1591,0,0.5227,0.870597,0.689756,6.033841,5668,false,true,Quick Path,13,Golden Horizon,A,harmonic minor,Bmin
+2022-06-20,2006,0.2957,0.021,5,-18.4261,0,0.33963,0.34659,0.655789,0.824437,6264,true,true,Swift Circuit,5,Wildfire Echoes,C,melodic minor,Bm
+2024-04-10,2017,0.7572,0.024,4,-90.133,0,0.43427,0.439173,0.03346,0.52535,4661,true,false,Quick Path,13,Moonlit Melodies,C,pentatonic major,Bb major
+2024-01-01,2010,0.3306,0.252,9,-41.4032,1,0.66158,0.091669,0.791034,6.022496,4755,false,false,Speedy Lane,7,Velvet Twilight,C,dorian minor,B major
+2023-01-31,2016,0.5419,0.714,6,-52.6279,0,0.29931,0.727416,0.534594,2.601385,6384,true,false,Quick Path,6,Golden Horizon,B,locrian minor,B major
+2021-07-22,2017,0.7377,0.872,1,-41.7378,1,0.34047,0.107681,0.953231,1.248546,3647,false,false,Rapid Runway,17,Moonlit Melodies,B,locrian minor,Bb major
+2022-06-17,2016,0.4556,0.175,15,-19.0463,0,0.88958,0.025016,0.008228,0.72318,6955,false,false,Swift Circuit,6,Wildfire Echoes,A,harmonic minor,B major
+2022-11-10,2008,0.7454,0.911,20,-81.9855,1,0.82009,0.897405,0.969159,3.618494,2133,false,true,Swift Circuit,5,Midnight Serenade,B,locrian minor,Bmaj
+2023-05-22,2014,0.7675,0.44,7,-94.6108,0,0.74755,0.483662,0.098629,1.970165,9368,true,false,Quick Path,2,Moonlit Melodies,A,dorian minor,B major
+2022-08-30,2014,0.2393,0.256,16,-46.1188,1,0.70461,0.151556,0.511053,6.485298,7304,true,true,Speedy Lane,14,Midnight Serenade,C,pentatonic major,Bb minor
+2021-11-09,2015,0.7752,0.486,4,-87.4238,1,0.65655,0.177266,0.131328,4.008429,315,true,true,Fast Track,20,Crystal Waters,D,mixolydian major,B# major
+2022-06-08,2017,0.5477,0.221,1,-5.9051,1,0.81971,0.266066,0.449507,5.47936,5044,false,true,Quick Path,3,Midnight Serenade,D,phrygian minor,B# major
+2021-03-19,2020,0.5367,0.24,17,-71.7008,0,0.96375,0.837472,0.968857,2.175498,5742,true,true,Speedy Lane,7,Velvet Twilight,C,aeolian minor,Bb minor
+2023-03-05,2013,0.9689,0.09,4,-24.0968,1,0.02771,0.409471,0.226263,1.552982,6220,false,false,Quick Path,20,Neon Nights,D,locrian minor,B# minor
+2021-05-15,2018,0.9999,0.883,19,-71.5709,1,0.5457,0.0077,0.904278,2.563932,907,true,true,Speedy Lane,14,Moonlit Melodies,D,pentatonic major,Bm
+2023-03-05,2016,0.3256,0.853,10,-92.7363,1,0.83674,0.48001,0.798128,9.623243,9660,false,true,Swift Circuit,13,Starlight Symphony,A,mixolydian major,Bb major
+2021-09-19,0,0.5263,0.483,17,-55.2024,1,0.92507,0.29081,0.488617,1.471207,8921,false,true,Speedy Lane,11,Golden Horizon,B,dorian minor,B major
+2023-12-26,2015,0.072,0.04,1,-89.207,0,0.53052,0.418152,0.327179,2.994649,8378,false,false,Quick Path,4,Crystal Waters,D,phrygian minor,Bb major
+2021-04-12,0,0.1354,0.008,1,-91.4588,0,0.87169,0.133008,0.940326,8.096629,6357,true,false,Speedy Lane,18,Sunset Dreams,B,aeolian minor,Bmaj7
+2021-10-03,2012,0.4441,0.743,5,-88.3065,0,0.55495,0.975206,0.070845,8.819147,7999,true,false,Quick Path,17,Crystal Waters,D,locrian minor,Bmaj
+2021-07-01,2019,0.6971,0.521,10,-84.7306,0,0.46331,0.284991,0.142338,5.261548,6691,false,true,Fast Track,18,Crystal Waters,B,lydian major,B# minor
+2021-03-26,1999,0.179,0.45,7,-91.9215,0,0.07552,0.709276,0.018353,1.270388,4856,true,false,Fast Track,5,Sunset Dreams,C,melodic minor,Bmaj
+2021-04-03,2015,0.4971,0.477,17,-72.0952,1,0.01494,0.178189,0.23404,1.576098,9768,true,false,Swift Circuit,14,Midnight Serenade,C,ionian major,B major
+2022-02-01,2017,0.7958,0.019,6,-90.5323,0,0.71921,0.748089,0.919765,8.599878,2047,true,false,Quick Path,19,Sunset Dreams,B,harmonic minor,Bmaj
+2022-02-26,2019,0.9189,0.604,10,-92.5554,0,0.18728,0.725138,0.981774,5.228366,3104,false,false,Fast Track,16,Electric Pulse,D,melodic minor,Bm
+2022-07-17,2011,0.4991,0.024,11,-27.7245,0,0.00933,0.403105,0.524564,3.944436,6780,true,false,Rapid Runway,4,Golden Horizon,D,melodic minor,Bb minor
+2024-01-20,2020,0.6737,0.845,9,-48.3846,1,0.74322,0.104616,0.145511,8.02698,5138,false,false,Speedy Lane,13,Electric Pulse,D,dorian minor,B major
+2022-12-04,2009,0.2507,0.17,12,-36.92,1,0.6226,0.168655,0.705071,9.852403,8450,false,false,Quick Path,10,Golden Horizon,D,locrian minor,Bm
+2022-11-06,2012,0.7204,0.208,16,-91.5687,0,0.12498,0.237052,0.643604,7.003469,1639,true,true,Fast Track,9,Golden Horizon,D,phrygian minor,Bb minor
+2023-06-25,2013,0.4245,0.349,12,-98.6774,1,0.7207,0.162094,0.669501,3.473289,893,false,false,Quick Path,20,Neon Nights,A,lydian major,Bm
+2022-11-19,2013,0.1166,0.058,3,-98.8166,1,0.48944,0.620454,0.752194,6.626975,8446,true,true,Fast Track,10,Crystal Waters,C,phrygian minor,B# major
+2023-06-25,2019,0.069,0.196,10,-43.194,0,0.7643,0.872219,0.534215,1.464747,8831,false,false,Swift Circuit,11,Velvet Twilight,D,harmonic minor,Bm
+2022-05-16,2014,0.0975,0.276,18,-10.713,1,0.34706,0.500951,0.067572,9.905947,7020,false,true,Quick Path,18,Neon Nights,D,harmonic minor,Bb major
+2020-12-19,2014,0.2931,0.611,17,-32.815,0,0.23491,0.593209,0.885882,5.089888,1172,true,true,Swift Circuit,8,Moonlit Melodies,D,lydian major,Bb major
+2021-08-25,2014,0.7583,0.74,12,-69.063,1,0.38345,0.107014,0.390891,1.800931,9110,false,true,Speedy Lane,17,Neon Nights,D,pentatonic major,Bb minor
+2021-05-20,2002,0.3757,0.293,8,-97.4513,0,0.19965,0.056803,0.279785,5.875153,8476,false,false,Rapid Runway,19,Neon Nights,A,melodic minor,Bmin
+2021-11-18,2007,0.9138,0.784,9,-44.4183,0,0.43591,0.043423,0.969386,0.848003,4469,true,false,Swift Circuit,5,Midnight Serenade,A,harmonic minor,Bm
+2022-04-12,2013,0.4831,0.137,3,-93.1445,0,0.89558,0.948294,0.791218,3.317135,1717,false,true,Speedy Lane,11,Golden Horizon,A,pentatonic major,Bb minor
+2021-04-10,2018,0.1019,0.812,2,-2.5779,0,0.18293,0.771234,0.574221,2.032778,792,true,false,Swift Circuit,14,Wildfire Echoes,B,dorian minor,Bb major
+2023-07-10,2008,0.4668,0.892,17,-75.5489,0,0.81539,0.367475,0.495225,6.727762,3691,false,true,Swift Circuit,17,Midnight Serenade,C,mixolydian major,Bb major
+2023-06-07,2019,0.191,0.61,11,-44.8943,0,0.33371,0.722405,0.683237,0.775991,1253,false,false,Rapid Runway,8,Velvet Twilight,D,pentatonic major,Bb major
+2022-04-28,2011,0.96,0.033,10,-92.8212,1,0.16422,0.631331,0.143434,9.156365,5448,true,true,Speedy Lane,11,Crystal Waters,A,phrygian minor,Bmaj7
+2021-05-17,2019,0.7833,0.55,1,-63.5657,0,0.21315,0.872523,0.249538,5.965993,9658,true,false,Quick Path,9,Sunset Dreams,B,locrian minor,B minor
+2022-10-14,2020,0.5365,0.537,16,-66.7093,1,0.57991,0.29128,0.593227,1.158628,5207,false,false,Speedy Lane,12,Electric Pulse,C,phrygian minor,Bb major
+2023-12-04,0,0.4564,0.649,3,-27.86,1,0.62763,0.99069,0.424607,4.312438,1430,false,true,Swift Circuit,11,Wildfire Echoes,A,harmonic minor,Bmaj7
+2022-11-14,2015,0.4702,0.99,12,-23.4444,1,0.72535,0.908056,0.519741,8.42415,6957,true,true,Rapid Runway,10,Crystal Waters,D,phrygian minor,B minor
+2022-06-12,2000,0.4625,0.011,13,-14.7589,1,0.2651,0.790473,0.640581,4.712799,684,false,false,Rapid Runway,13,Moonlit Melodies,C,harmonic minor,Bmin
+2023-04-01,2010,0.0116,0.203,7,-45.6451,0,0.30942,0.989463,0.601074,7.316749,2494,true,true,Speedy Lane,6,Golden Horizon,D,aeolian minor,Bb minor
+2023-02-19,2003,0.0243,0.462,10,-66.9306,1,0.24293,0.057463,0.615617,4.306405,9146,true,true,Rapid Runway,8,Sunset Dreams,D,harmonic minor,Bb major
+2021-02-01,2013,0.2096,0.186,3,-1.5916,0,0.00762,0.445124,0.946892,2.160148,2886,true,false,Swift Circuit,5,Electric Pulse,D,dorian minor,B# minor
+2023-09-19,2014,0.1933,0.579,8,-71.6593,0,0.25157,0.153493,0.594762,8.041621,8260,false,true,Swift Circuit,17,Moonlit Melodies,D,ionian major,B# major
+2023-07-16,2010,0.7271,0.42,20,-69.8479,1,0.02802,0.185228,0.302657,6.07076,2160,false,false,Quick Path,16,Sunset Dreams,A,mixolydian major,Bmin
+2022-01-21,2002,0.0447,0.731,16,-99.1476,0,0.52099,0.891196,0.855036,5.158003,2549,false,false,Fast Track,3,Crystal Waters,D,phrygian minor,Bmaj7
+2022-04-05,2013,0.5474,0.046,4,-58.8972,1,0.93855,0.008016,0.094504,3.365412,7049,false,false,Speedy Lane,13,Electric Pulse,A,phrygian minor,B major
+2023-08-05,2012,0.8177,0.521,6,-71.8692,0,0.06284,0.41612,0.075367,3.542745,9917,false,false,Speedy Lane,17,Moonlit Melodies,C,ionian major,Bmaj
+2024-02-04,2018,0.8495,0.875,19,-97.6241,1,0.71648,0.296181,0.511045,4.790494,3094,false,true,Rapid Runway,7,Electric Pulse,C,ionian major,Bb minor
+2021-11-12,2020,0.5661,0.34,16,-31.6317,1,0.67375,0.047524,0.205837,6.297353,8444,false,false,Quick Path,5,Starlight Symphony,B,locrian minor,Bmin
+2023-02-14,2007,0.1982,0.285,6,-15.2879,1,0.86259,0.913999,0.594557,5.834536,9362,true,true,Rapid Runway,7,Starlight Symphony,D,phrygian minor,B major
+2021-04-03,2015,0.2842,0.842,6,-49.1357,1,0.31865,0.617267,0.417153,1.241855,8659,false,true,Fast Track,2,Wildfire Echoes,C,ionian major,Bmin
+2022-12-25,2017,0.9158,0.164,14,-8.6991,1,0.87326,0.79204,0.912346,7.79061,4209,false,true,Quick Path,13,Crystal Waters,C,melodic minor,Bb minor
+2023-06-30,2020,0.1516,0.832,4,-59.7062,1,0.39654,0.208519,0.781317,6.472557,7211,true,false,Swift Circuit,18,Crystal Waters,C,ionian major,Bb major
+2021-08-05,2014,0.3596,0.142,6,-82.533,1,0.4797,0.913736,0.742757,9.971213,1628,true,true,Rapid Runway,12,Sunset Dreams,A,aeolian minor,Bmaj7
+2021-03-08,2020,0.861,0.21,9,-24.0932,0,0.94422,0.414538,0.97761,7.831103,9560,false,false,Speedy Lane,9,Starlight Symphony,C,pentatonic major,Bmin
+2021-02-12,2012,0.6034,0.024,18,-92.3377,1,0.32625,0.850826,0.058246,3.045798,4984,true,true,Rapid Runway,16,Sunset Dreams,C,aeolian minor,Bb major
+2022-12-01,2016,0.6017,0.829,4,-89.0321,1,0.02541,0.355043,0.816701,3.655136,3045,true,false,Speedy Lane,6,Electric Pulse,D,phrygian minor,B minor
+2023-10-29,2013,0.8436,0.064,3,-4.1039,1,0.45135,0.385292,0.12999,2.330286,9929,false,true,Fast Track,3,Midnight Serenade,B,lydian major,Bb major
+2021-09-18,2011,0.0004,0.695,5,-54.4983,0,0.72679,0.382918,0.319214,7.190924,7485,false,true,Speedy Lane,18,Wildfire Echoes,C,lydian major,B# major
+2023-05-14,2011,0.0357,0.937,14,-77.4463,1,0.21552,0.959573,0.961815,5.364606,5286,false,false,Quick Path,18,Neon Nights,B,locrian minor,Bb major
+2022-10-24,2014,0.0992,0.212,9,-87.8347,0,0.85376,0.800353,0.673314,1.482312,1134,false,true,Speedy Lane,19,Golden Horizon,C,phrygian minor,Bmaj
+2021-09-20,2012,0.304,0.861,10,-8.2173,1,0.02261,0.547052,0.47047,7.860252,2858,true,false,Fast Track,2,Velvet Twilight,A,aeolian minor,Bb major
+2023-08-04,2005,0.1867,0.423,3,-55.5283,0,0.7215,0.802506,0.896701,4.445983,1537,false,true,Rapid Runway,10,Starlight Symphony,A,aeolian minor,B# major
+2023-03-10,2001,0.4304,0.962,3,-61.3014,1,0.31252,0.470366,0.887465,3.348712,5192,true,true,Swift Circuit,13,Neon Nights,A,lydian major,B# minor
+2021-10-28,2005,0.2563,0.208,11,-25.2634,0,0.89975,0.502996,0.059856,2.576308,1605,false,false,Quick Path,18,Golden Horizon,A,dorian minor,Bb minor
+2022-05-06,2017,0.5472,0.817,19,-60.8945,1,0.76141,0.408184,0.599294,2.231569,9235,true,true,Swift Circuit,16,Starlight Symphony,B,lydian major,B minor
+2022-02-07,2006,0.6036,0.654,19,-93.3727,0,0.77229,0.850079,0.807409,0.004192,81,true,true,Quick Path,4,Midnight Serenade,B,mixolydian major,Bb major
+2023-02-03,2012,0.7686,0.222,8,-94.7545,1,0.0035,0.344855,0.454549,9.144844,146,true,true,Quick Path,14,Moonlit Melodies,C,mixolydian major,Bmaj
+2022-06-30,2011,0.31,0.126,12,-52.4503,1,0.84787,0.238133,0.224137,6.708553,7702,true,true,Rapid Runway,12,Golden Horizon,C,mixolydian major,Bm
+2021-01-31,2016,0.9707,0.059,13,-57.2001,0,0.55893,0.911751,0.09023,6.746307,3425,true,true,Speedy Lane,4,Sunset Dreams,C,ionian major,B# major
+2021-06-16,2021,0.6825,0.415,2,-70.5712,0,0.21325,0.892844,0.185062,2.53148,7335,true,false,Rapid Runway,12,Starlight Symphony,D,ionian major,Bmin
+2024-02-07,2009,0.4833,0.936,15,-52.5958,0,0.12222,0.962599,0.813604,6.21841,1825,false,true,Quick Path,11,Midnight Serenade,C,aeolian minor,Bb minor
+2021-01-28,2012,0.5297,0.509,1,-61.8957,1,0.51907,0.260663,0.749842,0.192452,7061,true,false,Rapid Runway,9,Golden Horizon,B,ionian major,Bb minor
+2021-09-12,0,0.8646,0.896,20,-91.7901,0,0.27833,0.189307,0.893372,0.091031,2954,true,true,Speedy Lane,5,Golden Horizon,A,pentatonic major,Bb minor
+2024-01-13,2014,0.1727,0.268,5,-85.2833,0,0.64513,0.369623,0.368015,2.393556,2229,true,false,Rapid Runway,5,Golden Horizon,B,aeolian minor,Bb minor
+2021-02-20,2018,0.3397,0.509,10,-17.662,1,0.42268,0.004096,0.545828,5.838195,9859,false,true,Speedy Lane,13,Neon Nights,C,pentatonic major,B minor
+2023-08-05,2004,0.2757,0.288,14,-88.5603,1,0.87697,0.743152,0.459466,1.647453,6401,false,true,Quick Path,16,Crystal Waters,D,aeolian minor,B minor
+2022-04-26,2016,0.1138,0.609,1,-56.3041,1,0.48942,0.687968,0.521908,0.124754,248,true,false,Swift Circuit,17,Neon Nights,C,lydian major,Bb major
+2021-04-27,2018,0.7051,0.609,3,-81.7387,1,0.37691,0.868403,0.229377,2.782937,1096,false,false,Rapid Runway,15,Velvet Twilight,B,ionian major,B# major
+2023-09-02,2017,0.4237,0.229,7,-73.4346,0,0.30674,0.466932,0.952162,0.405992,5247,true,true,Swift Circuit,18,Starlight Symphony,A,mixolydian major,B minor
+2024-01-29,2020,0.4128,0.871,11,-25.5329,0,0.07956,0.227072,0.98915,3.912533,6092,true,true,Fast Track,7,Moonlit Melodies,A,dorian minor,B# minor
+2022-07-21,2013,0.5147,0.393,11,-19.0051,1,0.94128,0.84829,0.476615,8.897728,157,true,true,Speedy Lane,19,Sunset Dreams,A,phrygian minor,Bm
+2021-03-27,2011,0.6313,0.171,15,-99.6584,0,0.3562,0.433154,0.103586,9.230559,4314,true,true,Fast Track,19,Moonlit Melodies,B,locrian minor,Bm
+2023-09-01,2012,0.2993,0.31,15,-45.6798,1,0.78408,0.864152,0.535743,9.599087,4221,false,true,Rapid Runway,13,Neon Nights,D,phrygian minor,B# major
+2023-05-28,2009,0.5102,0.285,16,-12.3894,0,0.53481,0.604876,0.237435,4.742357,2856,true,true,Quick Path,17,Sunset Dreams,B,harmonic minor,B major
+2023-05-20,2006,0.5328,0.479,20,-6.9411,0,0.25273,0.837043,0.400047,7.790023,694,true,true,Quick Path,3,Electric Pulse,D,lydian major,B# minor
+2023-12-08,2012,0.4634,0.424,3,-47.534,0,0.15146,0.236136,0.68186,8.22464,2512,true,false,Swift Circuit,15,Sunset Dreams,B,ionian major,Bm
+2023-04-06,2012,0.4066,0.213,1,-8.0187,1,0.5746,0.447239,0.402864,3.104023,8204,false,true,Fast Track,13,Starlight Symphony,A,ionian major,Bmin
+2023-10-07,2015,0.9808,0.58,1,-72.5781,1,0.5644,0.759633,0.50506,8.633858,2294,true,true,Swift Circuit,14,Neon Nights,B,phrygian minor,B minor
+2022-01-15,2016,0.9349,0.102,19,-61.2207,0,0.07939,0.906075,0.597144,9.389995,7233,true,false,Quick Path,2,Sunset Dreams,B,phrygian minor,Bmaj
+2022-02-04,2014,0.8938,0.535,19,-55.57,1,0.49264,0.992422,0.594307,5.15991,4556,false,true,Rapid Runway,6,Crystal Waters,C,harmonic minor,B minor
+2022-05-05,2013,0.9284,0.218,19,-5.2538,1,0.99843,0.599529,0.865136,3.871443,8790,false,true,Fast Track,4,Crystal Waters,B,melodic minor,Bmin
+2021-06-11,2008,0.2426,0.978,8,-37.5211,0,0.86255,0.199472,0.415223,1.862011,3095,true,true,Swift Circuit,9,Wildfire Echoes,A,mixolydian major,B minor
+2021-12-13,2010,0.7355,0.04,16,-91.7734,0,0.11907,0.649108,0.169727,6.178603,752,true,false,Swift Circuit,4,Starlight Symphony,B,melodic minor,B major
+2021-11-28,0,0.5324,0.935,17,-92.392,0,0.10786,0.359645,0.00607,2.197537,6848,false,false,Speedy Lane,13,Moonlit Melodies,A,mixolydian major,Bb major
+2023-08-10,2013,0.0586,0.756,19,-45.9181,0,0.36639,0.786435,0.78356,8.184037,1147,false,true,Fast Track,3,Wildfire Echoes,A,aeolian minor,B# minor
+2022-09-13,2016,0.1645,0.669,8,-36.8931,0,0.27844,0.425391,0.133632,0.570873,2221,true,true,Rapid Runway,10,Electric Pulse,D,mixolydian major,B# major
+2023-04-18,2013,0.9978,0.344,11,-20.9089,0,0.62874,0.682,0.776132,4.131797,8664,false,true,Rapid Runway,10,Electric Pulse,C,harmonic minor,Bmaj
+2023-04-19,2014,0.5119,0.216,10,-92.4269,1,0.88575,0.753438,0.433704,0.035574,7150,true,false,Speedy Lane,19,Starlight Symphony,C,dorian minor,B major
+2022-06-13,2018,0.607,0.606,6,-88.4688,0,0.69259,0.650996,0.495858,3.512192,4564,false,false,Rapid Runway,20,Midnight Serenade,D,phrygian minor,B# minor
+2024-02-07,2010,0.0514,0.716,12,-94.5685,0,0.43124,0.844177,0.895958,7.189525,9065,true,true,Quick Path,4,Midnight Serenade,D,locrian minor,B# minor
+2022-04-15,2011,0.7741,0.406,7,-18.1586,0,0.32688,0.343895,0.159263,1.199427,8169,true,false,Swift Circuit,18,Sunset Dreams,D,ionian major,Bb major
+2021-04-08,2019,0.296,0.848,2,-30.6132,1,0.91695,0.94618,0.96511,3.770835,1285,false,false,Rapid Runway,19,Golden Horizon,B,lydian major,Bb minor
+2021-03-11,2012,0.8397,0.095,17,-76.7169,0,0.43906,0.862444,0.645667,0.781473,1496,true,false,Rapid Runway,7,Midnight Serenade,B,locrian minor,B# major
+2021-10-03,2016,0.7247,0.387,13,-52.5929,1,0.07265,0.052749,0.970569,5.100279,8114,true,false,Speedy Lane,8,Electric Pulse,B,aeolian minor,Bmaj
+2021-06-21,2011,0.2017,0.68,15,-74.3913,0,0.78295,0.594774,0.424893,2.369543,1177,true,false,Fast Track,5,Neon Nights,D,pentatonic major,Bb major
+2021-01-05,2013,0.2821,0.975,14,-15.8997,1,0.26907,0.20845,0.417578,7.396524,2187,false,false,Fast Track,13,Crystal Waters,D,lydian major,Bmin
+2023-01-17,2009,0.8453,0.489,11,-90.7151,1,0.17701,0.675202,0.153922,8.028666,3191,true,false,Fast Track,4,Velvet Twilight,A,locrian minor,B minor
+2022-04-28,2016,0.0331,0.1,5,-12.0952,0,0.11973,0.246992,0.0159,2.127415,2938,true,true,Swift Circuit,2,Midnight Serenade,C,ionian major,B# major
+2022-08-09,0,0.7807,0.488,17,-87.2992,0,0.19459,0.278698,0.490312,4.903151,2650,false,false,Swift Circuit,1,Electric Pulse,B,ionian major,B# minor
+2020-12-13,2004,0.3052,0.355,2,-83.3708,0,0.32707,0.916342,0.771037,1.171841,4875,false,true,Fast Track,5,Moonlit Melodies,A,phrygian minor,Bmaj7
+2022-12-30,2020,0.1846,0.429,9,-94.0479,1,0.25273,0.067161,0.956352,1.510893,136,true,false,Rapid Runway,12,Electric Pulse,B,aeolian minor,Bmaj
+2021-03-04,2004,0.427,0.028,17,-74.9074,1,0.7384,0.066835,0.986321,1.175515,4902,true,true,Rapid Runway,17,Electric Pulse,C,harmonic minor,Bb minor
+2023-12-31,0,0.3201,0.705,9,-94.6727,0,0.93468,0.403499,0.437743,8.015175,9819,false,true,Rapid Runway,2,Golden Horizon,C,mixolydian major,B# major
+2021-10-08,2016,0.4914,0.595,13,-38.2557,0,0.91208,0.246024,0.681492,3.116836,8737,false,false,Swift Circuit,11,Velvet Twilight,B,melodic minor,Bmaj7
+2022-11-03,2008,0.7117,0.642,19,-16.6023,0,0.36506,0.244309,0.461505,1.870588,4508,false,true,Rapid Runway,4,Golden Horizon,A,ionian major,B# minor
+2022-02-02,2012,0.7234,0.512,9,-48.3391,1,0.88443,0.397776,0.900599,7.261926,462,true,true,Speedy Lane,20,Crystal Waters,B,ionian major,Bb major
+2022-05-25,2015,0.435,0.828,10,-84.7912,1,0.37688,0.368594,0.212386,5.92067,8564,true,false,Fast Track,17,Wildfire Echoes,B,phrygian minor,Bmaj
+2021-02-13,2015,0.1193,0.024,14,-2.0524,0,0.47179,0.867072,0.075092,4.745578,8662,true,true,Quick Path,7,Crystal Waters,B,harmonic minor,Bmin
+2023-09-21,2021,0.9584,0.958,15,-53.1455,0,0.75464,0.306843,0.055384,9.803392,4674,true,true,Quick Path,18,Crystal Waters,B,aeolian minor,B# major
+2023-09-02,2003,0.1469,0.826,4,-12.5438,1,0.85802,0.598661,0.150851,6.199075,3162,true,false,Speedy Lane,5,Moonlit Melodies,C,aeolian minor,Bm
+2022-08-27,2016,0.363,0.211,9,-42.2001,0,0.06323,0.23661,0.756563,0.691224,4769,false,true,Fast Track,17,Velvet Twilight,C,ionian major,B# minor
+2021-03-23,2013,0.2674,0.958,5,-32.4302,0,0.31622,0.113761,0.250153,9.271435,7909,true,false,Speedy Lane,1,Velvet Twilight,A,mixolydian major,Bm
+2023-10-07,2013,0.9827,0.935,17,-49.0867,1,0.00838,0.304714,0.468557,8.794816,4599,true,false,Quick Path,10,Neon Nights,C,lydian major,Bmaj7
+2024-03-01,2010,0.4678,0.143,8,-41.6218,1,0.18543,0.472821,0.217033,8.074008,3396,true,true,Swift Circuit,15,Neon Nights,A,mixolydian major,B major
+2022-03-06,2015,0.0707,0.178,7,-32.8221,1,0.31386,0.000992,0.109294,3.250128,7295,true,false,Fast Track,8,Neon Nights,A,ionian major,B# major
+2024-02-29,2014,0.1734,0.195,19,-68.8798,0,0.21412,0.51179,0.568776,4.871235,6348,true,true,Speedy Lane,18,Crystal Waters,D,melodic minor,Bb major
+2024-01-13,2007,0.5379,0.081,16,-2.6812,0,0.32201,0.318609,0.074942,1.972091,285,false,false,Speedy Lane,9,Crystal Waters,B,melodic minor,Bmaj
+2021-06-17,2013,0.9829,0.216,9,-27.3831,0,0.72063,0.990083,0.330613,3.461667,4081,false,true,Quick Path,1,Electric Pulse,D,mixolydian major,B# minor
+2021-04-18,2010,0.0204,0.251,8,-55.1735,0,0.2191,0.197155,0.06776,7.233157,1056,true,false,Rapid Runway,4,Velvet Twilight,D,mixolydian major,Bb major
+2021-09-27,2015,0.14,0.569,1,-38.0336,0,0.55414,0.217713,0.599815,0.423539,6880,false,false,Swift Circuit,9,Wildfire Echoes,C,melodic minor,Bmaj
+2021-10-03,2010,0.2434,0.885,19,-49.3523,1,0.85189,0.813529,0.600042,7.775813,6019,true,false,Rapid Runway,9,Crystal Waters,D,harmonic minor,Bm
+2021-09-18,2007,0.0794,0.035,19,-51.286,1,0.74598,0.631991,0.656887,0.480914,3988,false,true,Quick Path,4,Sunset Dreams,A,pentatonic major,B minor
+2022-04-10,2014,0.8,0.515,5,-56.9526,0,0.22848,0.685931,0.967671,2.978735,9805,true,true,Fast Track,20,Crystal Waters,D,dorian minor,B# major
+2021-11-15,2014,0.5822,0.405,11,-33.698,1,0.89989,0.456957,0.837579,3.645825,7813,true,false,Quick Path,10,Starlight Symphony,C,harmonic minor,B major
+2021-05-04,2020,0.8986,0.96,14,-60.6285,1,0.72033,0.176105,0.930912,2.646207,4986,true,false,Speedy Lane,16,Electric Pulse,B,aeolian minor,Bb major
+2023-06-02,0,0.5908,0.953,18,-26.3293,0,0.11217,0.642557,0.618807,2.146716,8866,false,false,Swift Circuit,9,Golden Horizon,A,pentatonic major,Bmaj
+2021-03-31,2011,0.9348,0.605,9,-39.0951,1,0.94426,0.778658,0.193598,2.052937,6829,false,true,Quick Path,8,Electric Pulse,A,lydian major,B minor
+2022-11-13,2015,0.8741,0.885,1,-31.0345,0,0.00011,0.212726,0.35456,3.193903,6407,false,false,Speedy Lane,14,Neon Nights,B,ionian major,B minor
+2023-06-01,2017,0.3238,0.015,14,-17.0528,1,0.64263,0.904857,0.74284,0.597774,3616,true,true,Fast Track,1,Starlight Symphony,B,mixolydian major,Bmaj
+2023-03-06,2013,0.3124,0.934,6,-80.8866,0,0.9747,0.0857,0.78632,0.640488,7954,true,false,Quick Path,8,Neon Nights,D,mixolydian major,B# minor
+2021-03-16,2010,0.1835,0.8,2,-95.2757,0,0.94121,0.289663,0.278006,1.360064,4716,false,false,Speedy Lane,7,Neon Nights,C,harmonic minor,Bb major
+2022-07-12,2016,0.499,0.61,17,-22.4612,0,0.73315,0.217528,0.932907,3.975554,2777,true,false,Speedy Lane,2,Midnight Serenade,D,mixolydian major,B# minor
+2023-09-16,2003,0.0642,0.859,12,-68.8826,1,0.51914,0.982511,0.581193,0.813549,3182,false,true,Speedy Lane,6,Crystal Waters,C,pentatonic major,Bb minor
+2022-10-11,2003,0.2257,0.509,11,-81.6804,1,0.82362,0.180842,0.275117,1.642728,8631,true,false,Quick Path,7,Electric Pulse,B,lydian major,B major
+2021-05-05,2008,0.9806,0.448,14,-54.1428,1,0.08429,0.677065,0.199258,2.643682,5981,true,true,Quick Path,2,Electric Pulse,C,lydian major,Bmaj7
+2023-10-16,2012,0.6622,0.629,17,-59.742,0,0.06774,0.130915,0.494834,5.143151,5927,true,true,Fast Track,6,Neon Nights,D,melodic minor,Bb minor
+2023-02-10,2014,0.3774,0.074,3,-38.2036,1,0.65473,0.07546,0.742071,4.449181,4238,true,false,Rapid Runway,5,Neon Nights,A,lydian major,B# major
+2021-01-13,2012,0.6851,0.432,10,-72.5062,1,0.38304,0.724177,0.367614,5.76975,2128,true,true,Rapid Runway,7,Electric Pulse,B,melodic minor,B minor
+2023-10-20,2011,0.3926,0.016,17,-17.0503,1,0.68608,0.154059,0.810708,5.356438,2071,false,false,Speedy Lane,13,Sunset Dreams,B,mixolydian major,B major
+2022-06-30,2015,0.0495,0.963,20,-48.8953,1,0.96332,0.455394,0.660454,7.625685,6734,true,false,Rapid Runway,4,Crystal Waters,B,melodic minor,B# minor
+2023-10-06,2015,0.5239,0.209,20,-34.3773,1,0.34064,0.630672,0.305838,7.567979,9579,false,false,Speedy Lane,18,Crystal Waters,D,dorian minor,Bm
+2021-06-08,2004,0.8094,0.803,20,-66.7208,0,0.20981,0.415601,0.976352,7.751129,9284,true,true,Rapid Runway,7,Midnight Serenade,A,ionian major,B# major
+2024-02-04,2002,0.6175,0.764,9,-82.8204,0,0.66169,0.010141,0.019122,6.582292,53,true,true,Fast Track,1,Golden Horizon,B,mixolydian major,Bb minor
+2023-10-25,2004,0.6699,0.815,2,-84.5339,1,0.19858,0.291693,0.913649,3.00635,6600,true,true,Quick Path,16,Golden Horizon,A,locrian minor,Bm
+2021-08-23,2015,0.6274,0.621,11,-79.4208,1,0.08209,0.290293,0.372037,5.269363,9540,false,true,Swift Circuit,9,Crystal Waters,C,pentatonic major,Bm
+2022-07-28,2006,0.4081,0.137,19,-58.7837,0,0.83787,0.427825,0.525541,6.065778,2262,false,true,Fast Track,7,Starlight Symphony,A,phrygian minor,Bmaj7
+2023-03-31,2010,0.3026,0.121,4,-52.3192,1,0.23654,0.277385,0.010957,9.131029,6854,true,true,Rapid Runway,17,Starlight Symphony,B,phrygian minor,B# major
+2023-08-08,2020,0.3914,0.884,18,-49.237,0,0.25429,0.392195,0.952728,9.530659,3548,false,true,Swift Circuit,19,Wildfire Echoes,B,aeolian minor,Bb major
+2023-04-08,2006,0.5377,0.394,5,-45.3303,0,0.67053,0.198155,0.242433,0.150131,5825,false,true,Fast Track,11,Neon Nights,C,harmonic minor,Bmaj
+2021-08-09,2016,0.1332,0.686,18,-1.2636,0,0.44822,0.216124,0.565527,8.223639,3163,true,true,Quick Path,16,Wildfire Echoes,D,harmonic minor,B minor
+2023-09-25,2020,0.7252,0.329,16,-92.3926,0,0.58617,0.089586,0.660048,5.298654,876,false,true,Swift Circuit,17,Sunset Dreams,A,phrygian minor,Bm
+2022-04-22,2020,0.242,0.799,10,-20.28,0,0.26751,0.075595,0.810813,9.412702,5611,true,true,Swift Circuit,16,Neon Nights,B,phrygian minor,B minor
+2022-09-18,2020,0.5204,0.794,6,-80.2032,1,0.91233,0.739843,0.61948,0.353363,8760,true,true,Rapid Runway,5,Neon Nights,C,aeolian minor,Bb minor
+2021-04-04,2009,0.1169,0.943,13,-40.0939,0,0.8521,0.297084,0.391204,9.292722,9960,true,true,Quick Path,9,Midnight Serenade,A,ionian major,Bmin
+2023-02-08,2020,0.8287,0.667,11,-78.6785,0,0.82092,0.602922,0.03684,2.283577,4550,false,false,Fast Track,16,Crystal Waters,A,ionian major,B# major
+2023-12-11,2008,0.2058,0.191,7,-12.4289,1,0.13904,0.429504,0.650797,9.308934,9871,false,true,Speedy Lane,18,Midnight Serenade,A,pentatonic major,B major
+2024-01-19,2009,0.0931,0.148,19,-38.2405,0,0.8709,0.425709,0.98392,8.317509,412,true,true,Rapid Runway,3,Starlight Symphony,C,lydian major,Bmaj7
+2022-12-30,2020,0.1723,0.641,13,-4.3544,0,0.60579,0.181268,0.328045,0.173443,6879,false,false,Swift Circuit,15,Crystal Waters,A,phrygian minor,Bb minor
+2023-06-09,2014,0.2357,0.902,8,-33.1853,1,0.39785,0.371397,0.855558,3.022155,6327,false,true,Fast Track,10,Electric Pulse,B,melodic minor,Bb minor
+2021-05-25,2011,0.6962,0.383,3,-34.9,0,0.95584,0.144511,0.359352,4.432823,8835,false,false,Speedy Lane,17,Electric Pulse,C,ionian major,B minor
+2023-10-07,2017,0.5249,0.192,3,-25.4115,0,0.16675,0.376255,0.100201,9.23241,7175,false,true,Quick Path,7,Sunset Dreams,C,locrian minor,Bmaj
+2021-03-06,2013,0.441,0.813,19,-49.5345,1,0.77991,0.844931,0.908728,6.20067,2768,false,true,Rapid Runway,17,Electric Pulse,A,harmonic minor,Bm
+2021-05-30,2011,0.394,0.714,12,-81.6869,1,0.74526,0.177116,0.869672,4.717687,9985,false,true,Speedy Lane,11,Velvet Twilight,B,mixolydian major,B# minor
+2023-09-09,2008,0.7128,0.078,14,-84.401,1,0.43775,0.329445,0.486672,4.42382,149,true,false,Fast Track,10,Sunset Dreams,D,mixolydian major,Bm
+2022-03-03,2015,0.0656,0.445,17,-70.3219,0,0.35418,0.262126,0.929203,9.354897,8852,false,true,Rapid Runway,15,Golden Horizon,D,pentatonic major,Bm
+2022-06-29,2004,0.4658,0.819,1,-45.5085,1,0.43854,0.068483,0.229331,8.615766,7194,false,true,Swift Circuit,1,Golden Horizon,C,dorian minor,B# major
+2024-01-06,2008,0.7629,0.585,13,-6.7354,1,0.25053,0.046505,0.01376,6.752191,3328,true,false,Quick Path,12,Neon Nights,B,lydian major,Bmaj7
+2021-03-06,2011,0.9505,0.328,4,-56.5659,1,0.46866,0.605848,0.708265,2.456387,7411,false,false,Quick Path,8,Sunset Dreams,A,pentatonic major,B minor
+2021-01-04,2019,0.4938,0.457,18,-96.8939,1,0.80362,0.135949,0.705248,7.961483,2388,true,false,Quick Path,9,Neon Nights,B,lydian major,B# major
+2022-06-22,2003,0.2433,0.364,15,-65.8646,0,0.03994,0.086881,0.972315,1.833176,1221,true,true,Speedy Lane,14,Velvet Twilight,B,dorian minor,Bmin
+2021-03-24,2019,0.5633,0.672,7,-97.9898,1,0.53425,0.26664,0.473147,6.782917,6912,true,true,Quick Path,1,Starlight Symphony,B,dorian minor,B major
+2022-06-14,2011,0.5472,0.7,2,-26.7281,1,0.22867,0.091935,0.272306,2.376588,4127,false,false,Rapid Runway,10,Velvet Twilight,C,pentatonic major,B# major
+2021-09-06,2014,0.2827,0.243,9,-85.9058,0,0.62722,0.901982,0.833178,6.353088,9660,false,true,Rapid Runway,4,Sunset Dreams,D,locrian minor,B# minor
+2023-08-12,2005,0.3737,0.499,1,-52.106,1,0.05495,0.196125,0.238594,8.453486,527,false,true,Fast Track,11,Golden Horizon,D,dorian minor,Bb major
+2022-02-09,2015,0.6967,0.749,20,-83.6465,1,0.61362,0.732326,0.655938,9.471946,5339,true,false,Fast Track,14,Starlight Symphony,C,phrygian minor,B# major
+2021-10-20,2005,0.6483,0.252,12,-19.075,1,0.24243,0.038152,0.027807,8.190789,836,true,false,Rapid Runway,4,Wildfire Echoes,D,locrian minor,B major
+2023-12-03,2013,0.0402,0.007,9,-95.2985,1,0.84154,0.936698,0.620913,4.497318,6192,true,false,Swift Circuit,4,Crystal Waters,C,harmonic minor,B major
+2021-06-27,2018,0.603,0.579,7,-50.28,1,0.55071,0.695741,0.608641,9.530498,4043,false,true,Swift Circuit,6,Moonlit Melodies,C,mixolydian major,Bmaj
+2022-06-12,2020,0.2334,0.287,17,-65.7488,1,0.6401,0.554825,0.443124,1.754028,4806,true,true,Quick Path,18,Crystal Waters,C,aeolian minor,Bmaj7
+2021-10-21,2017,0.0649,0.671,15,-22.4598,1,0.55387,0.737801,0.764243,1.923383,8187,true,false,Quick Path,7,Neon Nights,B,phrygian minor,B# major
+2021-11-17,2009,0.1204,0.414,18,-80.4323,1,0.60473,0.095501,0.466096,3.659001,6957,true,true,Fast Track,3,Neon Nights,C,aeolian minor,B minor
+2021-03-13,2007,0.7068,0.067,3,-82.574,0,0.26645,0.850003,0.326025,7.084383,4654,false,false,Swift Circuit,16,Neon Nights,D,lydian major,B# minor
+2022-05-13,2015,0.3853,0.457,2,-23.3331,0,0.80869,0.670244,0.345256,0.405782,5739,false,false,Speedy Lane,6,Sunset Dreams,D,melodic minor,Bb minor
+2021-05-06,2016,0.7224,0.548,19,-48.5887,1,0.07244,0.439763,0.82126,0.337949,8014,false,true,Rapid Runway,1,Velvet Twilight,C,phrygian minor,B# major
+2024-01-05,2012,0.1455,0.755,19,-40.0112,0,0.3792,0.579968,0.743052,3.583951,9700,false,true,Fast Track,11,Crystal Waters,C,lydian major,B# major
+2021-03-19,2013,0.6993,0.942,1,-45.7435,1,0.7391,0.377408,0.614079,5.406647,7541,true,false,Fast Track,5,Midnight Serenade,B,lydian major,Bb minor
+2021-11-05,2012,0.9866,0.434,5,-36.0836,0,0.66471,0.996058,0.425564,5.151354,3893,false,false,Swift Circuit,6,Moonlit Melodies,A,ionian major,Bb major
+2022-01-24,2015,0.0259,0.854,7,-21.4134,1,0.15692,0.920998,0.196827,3.067827,2850,true,true,Rapid Runway,5,Moonlit Melodies,C,aeolian minor,Bb minor
+2021-09-22,2014,0.294,0.579,20,-97.4768,1,0.50297,0.602455,0.682026,0.231828,4631,true,true,Swift Circuit,5,Sunset Dreams,D,phrygian minor,B minor
+2022-06-08,2016,0.8552,0.164,20,-88.4052,0,0.49378,0.230554,0.636608,6.259476,867,true,true,Speedy Lane,13,Sunset Dreams,D,melodic minor,Bmaj
+2023-06-06,2012,0.7726,0.38,1,-62.0356,1,0.99176,0.935882,0.807577,6.270359,3630,false,true,Fast Track,10,Starlight Symphony,C,melodic minor,B major
+2023-06-06,2001,0.3665,0.201,16,-97.2314,0,0.83687,0.98341,0.630261,5.556856,4500,true,false,Swift Circuit,8,Velvet Twilight,A,locrian minor,B minor
+2023-02-04,2014,0.8954,0.535,6,-20.2988,1,0.19555,0.009998,0.503403,4.888425,154,false,true,Speedy Lane,19,Wildfire Echoes,C,pentatonic major,Bmin
+2023-10-31,2019,0.7022,0.853,13,-91.2811,1,0.4181,0.305593,0.912252,8.602326,6817,false,true,Fast Track,11,Electric Pulse,A,aeolian minor,B# minor
+2022-12-28,2010,0.2724,0.198,2,-48.1989,1,0.96067,0.58811,0.511355,9.880746,4365,false,false,Quick Path,20,Golden Horizon,B,lydian major,Bmaj
+2023-12-29,2009,0.9824,0.353,3,-10.9449,1,0.96006,0.022579,0.138135,9.122419,2210,false,false,Speedy Lane,15,Wildfire Echoes,B,lydian major,B# minor
+2023-11-12,2015,0.2238,0.178,16,-5.5778,0,0.33112,0.222868,0.669063,5.073615,5066,true,true,Fast Track,5,Neon Nights,A,lydian major,Bmaj
+2022-05-13,2008,0.5356,0.514,16,-45.5157,0,0.76438,0.887755,0.498486,7.9037,6013,false,false,Swift Circuit,16,Electric Pulse,C,melodic minor,Bb major
+2021-07-09,2000,0.086,0.005,7,-60.9374,0,0.39816,0.449571,0.98785,7.561487,4669,true,true,Rapid Runway,20,Velvet Twilight,A,locrian minor,B# major
+2021-12-16,2011,0.9869,0.293,5,-25.0432,1,0.14474,0.726205,0.002186,8.573959,7433,true,false,Quick Path,14,Sunset Dreams,D,melodic minor,Bm
+2021-06-07,2013,0.4953,0.514,13,-7.603,0,0.23698,0.188074,0.773675,3.246626,7137,false,false,Rapid Runway,15,Moonlit Melodies,A,locrian minor,B# major
+2022-01-05,2003,0.1675,0.969,18,-25.3593,0,0.97703,0.36633,0.554274,2.232997,4462,true,true,Quick Path,17,Golden Horizon,D,melodic minor,B# major
+2020-12-12,2007,0.5518,0.521,3,-72.7757,1,0.07932,0.277647,0.079739,6.911418,4313,false,false,Speedy Lane,4,Electric Pulse,A,lydian major,Bmaj7
+2021-12-08,2012,0.694,0.407,7,-65.8474,0,0.80442,0.050456,0.102072,3.637914,1712,false,false,Rapid Runway,4,Moonlit Melodies,D,phrygian minor,Bb major
+2022-12-08,2014,0.2445,0.553,7,-77.6501,1,0.59011,0.234576,0.906189,8.172409,1707,false,false,Fast Track,12,Crystal Waters,D,mixolydian major,Bm
+2023-08-03,2013,0.997,0.856,14,-81.8396,1,0.25013,0.921539,0.614576,9.504858,5406,false,false,Swift Circuit,9,Velvet Twilight,B,harmonic minor,Bb major
+2023-11-10,2015,0.0294,0.248,20,-77.8749,0,0.66817,0.652404,0.422652,3.626066,3450,true,false,Fast Track,20,Wildfire Echoes,B,pentatonic major,Bmin
+2021-03-24,2005,0.1295,0.368,4,-80.0412,1,0.7301,0.250168,0.39688,0.273013,5921,true,true,Swift Circuit,13,Moonlit Melodies,D,lydian major,B major
+2022-05-17,2003,0.1442,0.626,4,-44.9911,0,0.62888,0.618646,0.738762,5.360245,2492,true,false,Rapid Runway,2,Moonlit Melodies,A,aeolian minor,Bmaj7
+2021-07-03,2007,0.6287,0.815,9,-70.28,1,0.84348,0.999983,0.048774,8.558276,1615,true,false,Fast Track,4,Starlight Symphony,A,ionian major,Bmaj
+2021-06-06,2011,0.1107,0.893,16,-73.7503,1,0.51393,0.990357,0.775279,9.137453,7838,true,false,Rapid Runway,9,Wildfire Echoes,C,aeolian minor,B# major
+2021-01-01,2012,0.1198,0.174,2,-95.3715,0,0.43287,0.054188,0.891846,5.523257,5243,false,false,Fast Track,13,Starlight Symphony,C,phrygian minor,Bm
+2023-07-11,2020,0.2309,0.565,12,-45.5665,1,0.76162,0.899992,0.806142,3.831477,6917,false,true,Speedy Lane,10,Neon Nights,A,pentatonic major,Bm
+2023-12-26,2005,0.8395,0.028,1,-60.3473,1,0.22279,0.230648,0.155715,0.019055,2835,false,false,Speedy Lane,7,Moonlit Melodies,A,mixolydian major,Bmin
+2022-12-24,2008,0.0161,0.278,11,-19.4354,0,0.91156,0.472521,0.819585,1.661521,8780,true,true,Speedy Lane,3,Starlight Symphony,A,aeolian minor,B minor
+2022-09-26,2013,0.3943,0.293,15,-86.2962,0,0.24222,0.343783,0.797987,3.891258,2916,true,true,Speedy Lane,16,Wildfire Echoes,C,lydian major,B minor
+2022-06-09,2013,0.8756,0.066,8,-27.0254,1,0.79114,0.440819,0.9588,0.415212,5963,true,false,Fast Track,9,Moonlit Melodies,C,harmonic minor,Bmaj
+2021-05-19,2015,0.9908,0.842,2,-37.9288,1,0.1505,0.156447,0.492138,5.683953,3404,false,false,Speedy Lane,18,Neon Nights,D,aeolian minor,Bmaj7
+2023-07-03,2012,0.8839,0.977,10,-23.5701,1,0.11289,0.828545,0.998096,1.950759,2473,true,false,Rapid Runway,16,Sunset Dreams,B,aeolian minor,B major
+2021-08-12,2013,0.8763,0.092,20,-66.6914,1,0.74592,0.482132,0.909492,7.104986,2503,true,false,Rapid Runway,10,Electric Pulse,C,phrygian minor,Bb minor
+2023-02-25,2021,0.1854,0.663,3,-4.8713,1,0.72081,0.367653,0.997609,3.17872,9146,false,true,Rapid Runway,1,Moonlit Melodies,D,melodic minor,Bb minor
+2023-08-25,2011,0.6101,0.63,9,-43.6907,1,0.13628,0.929055,0.851181,9.439156,6475,false,false,Quick Path,5,Neon Nights,B,phrygian minor,Bb minor
+2022-07-03,2005,0.9395,0.04,5,-76.8737,0,0.43031,0.862806,0.209106,0.568912,5746,true,true,Fast Track,15,Electric Pulse,B,phrygian minor,B# major
+2021-04-04,2015,0.6269,0.643,18,-64.5007,1,0.54156,0.928661,0.583261,8.83499,2316,false,false,Swift Circuit,5,Velvet Twilight,B,ionian major,Bb minor
+2021-06-30,2014,0.1078,0.79,9,-70.5619,1,0.48308,0.736583,0.737625,3.120265,6215,false,true,Quick Path,3,Starlight Symphony,B,melodic minor,Bm
+2023-11-19,2014,0.001,0.092,20,-63.7015,1,0.23368,0.776713,0.834406,7.352988,5167,true,true,Quick Path,12,Neon Nights,C,phrygian minor,Bb minor
+2023-02-21,2016,0.7581,0.97,10,-90.2331,0,0.35673,0.023735,0.154057,3.181925,5857,false,false,Fast Track,12,Electric Pulse,D,pentatonic major,Bm
+2023-11-06,2013,0.3262,0.167,1,-44.2072,1,0.96722,0.203672,0.291563,2.754126,9142,false,true,Rapid Runway,4,Electric Pulse,D,pentatonic major,Bmaj7
+2023-02-01,1998,0.9531,0.229,5,-27.4692,1,0.63806,0.004862,0.225327,9.560702,2962,true,true,Swift Circuit,10,Midnight Serenade,D,locrian minor,Bmaj7
+2020-12-14,2016,0.2911,0.011,20,-65.3203,0,0.28591,0.825839,0.611266,0.902478,7782,false,false,Quick Path,4,Starlight Symphony,B,lydian major,B minor
+2023-05-26,2008,0.2766,0.169,8,-63.4028,1,0.41181,0.747862,0.934747,6.720461,6224,true,false,Rapid Runway,2,Electric Pulse,D,pentatonic major,Bb minor
+2021-09-20,2015,0.6298,0.114,4,-12.1893,1,0.04434,0.131902,0.889671,9.375399,8590,false,false,Speedy Lane,14,Midnight Serenade,C,phrygian minor,Bm
+2023-07-28,2016,0.2516,0.53,8,-22.7881,0,0.23439,0.603506,0.114708,4.384905,6268,true,false,Fast Track,12,Neon Nights,D,aeolian minor,Bm
+2024-01-13,2020,0.7675,0.882,5,-33.6673,1,0.50004,0.286826,0.155246,2.631033,5421,false,true,Fast Track,20,Electric Pulse,C,harmonic minor,Bb major
+2022-07-12,2013,0.8817,0.633,9,-33.9181,1,0.77065,0.158678,0.582671,6.069463,1160,true,true,Rapid Runway,12,Sunset Dreams,B,lydian major,Bm
+2021-09-19,2020,0.5766,0.661,9,-52.761,0,0.17608,0.322788,0.4374,4.169787,1166,true,true,Rapid Runway,6,Neon Nights,A,lydian major,Bm
+2021-09-01,2015,0.9174,0.468,18,-42.689,1,0.23722,0.395436,0.40697,9.77976,6085,true,false,Fast Track,3,Neon Nights,B,ionian major,Bm
+2021-08-13,2011,0.0521,0.119,10,-43.8789,0,0.8289,0.417831,0.606824,0.316383,2994,false,false,Quick Path,14,Sunset Dreams,C,dorian minor,Bmaj7
+2022-11-07,2012,0.7004,0.983,18,-78.9524,0,0.13194,0.962804,0.879721,1.840425,3796,false,true,Rapid Runway,10,Neon Nights,D,phrygian minor,B major
+2023-10-22,2010,0.5576,0.814,12,-44.7745,1,0.85948,0.360253,0.157126,1.074801,6606,true,true,Rapid Runway,5,Golden Horizon,B,phrygian minor,B major
+2022-02-17,2014,0.4976,0.541,11,-54.5261,0,0.83088,0.946753,0.956227,8.645298,4151,false,true,Speedy Lane,16,Neon Nights,D,lydian major,Bmin
+2021-06-02,2005,0.6871,0.534,2,-40.523,1,0.66865,0.627212,0.116167,0.518547,5551,false,false,Fast Track,1,Golden Horizon,B,lydian major,Bm
+2020-12-20,2015,0.3069,0.874,15,-14.9019,1,0.82503,0.557508,0.123024,6.358635,1693,false,true,Quick Path,5,Starlight Symphony,B,locrian minor,Bmin
+2023-06-02,2015,0.7484,0.095,4,-42.1296,0,0.2857,0.362718,0.20527,9.140996,5807,false,true,Fast Track,15,Crystal Waters,D,locrian minor,Bb major
+2023-06-23,2010,0.1181,0.439,9,-6.4941,0,0.70488,0.137994,0.561934,5.121567,6448,true,true,Swift Circuit,18,Neon Nights,A,mixolydian major,Bmaj
+2022-10-07,2006,0.1763,0.686,14,-14.6754,1,0.9671,0.268904,0.47975,0.070235,5385,false,false,Speedy Lane,9,Velvet Twilight,A,lydian major,Bm
+2024-02-17,2004,0.5274,0.321,12,-17.9215,0,0.87963,0.425456,0.599336,0.134041,8594,false,false,Rapid Runway,11,Sunset Dreams,B,melodic minor,B# minor
+2023-07-24,2006,0.347,0.781,11,-61.8492,1,0.05283,0.894074,0.652721,6.100073,7835,false,false,Speedy Lane,11,Sunset Dreams,A,phrygian minor,B minor
+2023-09-29,2014,0.6863,0.479,1,-33.4812,0,0.70753,0.515454,0.007392,3.554274,1645,false,true,Fast Track,14,Velvet Twilight,D,ionian major,B minor
+2023-08-23,2016,0.5829,0.669,18,-38.1711,0,0.05202,0.025976,0.721903,4.305079,3189,true,false,Quick Path,12,Moonlit Melodies,B,phrygian minor,Bmaj
+2023-10-16,2004,0.6968,0.525,14,-47.5706,0,0.35274,0.080965,0.741221,8.475379,4487,true,true,Speedy Lane,14,Moonlit Melodies,D,harmonic minor,Bmaj7
+2021-10-15,0,0.7318,0.42,17,-27.5446,1,0.59931,0.991996,0.41067,3.557278,9368,true,false,Quick Path,11,Neon Nights,B,locrian minor,Bb major
+2021-06-24,2014,0.6763,0.927,8,-6.7448,0,0.06927,0.909258,0.465393,3.721323,3464,false,false,Speedy Lane,2,Moonlit Melodies,A,ionian major,B major
+2024-04-06,2006,0.2228,0.592,13,-77.027,0,0.5647,0.530152,0.415194,2.792014,9323,true,true,Fast Track,18,Moonlit Melodies,B,mixolydian major,Bb major
+2021-03-25,2019,0.5431,0.812,12,-53.0132,1,0.75369,0.143574,0.624449,0.7367,6912,true,false,Quick Path,6,Neon Nights,B,harmonic minor,Bm
+2021-12-15,2019,0.7998,0.858,9,-48.6529,1,0.61929,0.966972,0.563614,3.162223,5645,true,true,Speedy Lane,19,Moonlit Melodies,B,aeolian minor,B# major
+2020-12-10,2009,0.0423,0.422,20,-69.9593,1,0.86488,0.465999,0.308804,9.504429,4017,true,true,Fast Track,9,Neon Nights,B,melodic minor,Bmin
+2023-12-31,2017,0.8008,0.344,14,-65.3758,0,0.26268,0.474363,0.563009,6.067772,1665,true,false,Speedy Lane,8,Starlight Symphony,C,ionian major,Bmin
+2023-05-08,2010,0.2922,0.679,6,-93.0989,0,0.81913,0.849083,0.839916,0.322556,7856,false,true,Fast Track,12,Crystal Waters,D,pentatonic major,Bm
+2021-11-21,2016,0.0765,0.891,18,-84.2304,0,0.61387,0.086574,0.936492,9.772003,3701,false,false,Quick Path,11,Sunset Dreams,D,mixolydian major,Bmaj
+2022-04-18,2014,0.5652,0.731,1,-21.3398,1,0.73073,0.605667,0.373974,8.589114,2121,true,true,Fast Track,3,Sunset Dreams,D,dorian minor,Bb minor
+2021-12-21,2009,0.2173,0.438,12,-8.5655,0,0.12042,0.062557,0.548933,8.782995,6243,false,false,Speedy Lane,13,Crystal Waters,C,ionian major,Bmaj
+2021-11-03,2016,0.5312,0.39,1,-45.493,1,0.12502,0.228649,0.263061,7.448394,994,false,false,Quick Path,11,Midnight Serenade,D,pentatonic major,B major
+2021-02-18,2018,0.5795,0.669,1,-17.8072,0,0.72265,0.894434,0.953802,4.924279,1551,false,true,Speedy Lane,6,Wildfire Echoes,D,phrygian minor,Bb major
+2021-12-13,2006,0.8841,0.613,13,-95.1738,1,0.74022,0.762882,0.913965,8.274233,8687,true,false,Quick Path,17,Golden Horizon,C,pentatonic major,Bb minor
+2023-07-14,2012,0.5501,0.61,8,-20.0456,0,0.2716,0.693405,0.310005,4.125803,8814,true,true,Fast Track,19,Velvet Twilight,C,locrian minor,B# minor
+2023-10-27,2014,0.0928,0.206,15,-11.6494,1,0.27585,0.951427,0.411989,2.373548,6616,false,false,Quick Path,13,Midnight Serenade,C,ionian major,B minor
+2022-06-29,2018,0.3321,0.986,14,-58.1157,0,0.52866,0.426123,0.576281,3.651931,5775,true,false,Speedy Lane,15,Golden Horizon,B,lydian major,Bm
+2022-03-28,2017,0.4666,0.699,9,-20.8534,1,0.61677,0.909662,0.142968,6.231706,2431,true,true,Rapid Runway,10,Velvet Twilight,B,mixolydian major,Bm
+2024-03-30,2017,0.5602,0.567,5,-4.6246,1,0.78794,0.183865,0.034014,2.670352,4872,false,false,Swift Circuit,5,Velvet Twilight,B,pentatonic major,B minor
+2022-02-20,2010,0.6787,0.005,7,-43.2196,1,0.78558,0.151956,0.541309,7.412346,8895,false,false,Speedy Lane,18,Neon Nights,C,lydian major,Bmin
+2023-09-08,2017,0.1445,0.183,20,-52.9299,1,0.05473,0.708945,0.466186,1.612277,4092,false,false,Swift Circuit,13,Moonlit Melodies,C,mixolydian major,B major
+2023-06-26,2015,0.7941,0.097,9,-99.1957,1,0.48576,0.248529,0.244536,9.260336,4884,false,false,Swift Circuit,15,Neon Nights,B,lydian major,B major
+2023-04-14,2017,0.9615,0.034,8,-79.5051,0,0.42653,0.580861,0.560288,7.186781,7877,false,false,Rapid Runway,4,Midnight Serenade,A,locrian minor,Bb minor
+2022-03-17,2009,0.4923,0.74,6,-54.2614,1,0.11962,0.607118,0.618366,9.412157,2444,false,false,Fast Track,20,Velvet Twilight,A,mixolydian major,B# minor
+2021-12-07,2019,0.8136,0.994,1,-43.9204,0,0.71127,0.671593,0.242876,9.175088,9692,true,false,Speedy Lane,14,Crystal Waters,D,ionian major,B# major
+2021-08-03,2016,0.1317,0.499,13,-40.9468,1,0.73183,0.908011,0.925109,6.939398,9648,false,false,Rapid Runway,6,Wildfire Echoes,A,aeolian minor,B minor
+2021-10-14,2010,0.0805,0.477,10,-67.9409,1,0.34249,0.899079,0.652864,8.739064,4432,true,true,Speedy Lane,1,Neon Nights,B,aeolian minor,Bb major
+2023-11-19,2018,0.182,0.618,9,-44.8999,0,0.03179,0.335274,0.073818,6.666665,8348,false,true,Quick Path,9,Midnight Serenade,B,harmonic minor,Bmaj
+2023-07-22,2010,0.2209,0.232,6,-89.6911,1,0.28814,0.009623,0.687867,0.346858,9835,true,false,Quick Path,4,Midnight Serenade,D,pentatonic major,Bm
+2021-10-25,2017,0.3494,0.801,2,-46.5652,1,0.45004,0.953941,0.540898,6.463875,4174,false,true,Swift Circuit,16,Sunset Dreams,D,harmonic minor,Bb major
+2021-01-10,2007,0.1714,0.529,4,-77.7489,1,0.23266,0.643025,0.982508,4.50221,8873,true,true,Fast Track,6,Starlight Symphony,B,mixolydian major,Bb minor
+2021-07-04,2014,0.5289,0.272,1,-29.9154,1,0.21118,0.821987,0.928375,2.576136,5397,false,true,Speedy Lane,16,Electric Pulse,B,lydian major,Bm
+2021-01-18,2002,0.2466,0.148,5,-68.717,1,0.76241,0.889986,0.297783,5.574203,4367,true,true,Speedy Lane,15,Wildfire Echoes,D,phrygian minor,Bb major
+2021-06-23,2013,0.0736,0.72,14,-56.0174,0,0.9977,0.00229,0.802796,5.532006,6668,true,false,Swift Circuit,1,Wildfire Echoes,D,mixolydian major,Bmin
+2023-05-02,2010,0.0029,0.288,5,-69.9462,0,0.04165,0.811882,0.400711,0.275938,2267,false,false,Rapid Runway,10,Sunset Dreams,C,melodic minor,Bmaj7
+2021-08-21,2016,0.7132,0.215,19,-43.3057,1,0.23703,0.724151,0.726529,9.81993,2446,true,true,Speedy Lane,14,Moonlit Melodies,A,lydian major,Bm
+2021-08-12,2015,0.9395,0.707,9,-56.4861,0,0.40148,0.124,0.000699,1.452535,7300,false,true,Rapid Runway,6,Sunset Dreams,B,locrian minor,B# minor
+2022-08-15,2011,0.0611,0.012,12,-23.4313,0,0.50669,0.186284,0.268072,4.052008,1724,false,true,Speedy Lane,20,Starlight Symphony,D,dorian minor,B# major
+2022-08-11,2013,0.3455,0.674,5,-20.443,1,0.94636,0.91737,0.225934,0.422354,6480,false,false,Rapid Runway,6,Neon Nights,A,melodic minor,Bb minor
+2023-09-10,2014,0.1646,0.837,17,-20.5467,1,0.38766,0.077803,0.350075,1.131072,1838,false,false,Rapid Runway,10,Starlight Symphony,A,ionian major,Bb minor
+2023-06-22,2021,0.4546,0.597,11,-40.1736,0,0.62907,0.822547,0.234061,8.535598,0,true,false,Quick Path,14,Moonlit Melodies,C,locrian minor,B# major
+2024-02-14,2013,0.4539,0.475,18,-58.3208,0,0.5072,0.584272,0.810097,5.714157,7573,true,false,Speedy Lane,13,Neon Nights,D,aeolian minor,Bb minor
+2024-03-11,2006,0.2256,0.077,1,-96.2689,1,0.75124,0.194262,0.247087,4.416022,5438,false,true,Fast Track,3,Crystal Waters,B,mixolydian major,Bmin
+2023-11-01,2019,0.1373,0.203,6,-85.7603,1,0.94128,0.675952,0.441217,7.203881,8333,false,false,Quick Path,18,Sunset Dreams,D,phrygian minor,B# minor
+2022-02-26,2005,0.2275,0.135,16,-40.8068,1,0.84152,0.684895,0.472712,8.88205,2161,true,true,Fast Track,6,Starlight Symphony,D,lydian major,Bmaj
+2024-04-03,2002,0.0613,0.606,1,-70.0484,1,0.94518,0.752721,0.427534,3.321505,3894,false,true,Fast Track,12,Wildfire Echoes,C,phrygian minor,B major
+2023-02-24,2015,0.1583,0.351,16,-99.2507,1,0.99014,0.984654,0.925298,8.064919,1779,false,true,Rapid Runway,5,Golden Horizon,D,aeolian minor,B minor
+2023-11-15,2012,0.771,0.18,13,-95.2062,1,0.13583,0.131403,0.578592,5.746835,7602,false,true,Rapid Runway,19,Electric Pulse,D,ionian major,Bb minor
+2021-11-29,2005,0.9287,0.766,19,-27.4085,1,0.6114,0.55625,0.647037,0.583719,2653,true,false,Speedy Lane,11,Velvet Twilight,D,aeolian minor,Bmaj7
+2023-03-18,2020,0.1872,0.475,11,-33.1039,0,0.58575,0.737576,0.531222,1.46279,8198,true,false,Fast Track,8,Neon Nights,D,aeolian minor,Bmaj
+2022-07-23,2019,0.481,0.106,8,-25.4218,1,0.45315,0.397795,0.549045,7.488279,1960,true,true,Fast Track,12,Sunset Dreams,B,harmonic minor,Bb minor
+2021-09-23,2006,0.8805,0.861,17,-68.1795,1,0.91947,0.658133,0.332641,9.877076,4886,false,false,Speedy Lane,3,Midnight Serenade,B,dorian minor,Bm
+2023-05-25,2016,0.9876,0.808,7,-73.5829,0,0.06253,0.146838,0.243405,6.524472,5651,true,true,Quick Path,10,Sunset Dreams,B,pentatonic major,Bmin
+2022-01-08,2017,0.4869,0.242,12,-98.625,1,0.25043,0.397355,0.515014,7.026822,7674,false,false,Fast Track,5,Starlight Symphony,B,dorian minor,Bb minor
+2021-03-08,2017,0.5058,0.61,18,-1.3257,0,0.41457,0.773639,0.840051,0.824445,1193,true,false,Swift Circuit,18,Golden Horizon,C,phrygian minor,Bb minor
+2021-01-15,2016,0.9086,0.083,8,-75.9356,1,0.19692,0.942106,0.91171,7.996339,3053,false,false,Rapid Runway,19,Neon Nights,C,ionian major,Bb minor
+2023-05-15,2013,0.325,0.452,12,-15.9658,1,0.9876,0.163913,0.86889,0.611346,4578,false,true,Swift Circuit,1,Moonlit Melodies,A,ionian major,Bmin
+2021-05-29,2006,0.4139,0.194,1,-95.1402,0,0.27013,0.694383,0.496472,9.814922,5981,false,true,Fast Track,20,Moonlit Melodies,B,mixolydian major,B# minor
+2021-06-24,2016,0.9957,0.889,17,-64.351,0,0.27279,0.626861,0.582069,9.332689,2172,false,false,Speedy Lane,4,Crystal Waters,C,harmonic minor,B# minor
+2021-07-28,2006,0.8947,0.888,12,-44.0422,1,0.22589,0.591995,0.208616,1.263112,9243,true,false,Rapid Runway,6,Electric Pulse,B,aeolian minor,B# minor
+2021-04-11,2014,0.9313,0.231,14,-86.5904,0,0.43572,0.703746,0.661835,1.023127,5520,true,true,Fast Track,15,Midnight Serenade,D,melodic minor,Bb major
+2023-04-18,2020,0.8192,0.0,14,-5.5599,1,0.64583,0.725653,0.076264,2.373871,6850,false,true,Rapid Runway,2,Neon Nights,B,locrian minor,Bmin
+2024-03-02,2009,0.7099,0.261,2,-55.6514,0,0.8907,0.031235,0.732667,9.793044,2381,false,false,Quick Path,17,Golden Horizon,C,lydian major,Bmaj7
+2021-10-03,2002,0.475,0.996,6,-14.7269,0,0.92271,0.173495,0.073785,1.312312,9283,false,true,Rapid Runway,17,Wildfire Echoes,C,aeolian minor,Bmaj7
+2023-08-23,2014,0.0457,0.334,14,-34.0437,0,0.48631,0.710687,0.118343,1.20956,7000,true,true,Quick Path,9,Starlight Symphony,C,phrygian minor,Bmin
+2021-05-12,2012,0.5295,0.346,10,-21.6576,1,0.59812,0.754264,0.506798,1.335321,868,true,true,Rapid Runway,6,Midnight Serenade,A,lydian major,Bb major
+2021-10-04,2015,0.2076,0.818,10,-26.229,1,0.55902,0.236977,0.874584,3.804886,2887,false,false,Fast Track,6,Moonlit Melodies,B,mixolydian major,B major
+2023-12-06,2004,0.4714,0.131,19,-90.9212,0,0.18385,0.468915,0.050114,8.356263,3293,true,true,Rapid Runway,1,Neon Nights,C,phrygian minor,Bm
+2023-06-04,2014,0.956,0.349,2,-71.4246,0,0.11199,0.797267,0.867736,8.628494,9001,false,true,Swift Circuit,8,Moonlit Melodies,B,pentatonic major,B# major
+2023-10-20,2014,0.802,0.971,11,-19.1134,1,0.32114,0.660635,0.921257,5.50954,1841,false,false,Quick Path,5,Starlight Symphony,B,melodic minor,B# major
+2021-08-25,2016,0.5139,0.238,7,-96.5576,1,0.20303,0.741676,0.096531,7.251019,3304,false,false,Quick Path,15,Midnight Serenade,A,lydian major,Bmaj
+2021-12-24,2013,0.6191,0.798,8,-63.5327,1,0.60201,0.333827,0.265151,4.410276,3938,false,false,Speedy Lane,2,Starlight Symphony,C,lydian major,B major
+2022-04-11,2015,0.5671,0.331,14,-61.5939,1,0.94142,0.391311,0.08147,3.265971,5758,false,true,Rapid Runway,13,Wildfire Echoes,D,phrygian minor,Bb major
+2023-07-14,2019,0.4908,0.368,20,-39.8744,0,0.41409,0.12848,0.617047,2.386164,7932,false,true,Swift Circuit,17,Crystal Waters,D,pentatonic major,B# minor
+2021-03-26,2008,0.7927,0.931,5,-29.3525,1,0.03908,0.293321,0.820538,0.674492,7714,true,false,Quick Path,14,Golden Horizon,C,ionian major,Bmaj7
+2022-05-07,2011,0.562,0.691,8,-58.2815,0,0.7432,0.695858,0.57768,7.66568,4451,true,true,Fast Track,15,Sunset Dreams,A,mixolydian major,Bb major
+2021-10-17,2020,0.021,0.443,6,-5.82,1,0.6664,0.713667,0.339845,7.238621,9198,true,false,Quick Path,20,Velvet Twilight,B,phrygian minor,B major
+2022-02-04,2017,0.5636,0.168,18,-56.0176,1,0.54837,0.249551,0.252247,5.623295,1847,true,false,Swift Circuit,18,Neon Nights,B,pentatonic major,Bmaj
+2021-12-14,2020,0.6383,0.328,1,-52.5067,0,0.89467,0.86826,0.857114,4.385051,1001,true,false,Fast Track,4,Starlight Symphony,D,phrygian minor,Bmaj7
+2023-11-23,2016,0.5646,0.674,1,-58.0008,1,0.29181,0.986351,0.840499,2.555262,6805,false,true,Fast Track,8,Crystal Waters,C,mixolydian major,Bmaj
+2024-03-31,2015,0.8631,0.298,20,-3.6633,0,0.74428,0.67332,0.162388,8.656908,597,false,false,Rapid Runway,17,Neon Nights,A,lydian major,B major
+2021-11-06,2013,0.0782,0.524,14,-28.1805,0,0.01438,0.339123,0.870571,0.254417,2607,true,true,Swift Circuit,7,Midnight Serenade,C,mixolydian major,Bb major
+2023-08-20,2007,0.8993,0.66,3,-78.7499,1,0.22383,0.113425,0.9313,9.078811,9692,true,true,Swift Circuit,1,Electric Pulse,A,harmonic minor,Bb minor
+2021-12-07,2016,0.4396,0.927,16,-68.6662,0,0.39645,0.299122,0.094912,0.945485,8723,true,true,Rapid Runway,10,Neon Nights,D,melodic minor,Bmaj7
+2023-05-19,2015,0.7082,0.476,8,-87.3505,1,0.83856,0.727178,0.59366,0.553807,8740,false,false,Quick Path,15,Sunset Dreams,D,aeolian minor,B# major
+2022-08-28,2020,0.2962,0.159,3,-97.1588,0,0.0798,0.84281,0.667578,0.150935,5074,true,true,Swift Circuit,19,Midnight Serenade,C,pentatonic major,B# major
+2021-12-18,2014,0.4203,0.038,18,-43.1259,0,0.12004,0.261052,0.373463,5.126078,7185,false,true,Rapid Runway,4,Wildfire Echoes,D,ionian major,B minor
+2022-04-13,2012,0.7384,0.425,18,-35.7912,1,0.72995,0.294817,0.791751,5.491141,4501,true,true,Quick Path,9,Midnight Serenade,B,phrygian minor,B major
+2021-03-25,2013,0.4079,0.31,13,-60.7637,0,0.26702,0.975814,0.103938,3.980661,4829,true,true,Fast Track,3,Midnight Serenade,A,dorian minor,Bb minor
+2022-12-06,2016,0.4999,0.601,11,-23.3619,1,0.77825,0.29132,0.544812,3.5379,1289,false,true,Speedy Lane,8,Wildfire Echoes,A,locrian minor,B major
+2023-08-05,2020,0.2124,0.618,18,-73.1945,1,0.63763,0.639675,0.009465,8.55926,313,true,false,Fast Track,15,Sunset Dreams,B,aeolian minor,B minor
+2022-12-06,2016,0.285,0.99,15,-56.9904,1,0.84006,0.897492,0.854819,1.255532,6141,false,false,Fast Track,18,Starlight Symphony,A,aeolian minor,B minor
+2021-03-04,2014,0.9392,0.545,14,-37.0861,1,0.68136,0.462175,0.849939,1.548171,9,true,false,Fast Track,3,Velvet Twilight,D,melodic minor,Bb major
+2022-11-14,2016,0.2576,0.51,20,-64.1129,0,0.51402,0.945709,0.51099,5.180355,8731,true,true,Quick Path,10,Velvet Twilight,C,locrian minor,Bb minor
+2021-03-06,2021,0.8697,0.591,3,-41.3762,1,0.02528,0.399632,0.402499,2.12089,7929,true,false,Quick Path,17,Starlight Symphony,A,lydian major,Bm
+2023-11-24,2011,0.9208,0.329,2,-89.2939,1,0.8931,0.237198,0.778505,5.615426,7157,false,false,Rapid Runway,9,Wildfire Echoes,D,lydian major,B# major
+2023-01-03,2008,0.4974,0.612,5,-61.2925,0,0.01591,0.960858,0.181186,9.852367,1111,false,true,Quick Path,7,Starlight Symphony,A,phrygian minor,Bb minor
+2022-04-26,2014,0.7812,0.124,12,-8.0062,0,0.15393,0.001336,0.371127,8.981432,2787,true,false,Rapid Runway,15,Sunset Dreams,D,melodic minor,Bb minor
+2021-02-10,2012,0.4968,0.148,15,-36.4752,0,0.00015,0.716953,0.991838,2.724728,4401,false,false,Speedy Lane,17,Midnight Serenade,D,harmonic minor,Bm
+2023-03-03,2009,0.6825,0.287,8,-46.452,0,0.95647,0.293939,0.908353,1.06243,9808,true,false,Swift Circuit,18,Electric Pulse,D,dorian minor,Bb major
+2021-11-19,2015,0.1527,0.986,8,-33.5118,0,0.1802,0.083295,0.448872,2.567486,5059,false,false,Swift Circuit,14,Wildfire Echoes,A,dorian minor,Bmin
+2021-02-25,2005,0.682,0.373,3,-52.7565,0,0.05616,0.932577,0.939696,5.112435,4912,true,false,Swift Circuit,14,Electric Pulse,D,dorian minor,Bmin
+2022-11-14,2017,0.2312,0.453,17,-44.2763,1,0.51454,0.059549,0.043267,0.551253,907,false,true,Rapid Runway,19,Midnight Serenade,D,mixolydian major,B# minor
+2021-11-24,2016,0.4057,0.709,8,-52.2932,1,0.82161,0.728622,0.006897,8.537621,7909,true,true,Fast Track,11,Moonlit Melodies,B,phrygian minor,Bb minor
+2023-10-13,2008,0.0424,0.467,19,-65.221,1,0.79993,0.809196,0.702769,9.59512,9527,true,true,Quick Path,19,Starlight Symphony,A,dorian minor,B major
+2021-09-14,2017,0.5553,0.28,8,-86.8873,1,0.6648,0.485827,0.366701,4.398614,261,true,true,Speedy Lane,4,Crystal Waters,B,pentatonic major,B major
+2023-04-29,2012,0.5742,0.837,10,-28.337,0,0.62429,0.950484,0.035714,8.2691,8682,false,false,Quick Path,3,Wildfire Echoes,C,phrygian minor,Bmaj7
+2023-08-26,2018,0.7487,0.407,12,-31.0581,1,0.31562,0.088547,0.55092,4.71221,6860,true,true,Rapid Runway,20,Electric Pulse,D,lydian major,Bmaj7
+2022-10-30,2010,0.2235,0.815,20,-33.1578,1,0.60597,0.794937,0.580213,4.650262,2213,false,true,Speedy Lane,16,Moonlit Melodies,C,melodic minor,Bm
+2022-06-27,2013,0.5594,0.471,3,-30.5052,0,0.25323,0.844218,0.051658,0.329608,2147,false,false,Speedy Lane,7,Wildfire Echoes,A,melodic minor,Bb major
+2022-06-16,2012,0.078,0.559,3,-19.68,0,0.27452,0.841076,0.29527,6.217421,1050,true,false,Rapid Runway,10,Electric Pulse,B,harmonic minor,Bmaj
+2021-11-25,2011,0.3289,0.102,4,-49.9855,1,0.93418,0.720797,0.138485,1.678817,7848,false,true,Fast Track,5,Crystal Waters,D,ionian major,Bm
+2022-06-30,2012,0.438,0.564,9,-82.5728,0,0.82765,0.752086,0.256853,8.763068,5129,false,true,Swift Circuit,14,Neon Nights,A,mixolydian major,Bmaj
+2021-11-18,2014,0.2364,0.048,8,-36.297,0,0.49591,0.738793,0.893197,0.696454,299,true,true,Fast Track,19,Golden Horizon,D,phrygian minor,Bmaj7
+2023-01-11,0,0.9704,0.532,2,-83.8481,0,0.48729,0.842691,0.377985,4.462205,4411,true,false,Fast Track,8,Neon Nights,A,melodic minor,Bmaj
+2021-12-02,0,0.6078,0.05,15,-94.2511,1,0.32534,0.856684,0.901601,6.22216,3465,true,true,Rapid Runway,7,Electric Pulse,A,dorian minor,Bmaj
+2021-08-09,2004,0.8023,0.934,19,-5.9726,1,0.08361,0.845814,0.008223,1.64232,1934,false,false,Quick Path,14,Crystal Waters,A,mixolydian major,Bmaj7
+2022-11-02,2015,0.5401,0.126,19,-87.4254,1,0.95383,0.13704,0.014182,0.326848,6497,false,false,Rapid Runway,9,Wildfire Echoes,C,pentatonic major,Bmaj
+2021-08-20,2005,0.1078,0.602,18,-54.2813,1,0.7708,0.705147,0.320815,8.37143,2011,true,false,Fast Track,11,Midnight Serenade,B,pentatonic major,Bmin
+2021-05-02,2016,0.5576,0.12,20,-73.8885,0,0.58759,0.831016,0.94661,2.22278,4067,false,true,Swift Circuit,18,Velvet Twilight,B,pentatonic major,B# minor
+2022-04-03,2015,0.3947,0.547,13,-55.8945,0,0.04011,0.667871,0.583432,0.550564,3985,true,true,Quick Path,14,Sunset Dreams,A,lydian major,Bmaj7
+2022-02-17,2013,0.8198,0.939,1,-28.4144,0,0.48938,0.611175,0.417065,0.508043,1596,true,false,Speedy Lane,10,Starlight Symphony,B,lydian major,Bmaj
+2023-08-31,2008,0.1083,0.929,12,-40.0083,1,0.61151,0.604935,0.446786,5.009686,4872,false,false,Fast Track,2,Crystal Waters,D,dorian minor,Bmaj7
+2023-08-19,2015,0.4843,0.487,11,-14.1062,1,0.91532,0.261995,0.573512,2.260044,1062,false,true,Speedy Lane,1,Sunset Dreams,A,lydian major,B# minor
+2023-09-14,2021,0.2513,0.557,11,-22.9504,1,0.22457,0.388937,0.387139,8.136283,6412,true,false,Quick Path,12,Midnight Serenade,C,mixolydian major,Bb minor
+2022-06-12,2010,0.2285,0.901,1,-79.3248,1,0.03264,0.41851,0.022272,2.755581,6878,true,false,Speedy Lane,8,Midnight Serenade,C,dorian minor,B# minor
+2023-11-30,2004,0.4444,0.253,1,-65.0694,0,0.72789,0.090072,0.52884,5.24906,2621,false,true,Rapid Runway,7,Moonlit Melodies,B,harmonic minor,Bmaj
+2023-01-19,2008,0.3584,0.806,13,-5.5373,1,0.13076,0.628772,0.626333,7.237587,8974,true,true,Swift Circuit,3,Neon Nights,C,pentatonic major,B minor
+2022-06-01,2019,0.0022,0.826,9,-13.4391,1,0.06113,0.278154,0.480258,1.910769,5881,false,true,Quick Path,10,Golden Horizon,A,aeolian minor,Bmaj
+2021-08-30,2004,0.5536,0.051,2,-95.3781,0,0.52556,0.746333,0.407197,7.738508,9628,false,true,Rapid Runway,7,Sunset Dreams,A,dorian minor,Bb minor
+2023-11-30,2014,0.206,0.652,9,-26.108,0,0.97031,0.958333,0.689389,1.953188,897,true,false,Fast Track,4,Sunset Dreams,B,ionian major,Bmaj7
+2022-08-06,2014,0.4059,0.188,11,-99.2181,1,0.22473,0.718957,0.303352,5.933091,2865,false,false,Swift Circuit,9,Electric Pulse,B,melodic minor,B# minor
+2022-11-26,2006,0.736,0.003,2,-73.394,1,0.17768,0.327776,0.355548,9.60407,1096,false,true,Swift Circuit,4,Electric Pulse,B,harmonic minor,Bm
+2021-11-12,2012,0.5619,0.739,16,-18.3424,0,0.08887,0.662421,0.334415,9.274886,1731,false,true,Swift Circuit,9,Neon Nights,C,dorian minor,Bb major
+2022-05-05,2017,0.4054,0.047,3,-4.9939,0,0.84612,0.166682,0.845326,2.206624,175,true,false,Swift Circuit,12,Golden Horizon,D,mixolydian major,B# minor
+2021-02-26,1999,0.1236,0.176,6,-74.9772,0,0.18457,0.365859,0.523036,0.469085,3291,true,true,Quick Path,1,Electric Pulse,B,aeolian minor,Bb minor
+2022-01-10,2012,0.7746,0.038,5,-71.499,1,0.1,0.12067,0.371848,8.273431,1307,false,true,Speedy Lane,6,Midnight Serenade,A,mixolydian major,Bmin
+2022-03-26,2004,0.5048,0.248,1,-82.5322,1,0.54981,0.395694,0.500905,4.698467,4946,false,true,Speedy Lane,9,Wildfire Echoes,B,mixolydian major,Bb major
+2020-12-12,2014,0.1117,0.235,15,-23.5898,1,0.09304,0.250821,0.000534,6.018725,7580,true,false,Fast Track,1,Midnight Serenade,D,mixolydian major,B# minor
+2023-12-24,2012,0.6221,0.693,20,-72.7967,1,0.19056,0.993628,0.700186,2.797905,6318,false,false,Quick Path,9,Midnight Serenade,B,mixolydian major,B# minor
+2023-07-03,2019,0.5681,0.969,4,-86.7238,1,0.06247,0.648967,0.524904,0.450605,5953,true,false,Swift Circuit,2,Moonlit Melodies,D,ionian major,B minor
+2022-11-29,2011,0.5704,0.805,19,-66.8864,1,0.87995,0.467466,0.931119,8.053121,10000,false,true,Quick Path,9,Crystal Waters,A,ionian major,Bmaj7
+2023-02-15,2017,0.2785,0.583,20,-33.3074,0,0.78464,0.66508,0.528112,4.063599,2179,true,true,Quick Path,10,Starlight Symphony,A,lydian major,Bm
+2022-12-27,2007,0.6605,0.56,3,-38.8373,0,0.20122,0.336456,0.780866,1.653857,5698,true,false,Swift Circuit,20,Starlight Symphony,B,lydian major,Bb major
+2024-02-21,2006,0.3557,0.573,13,-44.7836,1,0.58459,0.086176,0.17263,0.017979,9381,false,false,Speedy Lane,13,Wildfire Echoes,A,phrygian minor,B# major
+2022-06-26,2011,0.2264,0.633,16,-91.2225,1,0.92806,0.643108,0.814682,0.154477,5997,false,true,Rapid Runway,10,Velvet Twilight,A,aeolian minor,Bmin
+2023-11-07,2005,0.919,0.934,20,-10.1214,0,0.99789,0.620188,0.738244,4.54157,1161,true,false,Speedy Lane,15,Moonlit Melodies,D,harmonic minor,Bb major
+2023-05-22,2012,0.8279,0.147,17,-46.2042,0,0.09358,0.912048,0.14837,7.956956,8854,false,true,Rapid Runway,8,Velvet Twilight,C,ionian major,Bmin
+2023-03-11,2018,0.0508,0.88,15,-45.9239,1,0.52633,0.853232,0.441979,4.981921,2317,false,true,Speedy Lane,2,Midnight Serenade,A,mixolydian major,B# major
+2022-08-04,0,0.8248,0.214,13,-63.6172,1,0.97572,0.052018,0.274345,1.704902,6117,false,true,Quick Path,18,Neon Nights,D,ionian major,B minor
+2022-12-06,2003,0.9039,0.638,12,-63.9404,1,0.06676,0.43594,0.12002,5.810712,6076,true,true,Swift Circuit,11,Starlight Symphony,B,pentatonic major,B# minor
+2022-07-29,2006,0.6293,0.795,19,-87.4166,1,0.82911,0.616692,0.361264,5.403302,5114,false,true,Fast Track,12,Velvet Twilight,D,lydian major,Bmin
+2022-03-11,2018,0.6696,0.934,2,-9.9053,0,0.25196,0.696114,0.439368,1.707075,9544,true,true,Quick Path,20,Crystal Waters,A,harmonic minor,Bmaj
+2024-04-05,2005,0.9416,0.087,18,-70.5903,1,0.02885,0.580724,0.909881,7.657594,3131,false,false,Quick Path,7,Wildfire Echoes,C,mixolydian major,B# minor
+2021-07-13,2019,0.3647,0.708,15,-25.4482,0,0.63595,0.451287,0.773999,3.098579,2218,true,false,Speedy Lane,10,Moonlit Melodies,A,lydian major,B minor
+2023-12-11,2015,0.6594,0.026,7,-48.5948,0,0.91589,0.16689,0.98325,6.1461,1985,false,false,Quick Path,17,Neon Nights,A,melodic minor,B major
+2024-02-16,2019,0.0855,0.622,17,-1.2485,0,0.70003,0.534879,0.343215,3.10917,6994,true,true,Fast Track,8,Electric Pulse,A,aeolian minor,Bm
+2022-12-02,2009,0.0298,0.914,1,-4.8606,1,0.66844,0.948071,0.365025,4.546922,5164,false,false,Rapid Runway,2,Golden Horizon,D,harmonic minor,Bm
+2021-10-02,2013,0.8204,0.151,7,-79.867,0,0.32699,0.291412,0.626496,5.28469,7598,false,true,Quick Path,17,Crystal Waters,B,phrygian minor,Bmaj
+2023-02-02,2014,0.5619,0.942,12,-16.1954,1,0.51718,0.557928,0.738484,4.317637,2339,false,false,Quick Path,19,Velvet Twilight,D,pentatonic major,B minor
+2021-08-04,2019,0.1907,0.693,14,-22.9667,1,0.37818,0.509153,0.01426,5.588909,5171,false,false,Rapid Runway,18,Golden Horizon,B,locrian minor,B major
+2024-01-17,2012,0.0038,0.43,19,-28.0364,1,0.61423,0.843829,0.808012,7.500238,3315,false,true,Rapid Runway,13,Sunset Dreams,B,harmonic minor,Bb major
+2023-06-25,2010,0.9833,0.007,19,-97.1642,1,0.26825,0.848287,0.246369,4.801342,8728,false,true,Speedy Lane,20,Crystal Waters,D,pentatonic major,B# major
+2022-01-31,2015,0.4825,0.62,14,-50.5885,0,0.95353,0.234849,0.570339,0.237674,8133,false,true,Fast Track,1,Golden Horizon,A,ionian major,Bmin
+2022-03-31,2014,0.4492,0.404,5,-32.7924,0,0.02634,0.35156,0.307034,4.086429,9648,false,true,Rapid Runway,1,Crystal Waters,B,ionian major,Bb minor
+2024-01-24,2018,0.2698,0.648,12,-16.2731,0,0.47168,0.321289,0.61353,0.796502,6036,false,false,Speedy Lane,15,Moonlit Melodies,A,mixolydian major,Bb major
+2023-02-22,2003,0.0418,0.321,10,-36.2925,1,0.34642,0.187145,0.672528,9.169648,6202,true,true,Speedy Lane,3,Midnight Serenade,B,harmonic minor,Bb minor
+2021-06-10,0,0.3261,0.596,5,-22.145,0,0.3061,0.194906,0.961998,8.319454,3413,true,true,Rapid Runway,18,Crystal Waters,D,phrygian minor,Bm
+2023-05-03,2011,0.7565,0.867,12,-2.8827,0,0.79385,0.041106,0.522072,6.224957,5172,false,false,Quick Path,20,Crystal Waters,B,pentatonic major,Bmaj
+2024-01-13,2012,0.4107,0.356,5,-14.5131,1,0.81034,0.792299,0.598949,1.958965,7107,true,true,Swift Circuit,1,Crystal Waters,C,dorian minor,Bm
+2024-01-25,2012,0.7273,0.79,7,-60.269,1,0.59831,0.967631,0.647512,2.285281,5257,false,true,Quick Path,3,Starlight Symphony,A,melodic minor,B minor
+2022-06-10,2009,0.8297,0.443,9,-13.2754,1,0.11773,0.312878,0.636874,7.298385,474,false,true,Fast Track,3,Golden Horizon,C,melodic minor,B# minor
+2021-12-19,2013,0.34,0.397,6,-4.0882,0,0.52604,0.85513,0.457292,4.287616,7069,true,true,Speedy Lane,19,Midnight Serenade,C,melodic minor,Bb minor
+2023-08-03,2010,0.8966,0.431,19,-99.861,0,0.3074,0.081511,0.277302,6.021441,7577,true,false,Fast Track,10,Golden Horizon,D,locrian minor,Bm
+2022-01-28,2013,0.0741,0.721,18,-80.7246,1,0.71687,0.125189,0.288181,8.762479,3859,true,true,Quick Path,6,Crystal Waters,C,mixolydian major,B major
+2021-11-06,2014,0.5469,0.922,4,-40.7287,0,0.56114,0.533112,0.245517,1.591848,9978,true,true,Fast Track,8,Neon Nights,A,harmonic minor,B minor
+2024-02-12,2002,0.7505,0.276,18,-33.4583,0,0.65842,0.465678,0.885093,8.876516,6698,true,true,Speedy Lane,19,Wildfire Echoes,D,ionian major,Bmaj
+2022-05-23,2010,0.8047,0.631,20,-40.9454,1,0.20127,0.288871,0.043451,4.279769,4588,true,false,Quick Path,17,Starlight Symphony,D,lydian major,Bmaj7
+2023-07-06,2008,0.1829,0.454,15,-6.172,1,0.37372,0.280068,0.626245,0.46276,4476,true,false,Swift Circuit,8,Sunset Dreams,D,locrian minor,Bmin
+2023-12-23,2013,0.3143,0.467,14,-28.9893,0,0.92702,0.782454,0.110522,4.672745,309,true,true,Rapid Runway,20,Golden Horizon,B,pentatonic major,Bmaj
+2022-10-06,2011,0.1255,0.968,10,-14.4952,1,0.56293,0.991923,0.789743,8.987312,325,true,true,Quick Path,13,Crystal Waters,D,mixolydian major,B major
+2021-11-24,2015,0.3033,0.741,4,-79.0677,1,0.82862,0.897838,0.357493,2.88885,3257,true,true,Swift Circuit,14,Midnight Serenade,C,lydian major,Bb major
+2021-01-22,2009,0.8775,0.472,2,-61.1129,0,0.59652,0.144067,0.585598,5.950355,716,true,true,Quick Path,12,Moonlit Melodies,D,pentatonic major,B# major
+2024-01-06,0,0.1184,0.428,11,-84.1139,1,0.78344,0.912233,0.447114,3.478448,1825,true,true,Speedy Lane,9,Crystal Waters,D,aeolian minor,Bm
+2023-08-13,2014,0.0429,0.713,3,-71.08,0,0.60352,0.433409,0.145801,6.072832,3329,true,false,Speedy Lane,12,Wildfire Echoes,B,dorian minor,Bmaj7
+2021-08-29,2010,0.4889,0.312,5,-38.1238,1,0.78755,0.230529,0.119904,7.15038,8616,false,true,Fast Track,1,Neon Nights,A,melodic minor,B minor
+2024-01-28,2005,0.07,0.79,16,-46.5001,0,0.75298,0.705325,0.97386,4.565065,3035,false,true,Rapid Runway,6,Neon Nights,B,lydian major,Bmaj7
+2023-09-19,2016,0.6686,0.566,14,-46.4421,0,0.84629,0.383775,0.667336,6.757759,2960,true,true,Speedy Lane,2,Velvet Twilight,A,harmonic minor,B# minor
+2023-09-10,2004,0.3699,0.754,19,-1.2964,0,0.94965,0.60078,0.39705,5.359946,8635,true,true,Rapid Runway,6,Neon Nights,A,aeolian minor,Bb major
+2021-06-26,2003,0.3313,0.253,15,-4.7835,1,0.97616,0.036357,0.18917,2.212102,448,false,false,Swift Circuit,4,Midnight Serenade,C,phrygian minor,B major
+2023-10-15,2009,0.9242,0.578,14,-38.1549,0,0.56781,0.927343,0.188144,3.679704,6007,true,false,Speedy Lane,18,Sunset Dreams,B,ionian major,Bm
+2021-07-05,2000,0.9328,0.713,14,-97.2231,1,0.97004,0.395194,0.165429,7.678845,7546,false,true,Speedy Lane,9,Neon Nights,D,dorian minor,Bm
+2023-02-13,2004,0.9262,0.92,16,-70.9611,0,0.35637,0.676148,0.380123,4.816614,6770,true,true,Rapid Runway,4,Velvet Twilight,B,dorian minor,B major
+2021-07-19,2013,0.364,0.572,16,-62.7619,1,0.7685,0.125204,0.328933,6.048954,932,false,true,Quick Path,9,Neon Nights,B,locrian minor,B# minor
+2021-12-09,2012,0.8464,0.711,10,-84.7036,1,0.02414,0.18643,0.643726,9.005368,1235,true,true,Speedy Lane,4,Neon Nights,A,ionian major,B# major
+2022-10-26,2008,0.925,0.74,12,-50.4183,1,0.59085,0.670973,0.144848,7.268138,9517,false,true,Rapid Runway,11,Moonlit Melodies,A,harmonic minor,Bb minor
+2022-09-20,2011,0.9696,0.973,8,-88.692,1,0.51825,0.318858,0.055878,7.242399,795,false,true,Quick Path,8,Wildfire Echoes,B,pentatonic major,B# major
+2023-09-17,2004,0.9534,0.468,7,-46.488,1,0.82098,0.670766,0.461742,7.61393,9241,true,true,Fast Track,2,Crystal Waters,D,pentatonic major,B# minor
+2021-03-28,2020,0.4881,0.814,14,-35.3669,0,0.47553,0.50912,0.94995,0.088875,47,true,false,Fast Track,7,Sunset Dreams,A,pentatonic major,Bm
+2023-05-21,2003,0.903,0.209,18,-52.8771,0,0.06288,0.001651,0.795384,4.339222,6877,false,false,Quick Path,2,Midnight Serenade,D,lydian major,Bm
+2023-03-07,2018,0.6044,0.637,12,-51.7815,1,0.20776,0.029749,0.579486,2.277936,5691,true,false,Rapid Runway,1,Electric Pulse,D,aeolian minor,Bb major
+2022-02-25,2017,0.0923,0.371,19,-97.5864,0,0.71455,0.612193,0.112112,4.879889,3528,false,false,Quick Path,20,Velvet Twilight,A,locrian minor,B# minor
+2022-12-28,2012,0.735,0.341,2,-20.3463,1,0.97886,0.317512,0.601855,9.442939,6719,true,true,Fast Track,1,Neon Nights,D,aeolian minor,Bb minor
+2023-11-07,2012,0.6221,0.939,5,-77.2387,1,0.81778,0.516037,0.752798,9.748075,595,true,true,Fast Track,13,Electric Pulse,B,melodic minor,B major
+2021-04-03,2014,0.0034,0.539,18,-91.2073,0,0.60452,0.007175,0.420191,6.489117,7557,false,true,Rapid Runway,9,Starlight Symphony,D,melodic minor,Bb minor
+2022-06-29,2011,0.1404,0.26,19,-68.678,1,0.63447,0.486868,0.539916,6.214436,1148,true,false,Quick Path,8,Neon Nights,D,dorian minor,B major
+2023-08-25,2011,0.6443,0.941,6,-73.0375,0,0.80831,0.250845,0.383186,7.672243,3372,false,true,Quick Path,9,Sunset Dreams,B,mixolydian major,B# major
+2021-06-27,2011,0.7085,0.599,15,-77.5387,1,0.90019,0.125073,0.149081,5.991006,9612,false,true,Speedy Lane,19,Electric Pulse,A,lydian major,B# major
+2022-08-22,2010,0.8548,0.185,5,-31.5475,1,0.68151,0.528419,0.260101,6.185542,3496,false,false,Quick Path,2,Velvet Twilight,A,lydian major,Bm
+2021-09-10,2014,0.4986,0.691,12,-14.5948,1,0.78782,0.528069,0.564331,5.425329,7512,true,true,Quick Path,15,Wildfire Echoes,A,pentatonic major,Bb major
+2022-12-20,2013,0.6166,0.617,20,-88.4955,0,0.76928,0.3411,0.885457,3.672672,6642,false,false,Fast Track,2,Wildfire Echoes,B,mixolydian major,B minor
+2021-02-04,2014,0.6775,0.409,6,-48.5485,0,0.42582,0.605676,0.319577,8.140978,1170,true,false,Fast Track,20,Starlight Symphony,C,harmonic minor,Bmaj
+2023-10-22,2015,0.9947,0.884,2,-65.5532,1,0.70629,0.190359,0.308105,7.329662,9046,false,false,Speedy Lane,18,Electric Pulse,C,pentatonic major,Bb major
+2022-07-19,2005,0.3101,0.877,12,-18.8855,1,0.00674,0.166719,0.74185,1.252756,8139,true,true,Rapid Runway,18,Neon Nights,C,harmonic minor,Bmaj
+2022-12-04,2018,0.4534,0.928,6,-98.5792,0,0.71793,0.402684,0.902489,5.237166,2978,true,false,Quick Path,5,Midnight Serenade,D,harmonic minor,Bmaj
+2023-09-17,2015,0.5167,0.222,6,-77.906,0,0.71156,0.686286,0.732442,3.476869,1464,false,false,Fast Track,2,Wildfire Echoes,A,pentatonic major,B minor
+2023-09-02,2019,0.3168,0.542,10,-99.0834,0,0.5108,0.40366,0.488835,8.990379,5365,true,true,Quick Path,17,Wildfire Echoes,A,mixolydian major,Bmaj
+2024-03-16,2013,0.7136,0.077,5,-82.0669,0,0.0191,0.95703,0.558486,8.148576,9338,true,false,Speedy Lane,12,Electric Pulse,D,dorian minor,B minor
+2022-06-17,2017,0.6094,0.942,14,-80.122,1,0.06875,0.453209,0.677035,9.581103,4857,false,false,Speedy Lane,5,Starlight Symphony,D,lydian major,B major
+2021-05-23,2004,0.0341,0.916,17,-10.5392,1,0.93012,0.27665,0.91417,4.953907,7853,true,true,Speedy Lane,8,Electric Pulse,A,harmonic minor,Bb major
+2021-05-09,2009,0.0796,0.082,14,-48.4129,0,0.4593,0.85562,0.419086,5.019104,3050,false,false,Swift Circuit,8,Neon Nights,D,locrian minor,Bmaj7
+2021-04-14,2011,0.2437,0.297,16,-15.3269,1,0.0852,0.367019,0.465204,7.983482,7893,false,true,Speedy Lane,3,Golden Horizon,B,mixolydian major,B# major
+2022-05-03,2010,0.6807,0.832,18,-67.8597,0,0.87152,0.27527,0.60203,3.680043,6942,true,false,Swift Circuit,11,Velvet Twilight,A,dorian minor,B# minor
+2023-10-24,2018,0.5385,0.099,11,-75.4938,0,0.48665,0.841992,0.005598,1.268526,5306,false,true,Fast Track,12,Electric Pulse,A,phrygian minor,Bmaj
+2023-01-13,2018,0.8369,0.387,9,-67.6065,0,0.69479,0.899757,0.196818,7.250608,1207,true,true,Quick Path,15,Neon Nights,C,pentatonic major,Bm
+2023-11-17,2010,0.0772,0.18,2,-41.2233,1,0.25412,0.480706,0.18282,4.608795,5867,true,false,Fast Track,14,Crystal Waters,C,dorian minor,B# major
+2024-04-01,2019,0.4295,0.973,6,-15.0299,0,0.28159,0.246541,0.903367,5.08005,6857,false,true,Fast Track,9,Electric Pulse,B,phrygian minor,B# major
+2023-08-20,2012,0.2711,0.318,1,-68.5072,1,0.15377,0.016937,0.832016,6.204342,941,false,false,Speedy Lane,18,Velvet Twilight,C,melodic minor,Bmaj
+2020-12-18,2011,0.6145,0.873,1,-58.4452,0,0.90645,0.528419,0.243433,6.197214,4301,true,false,Swift Circuit,17,Wildfire Echoes,A,locrian minor,B# minor
+2022-01-21,2010,0.5097,0.784,3,-53.5468,1,0.91482,0.043486,0.375657,8.213858,5678,false,false,Fast Track,18,Sunset Dreams,B,harmonic minor,B# minor
+2023-06-27,2019,0.4759,0.422,1,-20.1867,1,0.41811,0.917293,0.039843,3.514107,647,false,false,Fast Track,10,Neon Nights,C,aeolian minor,Bmaj7
+2023-04-20,2012,0.3216,0.557,10,-80.659,1,0.89709,0.32018,0.375821,0.466425,7288,false,false,Quick Path,19,Crystal Waters,C,dorian minor,Bmin
+2023-12-08,2005,0.2481,0.003,16,-76.3889,1,0.52252,0.379276,0.064857,6.839847,1762,true,true,Swift Circuit,4,Moonlit Melodies,B,phrygian minor,Bmin
+2023-07-26,2017,0.3078,0.979,1,-57.7117,1,0.25334,0.401766,0.222104,5.448898,6291,false,true,Fast Track,12,Electric Pulse,A,pentatonic major,B# major
+2024-02-14,2020,0.5254,0.419,12,-68.1381,0,0.05744,0.707041,0.349902,0.188786,2462,false,true,Swift Circuit,19,Wildfire Echoes,B,ionian major,Bb minor
+2021-11-16,2013,0.7585,0.004,1,-49.5075,0,0.44191,0.49339,0.083473,7.277708,7595,true,false,Swift Circuit,5,Velvet Twilight,B,locrian minor,B# minor
+2021-01-03,2017,0.9858,0.597,4,-83.4955,0,0.21473,0.548649,0.490164,7.23489,8668,false,false,Swift Circuit,11,Crystal Waters,B,harmonic minor,B major
+2022-03-24,2014,0.8967,0.575,4,-45.0895,0,0.92741,0.451987,0.176544,5.730031,483,false,false,Fast Track,5,Sunset Dreams,C,ionian major,Bb major
+2022-06-26,2013,0.9733,0.813,11,-20.4283,0,0.01257,0.544374,0.023206,3.113319,9261,false,false,Fast Track,18,Wildfire Echoes,A,locrian minor,Bb major
+2021-07-04,2011,0.2388,0.858,19,-67.1385,1,0.5658,0.984089,0.685215,5.064212,984,true,true,Quick Path,20,Midnight Serenade,C,aeolian minor,B# major
+2024-03-06,2014,0.5304,0.586,7,-26.0763,1,0.64007,0.796355,0.165451,5.294057,9503,true,true,Speedy Lane,11,Wildfire Echoes,A,lydian major,Bmin
+2024-01-01,2020,0.4579,0.53,9,-72.1122,1,0.02022,0.518981,0.176429,3.701735,1049,false,true,Speedy Lane,17,Wildfire Echoes,C,dorian minor,Bmaj7
+2023-06-23,2007,0.8448,0.903,15,-73.4752,1,0.68427,0.075472,0.584791,8.08723,3024,true,true,Rapid Runway,6,Golden Horizon,B,pentatonic major,Bm
+2021-01-01,2010,0.5476,0.466,5,-58.0244,1,0.835,0.463672,0.725952,8.612515,3932,false,true,Quick Path,17,Velvet Twilight,B,aeolian minor,Bm
+2021-06-03,2019,0.4618,0.434,5,-74.8647,0,0.63988,0.055615,0.927222,7.381329,2689,false,false,Speedy Lane,5,Midnight Serenade,B,mixolydian major,Bmin
+2024-03-28,2012,0.5469,0.993,16,-71.7754,1,0.88567,0.330111,0.920573,1.406889,9963,false,false,Quick Path,20,Moonlit Melodies,A,dorian minor,Bm
+2023-11-06,2009,0.1304,0.23,13,-93.5595,1,0.4999,0.678528,0.604708,9.446001,1832,true,false,Swift Circuit,19,Starlight Symphony,B,pentatonic major,B# major
+2021-04-17,2014,0.4092,0.465,1,-17.9791,0,0.33764,0.465122,0.578425,9.342922,1697,false,true,Quick Path,20,Sunset Dreams,B,phrygian minor,Bb major
+2022-01-24,2012,0.0394,0.308,20,-26.9473,1,0.81895,0.409978,0.793288,4.441005,4474,true,true,Fast Track,3,Neon Nights,D,locrian minor,Bb major
+2021-02-08,2011,0.1862,0.051,4,-79.4477,1,0.17684,0.314016,0.545515,7.773156,4984,false,true,Rapid Runway,15,Midnight Serenade,C,melodic minor,Bmaj
+2020-12-17,2017,0.8883,0.373,3,-80.7757,0,0.26909,0.637059,0.41562,2.731553,9537,false,false,Speedy Lane,19,Velvet Twilight,D,locrian minor,Bb minor
+2021-08-16,2018,0.4908,0.607,12,-7.7651,1,0.91528,0.987378,0.97239,1.497208,9246,false,true,Speedy Lane,8,Velvet Twilight,D,dorian minor,B# major
+2021-02-27,2014,0.8274,0.3,5,-92.8779,0,0.00365,0.17785,0.611443,2.695806,6230,false,true,Swift Circuit,9,Neon Nights,D,mixolydian major,Bb minor
+2023-06-29,2008,0.2188,0.168,17,-70.0849,1,0.20345,0.588857,0.403058,6.407919,9962,false,true,Fast Track,15,Sunset Dreams,D,melodic minor,B minor
+2021-05-12,2010,0.8742,0.001,8,-58.2297,1,0.24165,0.788259,0.833411,1.809383,5735,true,true,Quick Path,2,Electric Pulse,A,harmonic minor,B minor
+2022-01-18,2010,0.0667,0.732,10,-15.5726,1,0.30555,0.202744,0.842524,0.517542,3098,false,true,Rapid Runway,5,Midnight Serenade,C,harmonic minor,B major
+2023-06-08,2019,0.671,0.092,14,-2.3823,0,0.49261,0.292626,0.376719,8.249252,5649,true,true,Quick Path,11,Velvet Twilight,A,ionian major,B# minor
+2024-04-05,2017,0.4224,0.832,13,-83.4139,1,0.76976,0.365951,0.127926,7.328918,1596,false,false,Swift Circuit,14,Velvet Twilight,B,lydian major,B major
+2022-09-12,2011,0.0542,0.614,7,-43.9811,1,0.06286,0.483107,0.54243,8.972518,4430,true,false,Swift Circuit,5,Golden Horizon,A,harmonic minor,B# minor
+2023-06-10,2017,0.5725,0.623,11,-2.2133,1,0.00385,0.807388,0.399776,9.175208,816,true,false,Quick Path,16,Golden Horizon,C,lydian major,B minor
+2023-10-08,2012,0.7139,0.857,1,-11.5066,0,0.30787,0.43288,0.379977,0.225282,7158,true,false,Speedy Lane,17,Midnight Serenade,D,aeolian minor,Bm
+2022-08-05,2011,0.5692,0.783,17,-41.7824,1,0.04073,0.392874,0.438052,3.359136,1078,true,false,Fast Track,14,Starlight Symphony,D,phrygian minor,Bb major
+2022-08-07,2018,0.6058,0.007,12,-39.839,1,0.68059,0.852952,0.090864,3.605279,9818,true,true,Fast Track,4,Wildfire Echoes,C,ionian major,Bmaj
+2023-12-20,2020,0.9716,0.69,10,-18.8061,0,0.03705,0.94797,0.161579,6.196498,3305,true,false,Speedy Lane,2,Starlight Symphony,B,harmonic minor,B# minor
+2023-02-23,2019,0.7197,0.555,14,-10.4599,1,0.22268,0.336891,0.844606,7.719227,1835,true,false,Quick Path,5,Wildfire Echoes,D,melodic minor,Bb minor
+2022-04-26,0,0.9408,0.648,11,-48.5058,0,0.95334,0.170087,0.058317,5.520335,8260,false,true,Quick Path,20,Golden Horizon,A,dorian minor,Bb minor
+2021-07-04,2013,0.9059,0.997,10,-24.4974,1,0.90084,0.015515,0.346392,7.880766,9357,true,true,Quick Path,5,Midnight Serenade,A,ionian major,B major
+2021-01-17,2012,0.1502,0.133,3,-10.4981,1,0.9205,0.76146,0.019456,1.259622,6717,true,false,Rapid Runway,17,Starlight Symphony,A,pentatonic major,Bb minor
+2022-06-03,2011,0.1274,0.953,16,-76.522,0,0.97713,0.419371,0.163869,0.219822,6506,true,false,Rapid Runway,20,Electric Pulse,D,locrian minor,B minor
+2024-01-03,2013,0.2158,0.448,18,-14.1066,0,0.06918,0.247254,0.233993,3.675272,9817,true,true,Quick Path,20,Moonlit Melodies,D,pentatonic major,B# minor
+2021-01-01,2014,0.4646,0.281,14,-75.0268,0,0.68007,0.867839,0.800504,0.24502,3864,true,true,Fast Track,2,Starlight Symphony,C,phrygian minor,Bmaj7
+2022-02-01,2017,0.4755,0.005,17,-29.0872,0,0.4154,0.319536,0.784253,0.604494,4187,true,true,Quick Path,18,Starlight Symphony,C,mixolydian major,Bm
+2021-08-02,2011,0.3312,0.587,13,-46.1851,0,0.94864,0.983008,0.146049,3.854282,4086,false,true,Quick Path,8,Golden Horizon,C,dorian minor,Bmin
+2022-02-11,2013,0.4466,0.745,18,-58.4752,0,0.12925,0.894056,0.35615,6.531517,8206,false,true,Speedy Lane,11,Starlight Symphony,B,mixolydian major,Bb minor
+2021-09-14,2017,0.1108,0.198,10,-25.11,0,0.35797,0.703768,0.718803,9.019066,4371,false,true,Quick Path,4,Wildfire Echoes,A,aeolian minor,Bmin
+2024-03-13,2009,0.6017,0.698,8,-13.1872,0,0.20573,0.827893,0.524481,7.32533,3255,true,true,Quick Path,4,Velvet Twilight,D,harmonic minor,Bmaj
+2023-04-01,2016,0.0717,0.434,2,-94.6074,0,0.77309,0.767039,0.921579,4.872868,6313,true,false,Rapid Runway,1,Electric Pulse,A,ionian major,Bm
+2022-06-24,2004,0.4179,0.135,10,-96.4148,0,0.03759,0.034813,0.884322,3.394178,178,true,false,Rapid Runway,10,Neon Nights,B,locrian minor,B# minor
+2021-08-27,2004,0.8153,0.703,10,-62.7026,1,0.09667,0.215556,0.562149,2.616249,8077,true,true,Fast Track,6,Golden Horizon,B,locrian minor,Bb minor
+2024-02-12,2014,0.1669,0.562,2,-49.333,1,0.42369,0.019783,0.89889,7.281696,8282,true,false,Speedy Lane,10,Moonlit Melodies,B,harmonic minor,Bb minor
+2023-05-26,2012,0.412,0.283,19,-52.0421,1,0.34934,0.607253,0.598429,6.696869,5794,true,false,Fast Track,15,Sunset Dreams,C,lydian major,B# major
+2021-04-01,2018,0.737,0.96,16,-29.2803,1,0.5364,0.231568,0.152815,4.105443,7979,true,true,Quick Path,1,Electric Pulse,C,ionian major,Bmaj7
+2021-05-02,2012,0.6592,0.384,18,-34.4412,0,0.59223,0.281548,0.507396,0.726571,8453,false,false,Speedy Lane,11,Neon Nights,C,locrian minor,Bmaj
+2021-12-25,2017,0.9588,0.377,6,-2.9603,0,0.2596,0.517231,0.294371,4.901788,5888,false,true,Fast Track,6,Wildfire Echoes,D,phrygian minor,Bmin
+2022-04-11,2014,0.4757,0.266,1,-5.0941,1,0.94196,0.677924,0.788563,8.737554,6703,false,true,Quick Path,1,Moonlit Melodies,C,lydian major,B# major
+2024-03-31,2017,0.7432,0.986,12,-81.3062,1,0.16102,0.212229,0.77069,0.88527,6642,true,true,Rapid Runway,2,Midnight Serenade,C,lydian major,Bmaj7
+2023-06-30,2020,0.4926,0.068,15,-57.8019,1,0.95077,0.699175,0.905892,6.654473,9689,true,true,Speedy Lane,3,Sunset Dreams,A,ionian major,Bb minor
+2021-12-19,2020,0.0607,0.912,15,-44.0279,1,0.05518,0.134516,0.881225,8.59736,7629,false,false,Rapid Runway,17,Wildfire Echoes,C,dorian minor,Bmin
+2022-05-08,2011,0.5537,0.245,2,-37.5074,0,0.73724,0.845477,0.06675,4.830033,1841,true,false,Swift Circuit,5,Neon Nights,A,dorian minor,Bb minor
+2021-12-19,2019,0.744,0.358,3,-7.2269,0,0.35866,0.419575,0.711476,3.674632,5257,false,true,Quick Path,2,Crystal Waters,B,locrian minor,Bmin
+2021-04-30,2012,0.3865,0.274,16,-34.9537,0,0.98671,0.418982,0.598648,1.960009,1089,false,true,Fast Track,1,Wildfire Echoes,D,harmonic minor,Bm
+2023-08-26,2014,0.7529,0.852,11,-34.2788,1,0.38941,0.383149,0.426629,5.085142,9852,true,false,Rapid Runway,11,Neon Nights,D,melodic minor,Bb major
+2022-10-12,2020,0.5804,0.669,7,-37.622,0,0.47632,0.974512,0.688152,4.186195,1517,false,true,Speedy Lane,9,Golden Horizon,B,dorian minor,Bb minor
+2022-06-27,2010,0.1084,0.185,20,-95.8318,1,0.49824,0.159874,0.879939,3.671286,4771,false,false,Swift Circuit,17,Crystal Waters,A,pentatonic major,Bmin
+2021-10-06,2013,0.1533,0.967,5,-35.3284,0,0.52498,0.285216,0.066092,8.53347,3351,true,true,Fast Track,8,Starlight Symphony,A,harmonic minor,Bmaj7
+2023-03-24,2006,0.1836,0.117,1,-99.3106,1,0.24442,0.578209,0.739019,5.32086,8957,true,false,Fast Track,5,Electric Pulse,C,ionian major,B minor
+2021-10-24,2011,0.416,0.077,2,-1.9766,0,0.62427,0.994169,0.540982,7.335642,1429,false,true,Speedy Lane,2,Moonlit Melodies,A,melodic minor,B minor
+2021-02-11,2008,0.0314,0.496,8,-51.0446,0,0.66088,0.798837,0.107671,1.037267,7183,false,true,Speedy Lane,3,Midnight Serenade,C,melodic minor,B# major
+2022-07-12,2016,0.3594,0.242,18,-55.5138,0,0.89159,0.586011,0.579984,4.277196,1128,true,false,Rapid Runway,1,Moonlit Melodies,C,aeolian minor,Bb major
+2023-10-23,2009,0.367,0.361,7,-51.1858,0,0.01441,0.159341,0.928825,2.18977,5477,true,true,Speedy Lane,10,Golden Horizon,B,aeolian minor,Bmaj7
+2021-06-28,2007,0.0959,0.762,6,-59.4045,0,0.23999,0.72941,0.252589,2.460066,9662,false,false,Speedy Lane,5,Crystal Waters,D,ionian major,Bb major
+2023-02-12,2016,0.3231,0.194,2,-43.1965,1,0.77146,0.257865,0.320891,7.735947,2642,false,false,Quick Path,10,Electric Pulse,B,lydian major,B minor
+2022-11-07,2010,0.378,0.175,14,-69.6638,1,0.70237,0.218351,0.566778,7.987629,9289,true,false,Swift Circuit,11,Midnight Serenade,D,ionian major,Bmin
+2023-12-21,2011,0.7237,0.291,18,-3.8483,1,0.59937,0.508197,0.666716,6.394989,3645,true,false,Swift Circuit,3,Moonlit Melodies,A,aeolian minor,Bmaj7
+2021-07-26,2008,0.8312,0.357,13,-4.6886,0,0.62487,0.057002,0.268367,5.542635,8279,true,true,Swift Circuit,20,Crystal Waters,D,aeolian minor,Bb major
+2023-04-17,2011,0.416,0.661,13,-45.4302,0,0.71635,0.044736,0.033699,2.891929,1072,false,false,Fast Track,6,Velvet Twilight,A,ionian major,Bm
+2023-11-01,2006,0.8431,0.344,11,-82.0201,1,0.02863,0.32681,0.776926,7.89355,6191,true,true,Rapid Runway,17,Moonlit Melodies,A,melodic minor,Bmin
+2022-11-01,1999,0.4109,0.824,11,-31.6306,1,0.50913,0.31767,0.249573,7.566181,5737,false,false,Speedy Lane,8,Starlight Symphony,C,ionian major,Bmaj7
+2021-09-04,2013,0.3201,0.189,12,-43.9003,0,0.82347,0.545276,0.717159,4.571237,1600,true,false,Swift Circuit,19,Sunset Dreams,B,pentatonic major,Bmin
+2022-04-22,2014,0.8329,0.007,20,-82.6969,0,0.49318,0.504052,0.453573,6.144065,1279,true,true,Fast Track,10,Velvet Twilight,B,lydian major,Bmin
+2021-04-25,2017,0.8167,0.198,2,-57.5024,0,0.59733,0.343605,0.172324,8.594443,7522,true,false,Swift Circuit,2,Wildfire Echoes,C,lydian major,B# major
+2021-10-28,2018,0.4204,0.87,18,-97.1561,0,0.4638,0.383646,0.652306,3.934028,9052,true,true,Quick Path,11,Electric Pulse,B,pentatonic major,B minor
+2022-11-16,2010,0.5659,0.993,5,-60.9416,1,0.80263,0.650424,0.488036,1.015528,2696,false,true,Swift Circuit,20,Starlight Symphony,A,phrygian minor,Bmin
+2022-12-09,2004,0.3973,0.251,7,-29.7995,0,0.92331,0.896642,0.32636,8.047479,7134,true,false,Swift Circuit,2,Sunset Dreams,A,pentatonic major,Bm
+2021-01-23,2019,0.0363,0.4,1,-25.2493,1,0.93576,0.038719,0.51049,0.430496,7960,true,true,Fast Track,7,Neon Nights,C,locrian minor,Bmaj
+2021-08-10,2016,0.7366,0.749,2,-1.5667,0,0.55612,0.268491,0.553971,7.662947,5656,true,false,Fast Track,16,Velvet Twilight,D,phrygian minor,B# minor
+2023-06-19,2013,0.1362,0.88,20,-64.8202,0,0.89489,0.408091,0.998182,2.724931,3477,false,false,Speedy Lane,6,Velvet Twilight,C,pentatonic major,B# minor
+2022-12-24,2004,0.3645,0.694,6,-45.7016,0,0.12066,0.177946,0.042808,1.142334,1895,true,true,Swift Circuit,13,Midnight Serenade,C,mixolydian major,Bmin
+2022-05-01,2007,0.9406,0.397,1,-19.7948,1,0.69741,0.717434,0.996802,8.123186,6184,false,false,Swift Circuit,20,Golden Horizon,D,mixolydian major,B minor
+2021-11-29,0,0.6523,0.163,18,-44.3229,1,0.89711,0.412413,0.46479,0.018307,8082,true,true,Rapid Runway,13,Neon Nights,B,lydian major,Bb major
+2023-10-01,2018,0.3309,0.429,20,-29.506,0,0.79629,0.336172,0.482608,2.921626,9012,false,true,Swift Circuit,16,Starlight Symphony,A,phrygian minor,B major
+2021-12-03,2016,0.9206,0.124,16,-77.76,1,0.90934,0.204135,0.322403,8.438081,7843,true,false,Speedy Lane,12,Electric Pulse,B,harmonic minor,B minor
+2021-08-27,2012,0.1693,0.167,12,-63.183,1,0.75252,0.90507,0.16206,0.679506,9009,true,true,Rapid Runway,9,Sunset Dreams,A,pentatonic major,Bb minor
+2022-05-25,2003,0.4616,0.207,5,-31.3346,0,0.59981,0.256156,0.261996,4.58202,9295,false,false,Speedy Lane,7,Sunset Dreams,C,mixolydian major,B major
+2024-02-19,2014,0.53,0.243,16,-92.0412,0,0.0656,0.251669,0.947126,8.999991,6834,false,true,Rapid Runway,7,Starlight Symphony,B,lydian major,Bm
+2021-05-23,2014,0.003,0.903,17,-66.5299,1,0.71798,0.260372,0.552754,3.052548,684,true,false,Swift Circuit,14,Wildfire Echoes,A,aeolian minor,B# minor
+2021-01-31,2009,0.2856,0.12,11,-8.259,1,0.79824,0.269275,0.479683,0.735433,8604,false,false,Rapid Runway,5,Starlight Symphony,B,locrian minor,Bmaj7
+2022-11-13,2007,0.1123,0.284,7,-11.0142,0,0.44009,0.919004,0.004183,3.648948,4231,true,false,Swift Circuit,12,Golden Horizon,B,locrian minor,B minor
+2022-01-07,2002,0.0281,0.186,11,-50.5089,0,0.85675,0.664774,0.77274,9.582131,63,false,false,Speedy Lane,19,Starlight Symphony,B,pentatonic major,Bm
+2022-02-20,2020,0.8239,0.996,13,-44.8982,1,0.7925,0.520511,0.220544,5.25432,5509,false,false,Speedy Lane,3,Wildfire Echoes,A,mixolydian major,Bm
+2022-10-06,2016,0.0652,0.979,8,-77.6546,0,0.81679,0.83796,0.647773,0.841362,1580,false,false,Speedy Lane,11,Electric Pulse,B,dorian minor,B major
+2021-02-16,2011,0.1234,0.643,1,-5.5358,0,0.08555,0.280607,0.987541,3.295502,1490,true,false,Rapid Runway,19,Sunset Dreams,C,ionian major,B minor
+2021-11-16,2014,0.4616,0.114,18,-36.1663,1,0.74696,0.978055,0.779531,3.316043,9389,true,false,Rapid Runway,15,Electric Pulse,D,dorian minor,B minor
+2022-09-02,2012,0.2511,0.986,17,-24.6955,1,0.87544,0.017337,0.349871,4.983901,6548,true,true,Swift Circuit,20,Crystal Waters,C,lydian major,Bb major
+2024-03-05,2010,0.7613,0.349,20,-34.1911,0,0.69509,0.781186,0.064423,6.994445,6478,false,true,Quick Path,11,Midnight Serenade,C,locrian minor,Bmin
+2022-11-06,2014,0.448,0.018,3,-4.3762,0,0.55642,0.183106,0.093544,5.373949,53,false,true,Rapid Runway,10,Electric Pulse,A,aeolian minor,Bm
+2023-08-24,2011,0.8878,0.367,18,-58.7545,0,0.34994,0.642492,0.717926,1.8585,9178,true,false,Speedy Lane,15,Midnight Serenade,A,melodic minor,Bmaj
+2023-05-20,2019,0.684,0.848,20,-4.6243,0,0.57169,0.136911,0.210193,3.692428,9639,false,true,Rapid Runway,13,Golden Horizon,D,mixolydian major,Bb minor
+2021-06-24,2015,0.0247,0.333,3,-28.814,1,0.6839,0.863933,0.884711,3.528841,711,false,false,Fast Track,7,Neon Nights,C,dorian minor,Bmaj
+2022-04-16,2015,0.1092,0.423,13,-16.4345,1,0.09027,0.325674,0.047951,2.414649,5151,false,true,Quick Path,2,Moonlit Melodies,A,melodic minor,Bb minor
+2023-04-16,2011,0.1321,0.421,8,-66.2362,0,0.30787,0.953915,0.059038,5.941969,1875,true,false,Fast Track,14,Wildfire Echoes,A,ionian major,Bm
+2023-06-10,2018,0.8725,0.846,10,-25.0734,0,0.23296,0.369583,0.544785,7.857815,4793,false,true,Rapid Runway,3,Electric Pulse,C,phrygian minor,Bm
+2023-08-03,2018,0.4463,0.608,19,-77.7092,1,0.80215,0.934717,0.38923,6.98872,2689,true,false,Fast Track,16,Neon Nights,D,lydian major,Bmaj
+2023-07-03,2018,0.1918,0.029,16,-27.2826,1,0.32396,0.86527,0.023348,2.835015,3645,true,true,Quick Path,5,Moonlit Melodies,C,dorian minor,Bmaj7
+2023-09-27,2016,0.5258,0.734,5,-90.7813,1,0.02335,0.055411,0.705308,1.054545,2969,false,false,Quick Path,7,Wildfire Echoes,C,phrygian minor,B# major
+2023-09-23,2005,0.8944,0.646,3,-70.3997,1,0.1866,0.422225,0.671946,7.282814,8723,false,true,Quick Path,4,Neon Nights,B,dorian minor,Bmin
+2023-08-10,2016,0.3729,0.772,4,-88.9457,0,0.1777,0.414713,0.060226,5.437062,4196,false,true,Swift Circuit,10,Neon Nights,D,harmonic minor,B minor
+2022-11-25,2011,0.7861,0.694,15,-51.988,0,0.69179,0.229919,0.425707,2.778329,4604,true,true,Rapid Runway,16,Neon Nights,C,melodic minor,B minor
+2022-09-15,2012,0.8593,0.271,1,-7.8891,1,0.7953,0.72301,0.443133,7.983822,1944,true,false,Speedy Lane,3,Wildfire Echoes,C,mixolydian major,B minor
+2021-12-25,2008,0.5146,0.706,8,-41.7722,0,0.50545,0.900106,0.260131,0.558447,5295,false,true,Rapid Runway,13,Velvet Twilight,B,locrian minor,Bmaj
+2021-12-07,2020,0.0561,0.369,19,-28.1401,1,0.407,0.89959,0.089359,6.367053,8430,true,false,Speedy Lane,5,Neon Nights,A,phrygian minor,Bmaj
+2022-07-05,2014,0.1703,0.958,3,-31.8667,1,0.75509,0.820771,0.021866,0.490895,9963,false,true,Quick Path,4,Electric Pulse,B,harmonic minor,B# minor
+2022-06-22,2013,0.8179,0.005,15,-30.1222,0,0.67549,0.214007,0.847246,2.38744,7538,false,false,Rapid Runway,13,Starlight Symphony,A,locrian minor,Bb minor
+2021-07-14,2019,0.4917,0.707,12,-33.0362,1,0.62214,0.251575,0.358188,4.410642,6553,true,true,Speedy Lane,17,Neon Nights,C,phrygian minor,B minor
+2023-08-05,2015,0.695,0.637,5,-98.3734,0,0.11576,0.328992,0.798362,4.992743,4963,true,true,Fast Track,2,Wildfire Echoes,B,pentatonic major,Bm
+2022-03-03,2007,0.028,0.991,2,-61.5211,1,0.9339,0.910977,0.079229,9.453111,1902,true,true,Rapid Runway,8,Starlight Symphony,B,harmonic minor,B# minor
+2022-09-23,2015,0.3823,0.678,6,-65.2144,0,0.14754,0.340555,0.233715,2.45694,3249,true,true,Quick Path,20,Neon Nights,C,dorian minor,Bb minor
+2022-09-22,2009,0.7063,0.119,7,-43.2308,1,0.51038,0.252628,0.751443,2.08006,8606,true,false,Fast Track,19,Wildfire Echoes,B,pentatonic major,Bb major
+2021-08-06,2014,0.7521,0.934,20,-61.581,1,0.7448,0.77008,0.21611,8.34228,7795,false,false,Rapid Runway,7,Electric Pulse,B,pentatonic major,Bb major
+2023-09-06,0,0.3623,0.003,3,-31.6694,1,0.23019,0.875597,0.760542,6.061044,784,false,true,Rapid Runway,12,Starlight Symphony,C,dorian minor,B# major
+2022-07-16,2007,0.0056,0.179,10,-96.6373,0,0.88209,0.593294,0.026696,6.372951,9243,false,false,Quick Path,19,Golden Horizon,A,phrygian minor,B major
+2021-10-04,2015,0.7879,0.014,12,-46.8412,1,0.33847,0.734885,0.648782,3.337606,1667,true,true,Fast Track,2,Electric Pulse,A,harmonic minor,B# minor
+2021-09-17,2007,0.8974,0.757,1,-30.0244,0,0.45582,0.750236,0.670935,0.336745,3087,false,true,Fast Track,9,Electric Pulse,B,aeolian minor,Bmaj
+2023-05-23,2016,0.8872,0.888,5,-59.5119,1,0.68256,0.645762,0.134412,6.672886,1163,false,true,Speedy Lane,18,Neon Nights,D,mixolydian major,Bmaj
+2023-01-21,2014,0.7229,0.399,7,-55.308,1,0.28839,0.296996,0.331226,5.337787,1387,true,false,Fast Track,17,Midnight Serenade,B,pentatonic major,Bmaj
+2020-12-11,2008,0.0113,0.626,12,-77.6327,0,0.1435,0.52393,0.807241,4.50291,5845,false,true,Quick Path,3,Wildfire Echoes,A,harmonic minor,B# major
+2024-02-29,2006,0.3686,0.141,11,-5.7839,0,0.61063,0.819942,0.171749,9.859294,2312,true,false,Fast Track,12,Neon Nights,C,pentatonic major,Bmaj
+2023-08-15,2003,0.1179,0.354,19,-79.5915,0,0.32967,0.490136,0.704001,9.253844,8069,true,false,Quick Path,14,Neon Nights,C,locrian minor,B# major
+2023-04-19,2009,0.7344,0.612,11,-78.0101,0,0.21367,0.493801,0.884609,5.645797,5198,true,true,Quick Path,5,Midnight Serenade,B,dorian minor,Bmaj
+2023-01-19,2015,0.1567,0.644,2,-18.6032,1,0.47676,0.456457,0.389146,7.210132,4791,false,false,Swift Circuit,8,Midnight Serenade,D,phrygian minor,Bb minor
+2021-03-08,2007,0.1517,0.047,19,-7.9571,0,0.30362,0.837141,0.414272,7.898448,8898,false,false,Fast Track,3,Velvet Twilight,D,melodic minor,B# minor
+2024-01-05,2014,0.8214,0.102,8,-82.7522,1,0.30599,0.386394,0.187501,0.19703,5759,true,true,Rapid Runway,11,Wildfire Echoes,B,ionian major,Bmaj
+2021-12-12,2013,0.3813,0.82,15,-14.1773,1,0.16385,0.149751,0.934402,2.316684,4259,true,true,Speedy Lane,11,Starlight Symphony,B,dorian minor,Bmaj7
+2021-06-05,2009,0.1556,0.358,11,-85.1315,1,0.85817,0.174643,0.392882,1.781759,4485,true,false,Fast Track,14,Starlight Symphony,D,lydian major,B# major
+2023-02-18,2020,0.3519,0.072,5,-72.2439,0,0.97081,0.80346,0.476547,7.101771,8120,true,false,Fast Track,5,Wildfire Echoes,C,harmonic minor,B# major
+2022-08-23,2013,0.9453,0.85,11,-91.6839,0,0.79696,0.603519,0.875957,3.157671,3925,true,true,Fast Track,12,Velvet Twilight,A,dorian minor,B# major
+2021-11-10,2014,0.8571,0.933,4,-83.5119,1,0.92727,0.126587,0.467748,8.326524,5663,false,false,Rapid Runway,6,Midnight Serenade,D,melodic minor,Bb minor
+2023-05-28,2014,0.2763,0.462,14,-58.2441,1,0.35015,0.037879,0.708171,5.652728,3746,true,false,Speedy Lane,13,Starlight Symphony,C,lydian major,B# major
+2023-11-01,0,0.0478,0.337,13,-54.703,1,0.91999,0.737242,0.33386,9.629638,8664,true,true,Swift Circuit,9,Midnight Serenade,D,dorian minor,B minor
+2022-10-12,2008,0.4642,0.556,2,-17.8643,1,0.76228,0.04663,0.510492,2.608549,8467,true,false,Speedy Lane,19,Moonlit Melodies,B,aeolian minor,B# major
+2022-11-27,2014,0.489,0.775,11,-12.608,0,0.1011,0.226228,0.303826,3.056899,6549,true,true,Fast Track,14,Starlight Symphony,A,lydian major,Bmaj
+2023-07-26,0,0.2099,0.944,2,-51.3553,0,0.88458,0.162197,0.744972,1.114831,4633,true,false,Swift Circuit,13,Electric Pulse,C,phrygian minor,B# minor
+2024-01-13,2005,0.16,0.574,17,-41.558,0,0.1333,0.394316,0.844943,6.281145,4892,false,false,Quick Path,13,Midnight Serenade,A,harmonic minor,B minor
+2021-01-10,2005,0.2488,0.233,4,-63.0411,0,0.82495,0.376026,0.645321,6.001486,2747,false,true,Quick Path,16,Crystal Waters,C,lydian major,B major
+2021-03-31,2018,0.0254,0.106,16,-93.7755,1,0.45214,0.037727,0.540382,8.206517,6476,false,false,Rapid Runway,15,Wildfire Echoes,C,melodic minor,Bb minor
+2023-11-28,2013,0.848,0.648,4,-35.0906,1,0.27887,0.691655,0.94271,2.652424,3061,true,false,Quick Path,7,Moonlit Melodies,B,lydian major,B major
+2022-04-04,2010,0.0928,0.389,12,-98.1557,1,0.31967,0.589778,0.578363,2.52638,680,true,true,Rapid Runway,10,Electric Pulse,A,melodic minor,Bmaj7
+2022-04-09,2010,0.0999,0.098,2,-97.1135,0,0.67986,0.261205,0.134749,0.205074,6397,false,true,Fast Track,7,Sunset Dreams,D,pentatonic major,B minor
+2023-06-25,2013,0.9866,0.154,7,-27.7816,1,0.42532,0.328404,0.147567,7.789907,9857,false,false,Quick Path,1,Neon Nights,B,dorian minor,Bmaj7
+2021-10-13,2012,0.0031,0.229,16,-92.0968,0,0.72579,0.816277,0.909816,2.231446,3882,false,true,Rapid Runway,4,Velvet Twilight,B,harmonic minor,Bmaj
+2022-05-02,2014,0.9831,0.555,15,-34.0574,0,0.12147,0.270159,0.978072,0.08484,2548,false,false,Speedy Lane,9,Sunset Dreams,B,harmonic minor,Bmin
+2022-06-03,2015,0.9961,0.513,6,-38.3237,0,0.58034,0.972464,0.357777,6.07029,8752,true,true,Speedy Lane,17,Sunset Dreams,B,melodic minor,Bm
+2022-12-17,2006,0.6961,0.857,17,-3.2744,1,0.17983,0.261977,0.939304,4.935628,4142,true,false,Quick Path,13,Velvet Twilight,A,ionian major,B major
+2022-01-12,2014,0.8444,0.671,6,-90.5334,1,0.27109,0.904739,0.866215,9.88806,7633,false,false,Rapid Runway,17,Midnight Serenade,C,pentatonic major,Bmaj7
+2023-06-15,2015,0.4515,0.882,3,-51.1452,0,0.55629,0.901008,0.896709,2.927563,476,false,true,Rapid Runway,8,Sunset Dreams,A,melodic minor,B major
+2021-01-11,2017,0.6944,0.275,1,-42.6299,1,0.60965,0.295105,0.434098,7.255082,6256,false,false,Speedy Lane,10,Golden Horizon,A,ionian major,Bm
+2021-01-15,2020,0.4622,0.536,13,-1.5181,1,0.40115,0.580231,0.005727,8.826811,9270,true,true,Rapid Runway,19,Neon Nights,A,mixolydian major,Bb major
+2022-02-27,2019,0.6161,0.78,15,-43.9193,0,0.82271,0.597196,0.47017,0.51144,7773,true,true,Quick Path,9,Velvet Twilight,A,mixolydian major,Bb major
+2023-07-27,2013,0.052,0.395,17,-3.1302,1,0.39481,0.215891,0.050632,6.019634,4436,true,true,Swift Circuit,10,Crystal Waters,A,aeolian minor,Bb minor
+2022-05-14,2013,0.8558,0.446,20,-24.909,0,0.5085,0.451322,0.556718,0.124274,6817,true,false,Fast Track,17,Sunset Dreams,A,mixolydian major,B# minor
+2022-10-31,2015,0.8121,0.142,18,-17.4923,1,0.0153,0.921184,0.866543,1.206189,2273,true,false,Speedy Lane,6,Wildfire Echoes,B,dorian minor,Bmaj7
+2023-08-28,2011,0.4663,0.033,15,-2.1941,1,0.32534,0.910569,0.361202,4.921106,8075,false,true,Rapid Runway,14,Electric Pulse,D,lydian major,Bb minor
+2023-02-09,2013,0.3252,0.756,12,-90.7254,0,0.36829,0.505376,0.892608,4.986127,3746,false,false,Swift Circuit,5,Golden Horizon,C,pentatonic major,Bb major
+2024-01-12,2000,0.1577,0.149,20,-17.5953,1,0.80139,0.85532,0.111407,1.745046,4113,true,false,Fast Track,5,Electric Pulse,A,ionian major,Bmaj7
+2023-05-07,2020,0.5208,0.318,4,-23.716,1,0.56211,0.742887,0.068793,2.548514,7723,false,false,Swift Circuit,3,Electric Pulse,B,ionian major,B major
+2023-12-27,2006,0.0571,0.858,9,-49.9267,1,0.08967,0.967787,0.14514,3.878162,6631,true,true,Quick Path,2,Starlight Symphony,B,dorian minor,B major
+2021-04-04,2016,0.9833,0.041,7,-3.6854,0,0.33897,0.596889,0.382386,4.207241,3660,false,false,Rapid Runway,14,Sunset Dreams,C,harmonic minor,B# major
+2023-05-03,2002,0.4848,0.056,14,-23.1332,1,0.39392,0.48136,0.303335,9.333367,7793,true,true,Quick Path,9,Sunset Dreams,A,mixolydian major,Bmaj
+2021-07-26,2004,0.0289,0.715,14,-84.8903,0,0.26375,0.934149,0.50793,6.598221,766,false,false,Quick Path,17,Crystal Waters,A,harmonic minor,Bb minor
+2023-01-11,2012,0.7428,0.059,7,-61.3549,1,0.37256,0.152824,0.267779,3.72697,7782,true,true,Rapid Runway,7,Electric Pulse,B,phrygian minor,Bb minor
+2023-11-18,2014,0.6598,0.787,9,-74.3505,1,0.76161,0.01559,0.066924,7.870771,1342,false,false,Fast Track,9,Velvet Twilight,B,dorian minor,Bmaj7
+2024-02-27,2008,0.4535,0.765,17,-24.3726,0,0.27734,0.257416,0.423556,3.455361,3551,true,true,Quick Path,10,Electric Pulse,B,harmonic minor,B# major
+2021-09-26,2004,0.7473,0.201,1,-42.5978,1,0.12219,0.896123,0.062866,2.785737,321,true,false,Rapid Runway,5,Velvet Twilight,B,harmonic minor,Bb major
+2023-10-04,1998,0.26,0.262,1,-73.426,1,0.43201,0.616079,0.339627,7.249335,7386,false,true,Swift Circuit,15,Wildfire Echoes,A,locrian minor,Bb minor
+2022-01-11,2016,0.859,0.912,12,-27.1477,1,0.88517,0.254623,0.882396,1.275326,9064,false,true,Rapid Runway,18,Midnight Serenade,D,phrygian minor,Bmin
+2021-01-25,0,0.5043,0.375,2,-96.7658,1,0.64972,0.78247,0.588338,9.791147,7397,true,false,Speedy Lane,12,Midnight Serenade,C,ionian major,B major
+2021-02-17,2009,0.8179,0.633,13,-71.2781,1,0.61637,0.275333,0.188354,3.05698,5862,true,true,Quick Path,14,Wildfire Echoes,D,mixolydian major,Bb major
+2021-06-02,2019,0.9719,0.741,8,-19.3297,1,0.45327,0.51547,0.889515,2.552992,887,false,false,Speedy Lane,13,Midnight Serenade,B,pentatonic major,B major
+2022-02-14,2015,0.9577,0.753,10,-44.7318,1,0.52104,0.105073,0.907065,7.316828,2243,true,true,Quick Path,12,Sunset Dreams,C,locrian minor,Bm
+2021-09-19,2019,0.2658,0.289,1,-88.0371,1,0.36757,0.321468,0.774593,6.826473,7284,false,true,Fast Track,9,Crystal Waters,A,aeolian minor,B# major
+2023-02-10,2007,0.0058,0.123,1,-46.7441,1,0.5343,0.102166,0.57983,9.538133,590,true,false,Swift Circuit,4,Golden Horizon,A,mixolydian major,B major
+2021-11-06,2005,0.6925,0.994,19,-70.5734,0,0.13956,0.386015,0.532572,7.303019,9897,false,false,Rapid Runway,14,Sunset Dreams,B,melodic minor,B minor
+2021-08-07,2005,0.6546,0.147,20,-42.7734,1,0.77783,0.083182,0.64536,4.736482,9346,true,false,Rapid Runway,6,Moonlit Melodies,B,harmonic minor,B minor
+2022-05-15,2018,0.0962,0.35,19,-33.5117,1,0.32804,0.133476,0.948646,8.065731,7914,false,true,Swift Circuit,14,Crystal Waters,B,melodic minor,Bm
+2023-10-31,2005,0.2258,0.626,10,-37.509,0,0.28137,0.329336,0.422425,0.884975,469,false,true,Fast Track,12,Neon Nights,C,melodic minor,Bmin
+2022-01-03,2019,0.6584,0.406,5,-13.0479,0,0.90344,0.120625,0.803501,4.641609,136,true,true,Rapid Runway,12,Neon Nights,B,aeolian minor,B minor
+2021-02-27,2010,0.0094,0.357,16,-16.993,0,0.40981,0.6773,0.849281,8.683538,4666,true,false,Speedy Lane,9,Wildfire Echoes,B,phrygian minor,B# major
+2023-08-29,2013,0.2991,0.913,5,-4.5568,0,0.65513,0.069515,0.082916,0.480852,8642,true,false,Swift Circuit,5,Electric Pulse,A,pentatonic major,Bb minor
+2021-04-18,2015,0.3405,0.156,11,-15.0316,0,0.42082,0.362904,0.8984,1.160738,8327,false,true,Swift Circuit,3,Moonlit Melodies,C,aeolian minor,Bb minor
+2022-09-28,2015,0.8911,0.975,2,-82.8968,0,0.15568,0.391539,0.77654,4.670765,2909,false,false,Quick Path,9,Electric Pulse,D,phrygian minor,Bm
+2021-08-18,2014,0.3926,0.927,8,-9.7499,1,0.56929,0.76749,0.738507,2.420989,7695,false,true,Swift Circuit,11,Sunset Dreams,D,harmonic minor,B# major
+2021-11-15,2011,0.3974,0.217,12,-22.0835,1,0.22373,0.729604,0.540422,8.618369,7951,true,true,Rapid Runway,2,Golden Horizon,B,aeolian minor,B minor
+2023-06-06,2015,0.6612,0.324,14,-94.965,0,0.61115,0.773583,0.827326,4.007286,7711,false,false,Speedy Lane,18,Crystal Waters,B,phrygian minor,Bm
+2021-07-11,2013,0.2702,0.281,12,-24.6417,0,0.78759,0.363497,0.147967,8.523145,7846,false,true,Swift Circuit,15,Moonlit Melodies,B,harmonic minor,B major
+2023-08-09,2002,0.7989,0.477,17,-85.4947,1,0.14694,0.519821,0.563032,4.257056,8157,false,false,Rapid Runway,17,Sunset Dreams,A,pentatonic major,B major
+2022-11-24,2011,0.3637,0.435,1,-48.8303,0,0.20959,0.5478,0.444507,4.050063,4970,true,true,Quick Path,9,Crystal Waters,C,pentatonic major,Bm
+2021-04-24,2018,0.2059,0.785,3,-46.1344,0,0.61609,0.908755,0.835614,2.903117,5115,false,false,Fast Track,9,Midnight Serenade,C,locrian minor,Bm
+2023-07-29,2005,0.2823,0.564,15,-83.164,0,0.20687,0.265863,0.24742,9.445624,2195,true,false,Speedy Lane,7,Wildfire Echoes,B,dorian minor,Bmin
+2021-01-17,2012,0.7465,0.597,14,-30.1134,0,0.47732,0.20291,0.117198,5.145754,3215,false,false,Swift Circuit,17,Starlight Symphony,D,pentatonic major,Bmaj7
+2024-02-27,2020,0.6215,0.426,14,-94.6744,0,0.42019,0.561187,0.83378,6.360764,2495,false,true,Quick Path,18,Starlight Symphony,A,locrian minor,B# minor
+2022-10-19,0,0.3453,0.123,9,-47.5619,0,0.72133,0.425349,0.518728,5.746924,3330,true,false,Quick Path,1,Velvet Twilight,B,pentatonic major,Bmaj
+2023-06-06,2015,0.7384,0.085,7,-56.3692,1,0.31549,0.548768,0.669892,8.250827,6707,false,true,Rapid Runway,17,Golden Horizon,D,harmonic minor,B# minor
+2022-06-25,2012,0.1582,0.102,11,-64.5241,0,0.96149,0.550598,0.386628,4.192898,1201,true,true,Speedy Lane,5,Midnight Serenade,C,pentatonic major,Bm
+2022-11-29,2009,0.5087,0.019,6,-9.8464,0,0.80186,0.926374,0.838683,5.12938,3370,false,true,Speedy Lane,18,Golden Horizon,D,ionian major,Bmaj7
+2021-05-27,2004,0.2761,0.488,13,-42.1533,0,0.16759,0.100013,0.345162,8.776936,4644,false,false,Swift Circuit,5,Electric Pulse,D,phrygian minor,B# major
+2022-03-08,2014,0.6181,0.621,4,-35.5798,1,0.32985,0.079477,0.45865,5.357356,767,true,false,Fast Track,6,Sunset Dreams,D,harmonic minor,B major
+2023-07-02,2014,0.914,0.609,10,-78.1298,1,0.08305,0.007477,0.003703,6.536489,5667,true,true,Swift Circuit,2,Starlight Symphony,A,phrygian minor,B minor
+2023-08-18,2004,0.4953,0.812,20,-5.8143,1,0.69566,0.993493,0.274872,6.859366,6833,true,false,Speedy Lane,14,Velvet Twilight,D,aeolian minor,Bmaj7
+2022-04-22,2016,0.0615,0.278,14,-66.5048,1,0.31568,0.370407,0.046498,1.884074,250,true,false,Fast Track,11,Moonlit Melodies,D,dorian minor,B major
+2023-01-19,2014,0.8523,0.701,18,-62.2963,0,0.78307,0.764012,0.275781,1.637139,5943,false,false,Quick Path,1,Crystal Waters,B,lydian major,Bb major
+2023-04-30,2018,0.2356,0.329,6,-62.7977,0,0.52657,0.683247,0.894709,2.17973,5346,false,false,Fast Track,17,Moonlit Melodies,D,melodic minor,B major
+2024-02-10,2012,0.9606,0.268,9,-72.6073,1,0.08278,0.922767,0.853747,2.752799,660,false,false,Swift Circuit,4,Velvet Twilight,D,melodic minor,Bb major
+2023-07-02,2015,0.571,0.078,1,-42.276,1,0.15366,0.682232,0.83647,5.579174,5879,true,false,Quick Path,10,Electric Pulse,B,lydian major,Bmin
+2021-03-13,2015,0.4023,0.996,3,-20.8182,0,0.1857,0.729842,0.36749,3.658151,5402,true,true,Rapid Runway,9,Moonlit Melodies,D,lydian major,Bmin
+2023-02-28,2008,0.4255,0.039,19,-15.0827,1,0.02746,0.261121,0.425465,3.755834,8282,true,false,Quick Path,2,Wildfire Echoes,C,dorian minor,B# major
+2022-10-26,1999,0.8647,0.067,5,-20.2862,1,0.2329,0.750711,0.512308,3.310869,2295,false,true,Swift Circuit,6,Golden Horizon,A,mixolydian major,Bb minor
+2021-10-09,2018,0.9744,0.186,3,-91.8133,0,0.39776,0.615366,0.692982,9.407078,9847,false,false,Quick Path,1,Velvet Twilight,C,aeolian minor,Bmaj
+2022-11-20,2014,0.1696,0.338,7,-76.8007,1,0.31956,0.823846,0.911171,0.088522,1823,true,false,Rapid Runway,4,Moonlit Melodies,B,phrygian minor,Bmaj
+2023-10-24,2010,0.3327,0.452,5,-75.1454,1,0.3625,0.928662,0.446912,8.605216,7800,true,false,Swift Circuit,7,Neon Nights,B,pentatonic major,B# minor
+2022-09-04,2015,0.6838,0.961,6,-74.6589,0,0.05076,0.796934,0.33302,3.587278,4745,true,false,Rapid Runway,3,Velvet Twilight,D,harmonic minor,Bmaj
+2023-04-16,2013,0.9451,0.993,18,-48.0773,0,0.60574,0.767344,0.51764,7.058469,7214,true,true,Fast Track,9,Wildfire Echoes,B,locrian minor,Bmaj
+2024-02-03,2016,0.1167,0.573,10,-95.575,1,0.64655,0.440953,0.294144,9.491193,5104,false,true,Quick Path,11,Velvet Twilight,A,pentatonic major,Bmin
+2023-11-18,2005,0.5072,0.752,8,-2.5384,1,0.06061,0.407571,0.088684,1.092449,8111,false,false,Rapid Runway,3,Neon Nights,C,ionian major,Bmin
+2022-06-02,2016,0.8346,0.276,1,-56.4166,1,0.60895,0.944257,0.644732,3.583067,7486,true,false,Quick Path,5,Starlight Symphony,B,harmonic minor,Bmin
+2021-03-01,2014,0.7371,0.512,6,-79.3519,1,0.76603,0.663875,0.243001,7.90601,5997,true,false,Quick Path,1,Wildfire Echoes,B,pentatonic major,B# minor
+2023-08-09,2008,0.7675,0.008,6,-47.3242,0,0.61444,0.852777,0.028309,4.742295,7649,false,false,Quick Path,3,Moonlit Melodies,D,lydian major,Bmaj
+2024-01-08,2006,0.8286,0.162,1,-52.3861,0,0.56072,0.877315,0.873671,7.733137,9184,false,true,Rapid Runway,15,Golden Horizon,A,aeolian minor,Bmin
+2023-10-04,1997,0.03,0.143,6,-41.1244,1,0.92931,0.883688,0.44034,7.832983,786,true,false,Speedy Lane,7,Velvet Twilight,A,pentatonic major,B major
+2023-08-25,2003,0.4804,0.233,1,-66.2714,1,0.33789,0.239164,0.120634,5.880639,8771,false,false,Fast Track,10,Electric Pulse,D,phrygian minor,Bb major
+2022-05-08,2008,0.8625,0.044,1,-65.0483,0,0.63756,0.716997,0.860758,7.901343,2377,true,false,Swift Circuit,14,Midnight Serenade,A,pentatonic major,Bmaj
+2022-07-27,2014,0.3193,0.191,8,-35.8246,0,0.53892,0.575924,0.360945,0.289106,7933,false,true,Fast Track,20,Crystal Waters,B,harmonic minor,Bb minor
+2022-02-22,2006,0.0959,0.224,3,-23.4015,1,0.96337,0.05949,0.15362,1.617476,4051,true,true,Speedy Lane,4,Crystal Waters,C,melodic minor,Bb major
+2020-12-10,2016,0.2498,0.674,8,-24.4006,0,0.5222,0.802668,0.837893,6.57245,8981,true,true,Rapid Runway,6,Moonlit Melodies,D,ionian major,B# major
+2022-06-30,2017,0.9569,0.546,6,-16.5647,1,0.24088,0.91292,0.564832,6.96245,6084,false,true,Swift Circuit,17,Crystal Waters,D,harmonic minor,B# major
+2023-10-07,0,0.1618,0.226,15,-99.1873,0,0.45346,0.372312,0.349824,7.014003,8295,false,false,Speedy Lane,9,Golden Horizon,C,lydian major,Bmaj
+2022-05-09,2012,0.3023,0.347,6,-28.8707,1,0.32676,0.213637,0.540295,5.657513,7788,false,false,Quick Path,15,Neon Nights,B,lydian major,Bb minor
+2021-07-16,2011,0.6404,0.008,17,-83.8729,1,0.24391,0.202499,0.713066,6.003548,6556,false,true,Quick Path,4,Electric Pulse,C,lydian major,B# major
+2022-03-08,0,0.432,0.033,12,-19.5917,1,0.94354,0.862418,0.34307,5.784163,8073,false,false,Quick Path,6,Midnight Serenade,C,melodic minor,B# major
+2024-03-25,2011,0.4265,0.706,20,-93.2227,0,0.95383,0.056906,0.233418,5.062805,4361,false,true,Swift Circuit,11,Velvet Twilight,D,melodic minor,Bmaj
+2024-04-02,2016,0.3707,0.882,8,-16.1391,0,0.32865,0.318034,0.269656,0.074682,3526,false,false,Rapid Runway,4,Sunset Dreams,C,aeolian minor,B major
+2021-11-04,2004,0.2355,0.825,6,-48.3131,0,0.68937,0.452528,0.974212,7.63807,1346,true,false,Fast Track,20,Midnight Serenade,A,melodic minor,Bb major
+2024-02-13,2006,0.9871,0.567,9,-34.6413,0,0.54365,0.21995,0.06688,5.618068,6516,false,false,Swift Circuit,11,Golden Horizon,C,locrian minor,B# major
+2021-07-01,2012,0.8197,0.048,2,-72.3249,1,0.16406,0.06849,0.457264,3.007817,9128,false,false,Quick Path,20,Neon Nights,B,pentatonic major,Bmin
+2022-09-01,2020,0.7104,0.529,13,-10.5552,1,0.7536,0.970452,0.881782,8.401802,464,true,false,Fast Track,16,Velvet Twilight,C,harmonic minor,B# major
+2022-11-14,2010,0.8589,0.878,4,-32.8327,0,0.17291,0.692596,0.142814,8.971272,2178,false,false,Rapid Runway,14,Starlight Symphony,B,dorian minor,Bmaj
+2021-06-20,2017,0.7731,0.829,12,-75.9642,0,0.53875,0.935693,0.33749,2.415139,956,true,false,Quick Path,10,Golden Horizon,C,dorian minor,B major
+2022-05-23,2014,0.32,0.081,7,-44.2198,1,0.62932,0.614943,0.514638,9.097944,6217,false,true,Fast Track,14,Midnight Serenade,C,phrygian minor,B major
+2024-02-07,2011,0.4373,0.995,11,-48.2576,1,0.59204,0.995834,0.585717,9.537523,4264,false,false,Speedy Lane,4,Neon Nights,D,ionian major,Bmaj
+2023-09-04,2014,0.9816,0.869,4,-64.5772,1,0.96882,0.17524,0.247547,1.572255,3438,false,false,Fast Track,10,Midnight Serenade,D,phrygian minor,B major
+2021-03-03,2013,0.8382,0.536,4,-70.0722,1,0.91238,0.09186,0.821354,3.890666,6868,false,false,Quick Path,18,Starlight Symphony,C,mixolydian major,B major
+2022-02-27,2008,0.5787,0.749,15,-33.679,0,0.43639,0.803284,0.591655,9.807359,4832,false,false,Fast Track,11,Midnight Serenade,D,pentatonic major,Bb major
+2022-05-25,2006,0.8449,0.557,8,-21.9596,1,0.1628,0.217534,0.426067,5.662952,2775,true,false,Speedy Lane,3,Sunset Dreams,C,harmonic minor,B# minor
+2021-09-04,2013,0.6975,0.356,5,-36.2449,0,0.33141,0.23463,0.135362,2.513106,6780,false,false,Quick Path,7,Golden Horizon,B,ionian major,B minor
+2024-04-07,2020,0.4735,0.377,7,-4.1206,0,0.26471,0.260202,0.806435,5.72702,3847,true,true,Speedy Lane,9,Midnight Serenade,B,mixolydian major,B# minor
+2021-04-23,2003,0.6485,0.106,14,-83.9416,1,0.26358,0.947573,0.860252,2.602776,3254,true,true,Swift Circuit,9,Neon Nights,C,phrygian minor,Bmaj
+2022-05-14,2014,0.7298,0.545,6,-58.5205,1,0.69316,0.417383,0.365456,4.730733,3054,true,true,Quick Path,3,Wildfire Echoes,B,ionian major,B# minor
+2021-02-01,2010,0.9559,0.743,20,-88.2436,1,0.81201,0.318763,0.831154,9.531496,9415,true,false,Speedy Lane,9,Golden Horizon,D,dorian minor,B# minor
+2022-04-04,2005,0.9957,0.063,12,-90.2322,0,0.71737,0.214964,0.379248,6.047515,9780,true,true,Swift Circuit,12,Sunset Dreams,C,aeolian minor,Bm
+2023-06-22,2004,0.3751,0.203,14,-2.9566,0,0.57451,0.944921,0.802389,4.454521,8302,true,false,Quick Path,15,Velvet Twilight,A,ionian major,Bmin
+2023-08-27,2013,0.0804,0.335,9,-8.8178,1,0.68932,0.229796,0.510162,6.187445,6461,true,false,Fast Track,8,Electric Pulse,D,locrian minor,B major
+2021-05-29,2014,0.7559,0.571,9,-72.3125,0,0.00644,0.313485,0.507688,5.299134,2932,false,false,Fast Track,3,Wildfire Echoes,C,pentatonic major,B# minor
+2020-12-06,2003,0.6687,0.586,9,-57.06,0,0.21458,0.402513,0.939659,2.591203,4429,false,true,Quick Path,13,Wildfire Echoes,B,dorian minor,Bmaj7
+2022-09-16,1997,0.8456,0.861,19,-1.0212,1,0.48361,0.016877,0.200824,1.696668,6909,true,true,Swift Circuit,2,Starlight Symphony,D,harmonic minor,Bb minor
+2023-11-07,2011,0.0003,0.998,16,-19.5273,0,0.39379,0.758432,0.26144,9.612314,6864,false,false,Speedy Lane,6,Golden Horizon,A,mixolydian major,B major
+2021-10-26,2011,0.48,0.293,7,-78.8471,1,0.94889,0.154963,0.908765,8.159639,5072,true,false,Quick Path,2,Moonlit Melodies,D,harmonic minor,Bb minor
+2021-04-28,2011,0.1978,0.591,3,-42.1668,1,0.39706,0.508183,0.036909,5.083995,9909,false,true,Speedy Lane,16,Moonlit Melodies,D,harmonic minor,Bb minor
+2022-07-27,2013,0.0233,0.152,5,-17.5745,1,0.84915,0.326546,0.932638,6.799783,6278,false,true,Swift Circuit,7,Sunset Dreams,B,ionian major,B minor
+2023-10-17,2012,0.7203,0.21,9,-88.7198,1,0.50846,0.991473,0.783737,4.12227,2722,true,false,Rapid Runway,11,Crystal Waters,A,pentatonic major,B# major
+2021-09-05,2010,0.2453,0.908,17,-68.0936,1,0.20693,0.316535,0.354306,4.98376,9409,false,true,Quick Path,2,Golden Horizon,B,mixolydian major,Bb major
+2021-03-10,2014,0.615,0.007,19,-2.1798,1,0.8269,0.77906,0.239345,5.019809,6857,false,false,Speedy Lane,12,Crystal Waters,D,ionian major,Bmin
+2022-08-08,2014,0.4318,0.153,11,-26.7258,0,0.3042,0.042638,0.35342,2.425708,3806,false,true,Swift Circuit,13,Moonlit Melodies,D,harmonic minor,B# minor
+2023-06-29,2013,0.1971,0.259,10,-34.1484,1,0.68223,0.08357,0.879225,7.79156,5465,false,false,Swift Circuit,1,Crystal Waters,A,melodic minor,Bmin
+2022-12-08,2011,0.1491,0.679,17,-85.6802,0,0.86361,0.475414,0.137131,7.840969,354,true,false,Swift Circuit,16,Moonlit Melodies,C,melodic minor,Bmaj
+2021-11-03,2020,0.432,0.515,18,-72.719,0,0.00561,0.765021,0.191085,1.146818,2264,true,false,Speedy Lane,4,Crystal Waters,A,mixolydian major,Bmaj7
+2022-04-18,2009,0.6442,0.705,18,-20.0,0,0.68882,0.798415,0.101541,1.466122,6351,true,false,Speedy Lane,2,Wildfire Echoes,A,ionian major,Bmin
+2023-04-15,2009,0.7731,0.163,17,-68.5012,0,0.87237,0.437692,0.813279,2.860211,5772,true,true,Fast Track,9,Neon Nights,B,ionian major,B# minor
+2023-11-26,2011,0.8317,0.111,13,-72.9411,1,0.3084,0.263094,0.028409,7.591322,6584,false,false,Swift Circuit,15,Crystal Waters,B,melodic minor,Bmin
+2021-03-06,2020,0.2502,0.938,2,-88.9398,0,0.99722,0.947033,0.82588,2.813566,3257,true,true,Fast Track,4,Crystal Waters,A,locrian minor,B# minor
+2024-03-20,2018,0.5451,0.904,7,-22.1218,1,0.13309,0.146399,0.132555,3.441241,3074,false,false,Speedy Lane,2,Electric Pulse,C,aeolian minor,B major
+2022-08-14,2016,0.287,0.571,3,-47.1832,1,0.89538,0.343252,0.444269,2.195956,1127,false,true,Fast Track,3,Crystal Waters,D,phrygian minor,Bb major
+2023-02-15,2016,0.5313,0.014,9,-74.6501,0,0.67218,0.603256,0.893658,1.65046,225,false,true,Swift Circuit,11,Golden Horizon,D,harmonic minor,B# major
+2024-01-04,2012,0.9388,0.266,8,-62.1348,0,0.47449,0.232014,0.835744,8.064299,8268,true,false,Rapid Runway,8,Crystal Waters,C,harmonic minor,Bmin
+2023-08-22,2015,0.0259,0.044,17,-93.668,1,0.77522,0.821681,0.302162,3.816715,3721,false,false,Quick Path,2,Moonlit Melodies,D,ionian major,B major
+2021-10-16,2020,0.3543,0.947,4,-53.2544,1,0.72083,0.010501,0.844463,8.272281,7358,false,false,Speedy Lane,10,Golden Horizon,B,mixolydian major,Bmin
+2021-01-30,2013,0.0901,0.424,7,-9.467,1,0.14245,0.200881,0.474897,2.382688,5842,false,false,Quick Path,7,Wildfire Echoes,D,aeolian minor,B# major
+2022-01-02,2010,0.6808,0.144,2,-64.8291,0,0.45873,0.507887,0.038357,5.202676,9610,false,true,Swift Circuit,19,Golden Horizon,C,locrian minor,B# major
+2023-08-01,2019,0.5323,0.434,3,-80.688,0,0.81861,0.35067,0.511483,9.69164,552,false,true,Swift Circuit,7,Moonlit Melodies,C,harmonic minor,Bmaj
+2022-02-27,2002,0.9764,0.696,4,-92.214,0,0.52053,0.657385,0.500815,0.576368,4955,true,true,Swift Circuit,11,Midnight Serenade,B,pentatonic major,B# major
+2021-07-01,2018,0.7615,0.294,15,-31.5372,1,0.52007,0.932826,0.107496,4.832014,9592,false,false,Speedy Lane,5,Crystal Waters,B,dorian minor,B# minor
+2023-09-08,2003,0.7053,0.523,8,-5.7535,0,0.82382,0.329677,0.133918,2.791103,767,false,false,Rapid Runway,17,Electric Pulse,C,ionian major,B minor
+2022-01-23,2011,0.695,0.238,8,-83.8338,0,0.55985,0.929186,0.091252,2.907498,6750,false,true,Rapid Runway,17,Starlight Symphony,A,ionian major,Bb major
+2022-11-25,2020,0.908,0.051,15,-55.8084,1,0.4439,0.299412,0.448408,7.740157,5917,true,true,Rapid Runway,9,Neon Nights,A,mixolydian major,B# minor
+2023-01-26,2004,0.0308,0.845,10,-51.0333,1,0.42042,0.449272,0.658111,5.239745,680,true,false,Rapid Runway,7,Crystal Waters,B,phrygian minor,Bmaj
+2021-01-28,2020,0.7015,0.812,15,-14.2609,0,0.54165,0.389059,0.537771,4.459364,9253,false,false,Rapid Runway,13,Velvet Twilight,C,phrygian minor,B# major
+2021-03-18,2004,0.6545,0.413,2,-84.9573,0,0.8013,0.360895,0.862248,1.692275,269,false,true,Quick Path,20,Golden Horizon,D,mixolydian major,Bmin
+2024-02-28,2013,0.4376,0.908,10,-62.8793,0,0.13475,0.420508,0.967591,2.074135,6280,false,false,Fast Track,5,Electric Pulse,A,mixolydian major,B# minor
+2021-11-17,2013,0.4102,0.782,5,-9.3507,1,0.0367,0.66766,0.182938,4.734678,2522,false,true,Fast Track,13,Sunset Dreams,B,lydian major,B# major
+2021-03-02,2014,0.6915,0.313,4,-12.1609,1,0.70437,0.74538,0.459147,0.564522,9002,true,true,Rapid Runway,19,Starlight Symphony,C,harmonic minor,Bb minor
+2022-08-04,2009,0.3436,0.556,13,-7.0566,1,0.31284,0.870506,0.711657,5.960548,1801,true,false,Rapid Runway,2,Neon Nights,B,phrygian minor,Bb major
+2023-02-11,2007,0.717,0.873,16,-6.6083,0,0.33566,0.958185,0.306345,6.712351,7325,true,true,Quick Path,2,Velvet Twilight,D,ionian major,Bb major
+2021-02-16,2014,0.8869,0.049,7,-12.2457,0,0.11262,0.902693,0.129912,7.986274,7845,true,true,Swift Circuit,18,Midnight Serenade,C,phrygian minor,B minor
+2022-11-11,2017,0.9849,0.919,15,-99.3871,0,0.42691,0.318071,0.786696,4.393206,2216,true,true,Rapid Runway,7,Moonlit Melodies,A,melodic minor,Bmin
+2022-12-21,2017,0.5843,0.601,18,-85.5458,0,0.94559,0.89356,0.261675,2.224378,9385,false,false,Speedy Lane,4,Midnight Serenade,A,pentatonic major,B# minor
+2023-04-30,2006,0.5736,0.938,12,-87.8037,1,0.63127,0.77076,0.263597,7.177759,699,false,false,Speedy Lane,14,Midnight Serenade,B,ionian major,B minor
+2023-08-16,2012,0.8911,0.968,13,-70.0366,0,0.91172,0.000396,0.366918,6.724383,4792,true,false,Swift Circuit,13,Velvet Twilight,D,pentatonic major,B major
+2023-03-01,2012,0.669,0.359,14,-1.8715,0,0.2793,0.394222,0.797142,2.629889,9728,true,true,Quick Path,8,Starlight Symphony,D,pentatonic major,Bb major
+2023-01-15,2014,0.7178,0.814,5,-59.5364,1,0.85493,0.379466,0.500256,7.820156,6968,true,false,Swift Circuit,15,Neon Nights,D,ionian major,B major
+2024-02-15,2015,0.1743,0.913,3,-87.2886,0,0.50784,0.369016,0.763639,5.306205,8155,false,false,Speedy Lane,17,Velvet Twilight,D,locrian minor,Bmaj
+2022-03-15,2014,0.2329,0.505,4,-62.3619,0,0.39846,0.498557,0.124936,2.851668,74,false,true,Quick Path,12,Moonlit Melodies,A,dorian minor,Bmaj7
+2021-07-25,2010,0.9348,0.93,5,-63.7598,0,0.79858,0.407098,0.768654,4.37473,5362,true,true,Rapid Runway,19,Sunset Dreams,B,locrian minor,Bb major
+2021-10-17,2012,0.9125,0.809,17,-79.7621,0,0.76182,0.823627,0.447906,5.96324,9269,true,true,Speedy Lane,6,Moonlit Melodies,A,melodic minor,Bmin
+2021-01-15,2015,0.523,0.393,1,-74.4008,0,0.92171,0.117991,0.456398,4.02651,1738,false,false,Speedy Lane,20,Midnight Serenade,D,harmonic minor,B major
+2023-01-28,2018,0.391,0.434,20,-41.1908,1,0.10387,0.273268,0.233725,2.546197,2969,true,true,Quick Path,9,Sunset Dreams,C,lydian major,Bmaj7
+2022-09-26,2014,0.3937,0.388,6,-64.9209,1,0.90924,0.273569,0.608387,2.930075,1601,false,false,Speedy Lane,4,Midnight Serenade,C,melodic minor,B major
+2022-07-04,2017,0.1246,0.229,3,-32.7588,1,0.13372,0.849526,0.0933,0.348178,2826,false,true,Quick Path,19,Midnight Serenade,A,pentatonic major,B minor
+2023-06-13,2012,0.0672,0.655,19,-60.3018,0,0.46681,0.691745,0.156553,5.145637,3509,false,true,Swift Circuit,17,Wildfire Echoes,A,mixolydian major,B# minor
+2023-09-17,2014,0.5759,0.843,18,-91.6952,0,0.23445,0.955232,0.395912,1.957229,2873,false,false,Quick Path,1,Electric Pulse,B,aeolian minor,Bmaj
+2022-06-16,2015,0.3695,0.024,15,-59.7206,1,0.76775,0.67189,0.676925,6.042071,7239,false,false,Swift Circuit,10,Velvet Twilight,A,dorian minor,B# major
+2022-12-06,2003,0.6318,0.188,14,-67.7014,0,0.04649,0.640011,0.229342,5.858327,9085,true,true,Quick Path,17,Wildfire Echoes,B,aeolian minor,Bb minor
+2021-07-31,2012,0.1196,0.016,4,-47.7548,1,0.22897,0.673621,0.58716,8.446543,2942,false,true,Quick Path,14,Moonlit Melodies,C,harmonic minor,B# major
+2021-05-23,2016,0.145,0.958,18,-22.9607,0,0.91371,0.562562,0.328122,1.208137,1757,false,false,Fast Track,19,Crystal Waters,B,mixolydian major,Bb minor
+2022-09-27,2008,0.949,0.272,11,-37.914,1,0.85232,0.585839,0.997331,7.927708,18,true,false,Fast Track,1,Wildfire Echoes,B,dorian minor,Bb major
+2023-07-11,2016,0.5095,0.203,10,-24.6108,0,0.3248,0.978269,0.24315,5.16291,75,false,false,Quick Path,20,Neon Nights,C,harmonic minor,Bb major
+2022-02-02,2019,0.8343,0.772,15,-78.1677,1,0.94009,0.997438,0.870117,1.091376,7852,true,true,Rapid Runway,8,Velvet Twilight,C,lydian major,B# minor
+2022-11-29,2020,0.4801,0.621,18,-6.9181,0,0.53305,0.426866,0.421274,2.292201,7722,false,false,Swift Circuit,15,Crystal Waters,D,mixolydian major,B minor
+2023-05-09,2013,0.9661,0.641,4,-96.2554,0,0.21877,0.678073,0.692923,6.036559,3401,false,true,Fast Track,17,Starlight Symphony,A,mixolydian major,Bmin
+2022-03-24,2016,0.664,0.662,11,-51.0625,1,0.46782,0.166391,0.613852,2.58457,4205,true,true,Quick Path,17,Golden Horizon,C,lydian major,Bmin
+2023-04-25,2003,0.4337,0.882,10,-58.2892,0,0.05864,0.02258,0.792758,0.336903,3344,false,false,Speedy Lane,16,Velvet Twilight,A,mixolydian major,Bb major
+2022-05-14,2008,0.2592,0.004,8,-11.9494,0,0.00473,0.81684,0.748146,6.803089,3687,false,true,Rapid Runway,1,Moonlit Melodies,C,harmonic minor,Bb major
+2022-06-07,2018,0.92,0.563,1,-57.6264,0,0.61291,0.151523,0.001599,2.487028,6316,true,false,Fast Track,4,Neon Nights,D,lydian major,B# major
+2021-11-05,2007,0.5024,0.467,8,-14.8507,0,0.18319,0.487114,0.798521,4.142754,3580,false,true,Fast Track,13,Neon Nights,C,pentatonic major,Bb major
+2023-10-14,2012,0.2237,0.331,17,-16.7319,0,0.30381,0.530949,0.915729,7.507398,4661,true,true,Fast Track,10,Neon Nights,D,phrygian minor,Bm
+2021-01-24,2004,0.8224,0.379,3,-35.9173,0,0.77258,0.833146,0.154157,5.411456,5875,true,true,Quick Path,17,Midnight Serenade,D,aeolian minor,Bb minor
+2023-04-09,2016,0.4248,0.042,7,-21.7486,0,0.39334,0.94384,0.790809,1.431947,8231,true,true,Fast Track,15,Moonlit Melodies,D,melodic minor,B minor
+2022-04-01,2009,0.8487,0.546,20,-71.6693,1,0.10051,0.064316,0.551927,7.115421,1940,false,false,Quick Path,12,Moonlit Melodies,A,harmonic minor,B# minor
+2022-05-04,2015,0.1655,0.369,9,-60.9453,0,0.82965,0.653722,0.859134,7.90069,9761,true,false,Speedy Lane,11,Velvet Twilight,A,mixolydian major,B major
+2021-01-29,2013,0.6122,0.002,3,-50.1275,0,0.23633,0.624176,0.015538,2.148974,2860,false,true,Quick Path,10,Midnight Serenade,A,aeolian minor,Bb minor
+2022-07-08,2011,0.8682,0.877,16,-52.8362,0,0.06267,0.81873,0.108816,5.541574,3956,false,true,Fast Track,11,Crystal Waters,C,harmonic minor,B minor
+2022-04-24,2017,0.9856,0.534,6,-66.0254,1,0.73733,0.712525,0.354771,8.21256,9801,false,true,Fast Track,4,Starlight Symphony,B,ionian major,Bmaj
+2022-09-03,2015,0.6609,0.458,12,-19.178,0,0.36751,0.529603,0.489993,8.13404,7751,false,false,Quick Path,12,Wildfire Echoes,A,dorian minor,Bb major
+2021-09-26,0,0.3393,0.192,13,-81.8832,0,0.59381,0.807957,0.514854,2.176996,9881,false,false,Quick Path,20,Velvet Twilight,B,phrygian minor,Bb major
+2022-03-14,1999,0.1453,0.073,19,-1.0728,0,0.77001,0.631331,0.149796,2.015782,8883,true,true,Swift Circuit,1,Starlight Symphony,D,pentatonic major,B# major
+2023-12-09,2014,0.8188,0.93,2,-90.2912,0,0.47527,0.599924,0.416885,2.830005,7299,true,false,Rapid Runway,13,Wildfire Echoes,C,ionian major,B minor
+2022-03-16,2012,0.7759,0.359,13,-8.7524,1,0.43272,0.584078,0.886034,8.315207,1192,true,true,Swift Circuit,12,Golden Horizon,D,phrygian minor,B# minor
+2021-05-05,2014,0.6627,0.617,14,-70.9711,0,0.64844,0.158071,0.404209,8.86162,8446,false,false,Quick Path,15,Neon Nights,D,locrian minor,B# minor
+2024-04-03,2015,0.9802,0.568,7,-15.9627,0,0.82141,0.810579,0.639344,0.122714,7893,false,false,Quick Path,15,Starlight Symphony,A,mixolydian major,B minor
+2021-11-04,2017,0.0595,0.113,2,-95.9563,1,0.65154,0.352148,0.158132,0.378393,5796,true,true,Rapid Runway,3,Midnight Serenade,A,locrian minor,Bm
+2022-09-28,2014,0.7566,0.072,5,-37.5804,0,0.72913,0.200656,0.424166,1.022534,4521,true,true,Fast Track,9,Moonlit Melodies,B,phrygian minor,B# minor
+2021-12-07,2017,0.4492,0.974,16,-83.2421,0,0.60934,0.502426,0.341442,6.473312,8811,false,false,Quick Path,14,Golden Horizon,D,pentatonic major,Bm
+2023-05-22,2012,0.4284,0.17,15,-98.7246,1,0.6088,0.484776,0.550723,0.87351,3658,false,true,Rapid Runway,7,Moonlit Melodies,D,dorian minor,Bmin
+2023-02-06,2005,0.1951,0.927,7,-93.5169,1,0.46779,0.990063,0.116874,4.522173,1226,true,false,Fast Track,4,Starlight Symphony,A,melodic minor,Bmaj
+2021-05-20,2013,0.0986,0.788,18,-34.8491,0,0.50563,0.648682,0.382898,5.89076,1788,false,true,Swift Circuit,19,Neon Nights,D,pentatonic major,Bm
+2023-08-04,2011,0.5892,0.279,6,-85.0944,1,0.44644,0.625382,0.324527,3.746222,4007,true,false,Swift Circuit,12,Velvet Twilight,B,aeolian minor,Bb major
+2022-12-24,2006,0.6349,0.942,4,-44.0246,1,0.80212,0.412229,0.891687,7.79278,4192,false,true,Swift Circuit,1,Moonlit Melodies,D,mixolydian major,Bb minor
+2023-09-26,2013,0.7563,0.156,18,-79.6387,1,0.36741,0.841151,0.012123,7.647956,343,true,false,Rapid Runway,10,Sunset Dreams,D,lydian major,Bm
+2023-02-09,2015,0.6007,0.739,8,-41.3548,1,0.5895,0.277149,0.518604,7.691672,3630,true,false,Quick Path,4,Golden Horizon,D,mixolydian major,B# minor
+2021-04-29,2011,0.1556,0.924,5,-93.5306,0,0.93691,0.401573,0.90286,9.957325,8183,true,false,Quick Path,20,Neon Nights,D,harmonic minor,B major
+2022-06-29,2013,0.0807,1.0,14,-48.7475,0,0.09266,0.524426,0.782418,4.630012,2843,true,false,Swift Circuit,1,Neon Nights,C,pentatonic major,Bb minor
+2023-03-15,2005,0.8884,0.853,10,-25.7768,0,0.84,0.899795,0.512531,9.384943,495,false,true,Rapid Runway,18,Velvet Twilight,D,aeolian minor,Bm
+2022-07-13,2002,0.2185,0.352,7,-20.1973,0,0.23211,0.127455,0.377677,1.253616,8617,false,true,Speedy Lane,2,Midnight Serenade,D,aeolian minor,B major
+2022-07-27,2014,0.1711,0.398,16,-95.5996,1,0.74026,0.618123,0.163503,1.175968,474,true,false,Speedy Lane,3,Moonlit Melodies,B,ionian major,B major
+2021-05-17,2015,0.5202,0.9,19,-55.7095,1,0.77748,0.549882,0.47631,0.582231,7962,false,false,Rapid Runway,20,Neon Nights,B,melodic minor,B# minor
+2021-12-26,2019,0.2519,0.392,2,-42.5897,1,0.29724,0.244937,0.579573,4.553318,1862,true,true,Speedy Lane,20,Starlight Symphony,C,dorian minor,Bmaj7
+2021-08-30,0,0.1202,0.2,18,-38.9251,1,0.31337,0.016213,0.289639,1.4938,7747,true,true,Rapid Runway,10,Starlight Symphony,C,phrygian minor,B major
+2022-04-16,2007,0.7946,0.17,4,-95.7732,1,0.29327,0.116349,0.188536,1.483266,850,true,true,Fast Track,5,Wildfire Echoes,D,melodic minor,B# minor
+2022-11-03,2014,0.2477,0.231,9,-18.0935,1,0.71933,0.632023,0.620239,4.938718,6201,false,true,Swift Circuit,9,Neon Nights,A,phrygian minor,B# major
+2021-08-11,2011,0.7785,0.292,12,-58.9994,0,0.73096,0.016987,0.478391,6.737827,3316,false,false,Rapid Runway,18,Golden Horizon,B,mixolydian major,B major
+2022-10-29,2005,0.2417,0.103,10,-57.9319,1,0.13266,0.909126,0.565883,5.324242,5331,true,false,Swift Circuit,2,Velvet Twilight,A,melodic minor,Bmaj7
+2021-10-08,2016,0.6579,0.099,6,-86.292,0,0.30657,0.51449,0.930283,3.172469,9270,true,true,Rapid Runway,8,Neon Nights,C,locrian minor,Bmaj
+2022-07-06,2006,0.7147,0.282,10,-66.005,0,0.88744,0.724558,0.479096,5.170233,1789,false,false,Fast Track,17,Golden Horizon,C,aeolian minor,Bb major
+2021-12-03,2011,0.6326,0.067,2,-96.6738,0,0.1745,0.479892,0.155968,7.272378,8336,true,false,Quick Path,7,Wildfire Echoes,C,mixolydian major,B# minor
+2021-12-04,2005,0.3411,0.805,6,-86.3419,0,0.04264,0.296114,0.048607,5.901161,6216,true,false,Rapid Runway,12,Sunset Dreams,B,ionian major,B minor
+2024-02-02,2013,0.526,0.637,14,-43.6534,1,0.79699,0.623291,0.352915,6.946431,7737,true,false,Fast Track,12,Wildfire Echoes,B,ionian major,B minor
+2021-08-02,2017,0.6125,0.751,6,-7.5737,0,0.77871,0.4899,0.763465,6.299502,2493,false,false,Speedy Lane,1,Midnight Serenade,C,ionian major,Bmaj7
+2023-06-21,2011,0.1851,0.768,17,-68.3511,1,0.4421,0.123538,0.499706,8.030033,3560,false,false,Fast Track,18,Sunset Dreams,C,phrygian minor,Bmaj
+2022-05-02,2016,0.8167,0.563,11,-88.0837,0,0.3016,0.73661,0.817699,8.884456,4897,true,false,Speedy Lane,2,Neon Nights,B,locrian minor,Bb minor
+2023-05-20,2014,0.0538,0.056,4,-20.2583,1,0.04225,0.618342,0.471726,0.170451,8970,false,true,Swift Circuit,1,Wildfire Echoes,C,locrian minor,B# major
+2023-11-21,2017,0.6069,0.67,13,-70.8461,1,0.37842,0.384706,0.477896,4.661304,4305,false,false,Fast Track,10,Starlight Symphony,B,pentatonic major,B# major
+2022-03-18,2014,0.5212,0.731,18,-7.605,1,0.29648,0.037511,0.403946,5.457928,1133,false,true,Fast Track,14,Velvet Twilight,D,pentatonic major,Bm
+2024-02-12,2010,0.3916,0.248,13,-19.5425,1,0.47894,0.946231,0.560085,7.701398,502,true,true,Fast Track,18,Crystal Waters,A,lydian major,B# major
+2023-06-10,2008,0.9758,0.001,4,-14.3739,0,0.78072,0.674098,0.575028,5.461038,2050,true,false,Quick Path,6,Neon Nights,C,ionian major,B# major
+2021-08-07,2014,0.1783,0.924,18,-43.5829,0,0.81468,0.972775,0.530754,4.772398,4370,false,true,Rapid Runway,20,Golden Horizon,D,lydian major,B major

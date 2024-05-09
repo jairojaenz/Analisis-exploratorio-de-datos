@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../programacio web 2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "programacio web 2"
+	}
+}
